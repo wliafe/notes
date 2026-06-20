@@ -1,0 +1,11 @@
+{
+  "strictLineBreaks": true,
+  "openBehavior": "new",
+  "attachmentFolderPath": "99-Assets",
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "showInlineTitle": true,
+  "defaultViewMode": "preview"
+}

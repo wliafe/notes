@@ -1,0 +1,1057 @@
+{
+  "generated": "2026-06-20",
+  "group_count": 11,
+  "deleted_child_count": 70,
+  "code_block_count": 406,
+  "groups": [
+    {
+      "old_source": "数据结构/数据结构实现.md",
+      "parent": "40-Knowledge/Computer Science/数据结构实现.md",
+      "parent_sha256_before": "0fbf567c0cf3fd0e23c23fb0d427cf39e66710ef2d539e3c3203e17dc53ded41",
+      "children": [
+        {
+          "path": "40-Knowledge/Computer Science/数据结构实现/栈的实现.md",
+          "title": "栈的实现",
+          "anchor": "栈",
+          "sha256_before": "a2e4834da6ec430e88e92758a3b7a08a997e3b0c5b1f5bcbd12949df50ce09d1",
+          "code_blocks": [
+            "66ef01dc18a252975b2cdfd2361a8f099058026a96ba1ae649c86a4f63191624",
+            "e15d5ae3cae4b42e86a1c1fba36d010ba7fbbd779b7a10dcd08e61693327b438",
+            "de17e2c0188a999c3e67f309f077cc8fd43c877c84fef8b779eb62208715e06c",
+            "854d93ac8a36de83f1a49b0080b87bace6367d85e6419df78355dd3493348bce",
+            "47afa61a66156fe5965785dd41e51817138124a2aa3ddfacc93f8a4037eb4a1a",
+            "a46c975caadae7edf48ad553c69c39fde0f79d0e2e8815d4f294e283e9e601e2",
+            "05c3f7ff7534e7fab0edcf36253126a43d90933411f449a85e732cf0985bb1c1",
+            "aedfa1a8a070198d6da7fca27bd90ac2d0bad834ac8ca48d21e71f8c50f5de43",
+            "b03bddb4f7f60c82a37829a88fae31cd7d6d382755bf9626c82e70113a23e562",
+            "349ecffa78ed12e2e89467ffc27ba371c082dc49f9d0e65b85171e395d338994"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Computer Science/数据结构实现/队列的实现.md",
+          "title": "队列的实现",
+          "anchor": "队列",
+          "sha256_before": "985bba1799f4aaf91a867f4633af6251abc3934d0fd6d472d9ac2ff268449fea",
+          "code_blocks": [
+            "8190c80ae547d6167cf6379f4ffe15d053ddde954b40e26b1a7d97d103bba3e3",
+            "99d1482dc851c722b7370f1295fdee455c003311e7f4c7872d4fbaea8195b7b1",
+            "b5aad1b1e4bfe8c5c8df616c45be5e5a4d49857903af071dd322d316f426c7c8",
+            "3d8f804cbaf14984a0f08357053733b541eb1044c3152c2d2e399aa97dbf3cb5",
+            "572b71299635431a53311049db1d272e974a44602e50f099ce23ff30e5110c4f",
+            "32b7245a50aed5399de988c36c3b4d15449927aa5fb800f2cc1f9f944261a8e6",
+            "ba03458fef43dd74a6001e5f0b83f4eb36f4b3a8bc1738578c451606be9ecab2",
+            "ffa745a4b18a72931bbe783c138303161d8c18b0715b733f3c6cd59c22b12d77",
+            "946a1a88d7623f8a9ca13423a009fab40d5943978b71bd27feafefc45bafa914",
+            "018704049f05690da216d618439a7fde174ead767211dd5c1495c5c612cb7b02",
+            "a6fd356a71c1801eccc4625111f5ee117095d67b4f0beb008a7890d4786a04a9"
+          ]
+        }
+      ],
+      "code_block_count": 21
+    },
+    {
+      "old_source": "机器学习/深度学习.md",
+      "parent": "40-Knowledge/Deep Learning/深度学习.md",
+      "parent_sha256_before": "298f2006fc997b903b18e270279eded0c05655e05160bbadd67b109fc24555f0",
+      "children": [
+        {
+          "path": "40-Knowledge/Deep Learning/深度学习/深度学习资源与 Python 环境.md",
+          "title": "深度学习资源与 Python 环境",
+          "anchor": "机器学习基础",
+          "sha256_before": "df77a54d31bd95e33bdc97a9108a2eb3c967093efaf1afc5fa85c2578d688688",
+          "code_blocks": []
+        },
+        {
+          "path": "40-Knowledge/Deep Learning/深度学习/PyTorch 版本与镜像.md",
+          "title": "PyTorch 版本与镜像",
+          "anchor": "PyTorch环境搭建",
+          "sha256_before": "2aaea83c4e3fba5fa8da0c61327209ddc72e45f119d44de5bcc69b63ed393865",
+          "code_blocks": [
+            "7061ea610412625ebf867c78cba2792ffb3ccd9403fbb6a415c97f3421b602ae",
+            "8074ec9894beca30aa9d29ab726acb87abe678bc750470dda404ecf19df7c28f"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Deep Learning/深度学习/PyTorch CPU 与 cu128 安装.md",
+          "title": "PyTorch CPU 与 cu128 安装",
+          "anchor": "安装命令",
+          "sha256_before": "7c4ac8e95e2d2933f05fd74569b07a620159fd94c5d5bb81742ab678b7a72f56",
+          "code_blocks": [
+            "b574948de42011a6dea222a104a17cf835de4f4ae4ba2fa20960c0ef98dd8f78",
+            "4d9f36176012f03734e24c9df98b7024f5bf404aedc4ae70abc28ab170dbdb2a",
+            "f21d52c54b0c4b9aa0dee029b01c468d673978d004706dad74fc8f948e16f191"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Deep Learning/深度学习/PyTorch cu126 与 cu124 安装.md",
+          "title": "PyTorch cu126 与 cu124 安装",
+          "anchor": "cu126",
+          "sha256_before": "03d9c0b2181d95a078005b5d3d53284d6e4283210a575ccc0daaf7d4e4408559",
+          "code_blocks": [
+            "156b6f341bb71d69f980c561204d0723df8b4e56be32afac579254193cc29cb4",
+            "2004652ac4f4be8fe68ea81f592c4a5fdce1ac5f075cd4011bb53c007fd84eb2",
+            "4e05e05158c99fc46ee2a7973e21851786ea5016ad63e386c864418c873146d7"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Deep Learning/深度学习/PyTorch cu121 安装.md",
+          "title": "PyTorch cu121 安装",
+          "anchor": "cu121",
+          "sha256_before": "3ccf7d746157be60dab33dafe38144834ea481efa404319f555f7391b44c3dec",
+          "code_blocks": [
+            "42eb90788af48e2400713e21c388793a9d66424d4630c0e7c2df3fa8f7638ec3",
+            "eb8ea38bb3e0d325a61ec9af4876b5f24731d78537a08041c183d59f813a20eb",
+            "1d87d903f929fa5ac86fd7857323a601ee1d2e90e218303086e2f6f8d215fe7d"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Deep Learning/深度学习/PyTorch cu118 安装.md",
+          "title": "PyTorch cu118 安装",
+          "anchor": "cu118",
+          "sha256_before": "be04427ea04c58ffca83f1478278e7219a79f1c30915af12c8a15cf35b5c5f17",
+          "code_blocks": [
+            "9d6402b81fde15b95c388bd17babfad7d30f045359cda5a1f12d3f72594cb2f0",
+            "6030f5a122df63ba00d3a5738446668f7f99dce0373e11508d055d2c5a13d76b",
+            "1d8a15b5a1d6e3a5104b19661bad16c84296fd450aa8370571a5706a02cc3e1d"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Deep Learning/深度学习/PyTorch cu117 至 cu113 安装.md",
+          "title": "PyTorch cu117 至 cu113 安装",
+          "anchor": "cu117",
+          "sha256_before": "97db7cd3e1a0d280340575d408946bfa80661995781fc1241ad27477f132e2aa",
+          "code_blocks": [
+            "6b5dd9fe9d2e9bcb06c17f2fea34d777755f0945d6b6b019621702379a3f180f",
+            "f3ca36863b46c045d2c947df1f9023890cc91fa013baefe8a144e7064ee1cc47",
+            "22f46a9219653a5122f1ab2cc86db4b2c22fd2505d6a331823922dcff47d1ed6",
+            "a3b455040bbfd50b8cfc4f083068b1bc5523314d581994207b25ec1e8b24ac84"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Deep Learning/深度学习/PyTorch cu111 与 cu102 安装.md",
+          "title": "PyTorch cu111 与 cu102 安装",
+          "anchor": "cu111",
+          "sha256_before": "2a8ef0946a8730bc61d0b4d9097f1b04e803557c874767ae22fe532cfd550b23",
+          "code_blocks": [
+            "03e21385bac1fee0307198300adddaae33b8abdc8956b8c3ccd18903104d702a",
+            "7a6c969c11180270a088267212d52075a4c312e3d315cbaa0e82cc9e0cf1bfb2",
+            "4d7f1dbdd67338824c5412e6616a0a3e1087360ed7f63d0ad08c22afc73c0f1c"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Deep Learning/深度学习/PyTorch 自选版本安装.md",
+          "title": "PyTorch 自选版本安装",
+          "anchor": "自选安装",
+          "sha256_before": "4e381b12278a7e1a4c080be6ad98be44f16dd2e2df4187758fc9b1827fee5938",
+          "code_blocks": [
+            "134945c68fd08c9fff55657264de8bd41ee7583a57b2b4561d772e9afb6ea01e",
+            "57dcd6d13652f9028e810656fa0a786be5f20383dfd9d4bb6b4676a5388d993b"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Deep Learning/深度学习/TensorFlow 与本地 CUDA 环境.md",
+          "title": "TensorFlow 与本地 CUDA 环境",
+          "anchor": "Tensorflow环境搭建",
+          "sha256_before": "53694e2a07ee9ba12c10d008de6b5d1db24d7880edc1c881f722fe2721c5c895",
+          "code_blocks": [
+            "230c8926dca730a3dc8d18de9f4610ed0d2883eec1ea7f79d85e9c79256eb6d4",
+            "c9c20b1ecb9d02420dc2384d9cb1677501de0b8dcd8593b9238428a5d6c0b5bb",
+            "ddaebf66b9caf80210826497ec23cf904cce48ef6607aa6aff7e465ec36b0a03",
+            "bbfe036ba7d081f0e09c40d7d1819d639c58a06462889880ae749b1813697a41",
+            "7189f77eca29f3ac2adcd65d48671c85f26141d877c7422ca9018b3da6a8ea3d",
+            "deba71ba45735a04beae22d8dd56f132d6b3d962da54f6911be732f33728e7db",
+            "b18ab249e06ef5fd7410bac7ed63a37053700f2ec7f954e7a19daa3108a85ee1"
+          ]
+        }
+      ],
+      "code_block_count": 30
+    },
+    {
+      "old_source": "工具/pip.md",
+      "parent": "40-Knowledge/Developer Tools/pip.md",
+      "parent_sha256_before": "c3c3d2154097e60c766c19060c7ac8f2a02b0af1661ecc563f82398ed065203b",
+      "children": [
+        {
+          "path": "40-Knowledge/Developer Tools/pip/pip 常用命令与镜像.md",
+          "title": "pip 常用命令与镜像",
+          "anchor": "pip常用命令",
+          "sha256_before": "6f623987de1f69d751238ee7a9543a57513b04c6beb50021b845f8b45f792995",
+          "code_blocks": [
+            "8fa0295a13dd53f799c0f4ed7739fd78a30e5f7adaa8e94bcbac876035c28ec2",
+            "b500fff3ae5929f2044ec90749d33d0ed779c922eb59a9a89cabccf39f9399ea",
+            "f3683aec81328493ad14227c66050cbce1c2ad49c56a9f63f167edbf9442f5c9",
+            "0391277710fa4f50edd943cedb18ea5424bcb3c583809d3c0e6aed17859dadb0",
+            "a603166759ca4c00ffd16546ca6b199ed2775590359810cbc3066044d2bc028d",
+            "f7ae36b53b5073b29ebc28c211236996e5c8688b6b3959bf9fd01b740d197204",
+            "44c9adb1a7d564df1fbc6d7bff8dd725ab832509cab26f8a8d1356e79fdca0b1",
+            "5d2c73205117ebac0621811370fc52a3e2738e5fa603218afbb30e191fc3e1f6",
+            "fb00da9ad605bfa69854d44c5d68e9bb7812b3634a37970c9e3eb4c816ae46a5"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Developer Tools/pip/发布 Python 库到 PyPI.md",
+          "title": "发布 Python 库到 PyPI",
+          "anchor": "创建一个库并发布到PyPI",
+          "sha256_before": "8957aba30c54babfe05e3d02dd21e0f3ad9a972d873df10a4c813aaaaf0a7c0c",
+          "code_blocks": [
+            "44fb670ab97c3bedf2d6338340633cfbab315d3e1be3c3a7dae28940c3ec680a",
+            "223b50c98ce4db5728071e1956e60917499fb8600d76e81d5a7bab9b82d29f97",
+            "18343e63bee07014f002895a6fafb4a946e055924dd480670fc78deb938c7b50",
+            "825aba44b618e52f6b8486e9700ee036cbfaf4f97d0396bb5c5ad264bede3183",
+            "cadbc97ffe4b17be7448f05ac5227169a9f16804f4b22b85795a9a9ba29f5a0b"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Developer Tools/pip/使用 Sphinx 编写项目文档.md",
+          "title": "使用 Sphinx 编写项目文档",
+          "anchor": "给PyPI项目添加文档",
+          "sha256_before": "40a57a2cc79c5b347b73c095539456d36e721bd76ae68954dcd2b1cf9b6efa09",
+          "code_blocks": [
+            "25c6c3fbcbecca6e171743a5ceaaa3e6451391cdb8d885c2863b97d9ef894dcd",
+            "9c40d3db3a58d5eeeb183fe31ffd254d436d2401fdbe3d8a01413124b0617db2",
+            "41a47085a562de3fb1b432d445dd0fd65ad640b9c6d9e22d82eaa19d8d875241",
+            "ab0a0a341d2c7b5f7c1aa48457c6009104f8ad364eb2e6c36ff241ba726e51e6",
+            "96d97170c4e616a1d1448c15b63708ea13b5150c8f637cbdad3e642ce1e8d5c9",
+            "8a52298d3a3d8494522e1af452b28f2ef77365051d5afb05b2820f1dd2c9204c",
+            "e9f71e113da00f757ef95ee3a3d2f2e136de0005791f8455bcdad14f356c1c35",
+            "fff14663294686e7ae7517aadf335775ca996360b35528a46683c5f2b4ccb1ba",
+            "b9c377c01e552336b22aebbeec4249af6ab5738c6b9170c1cb34bf66753cfcba"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Developer Tools/pip/Sphinx 主题与 Read the Docs.md",
+          "title": "Sphinx 主题与 Read the Docs",
+          "anchor": "sphinx_rtd_theme主题",
+          "sha256_before": "1250194a88b84631c4ff2ffafc583c7fec3da2f023334c4067d5fa48c814d0fb",
+          "code_blocks": [
+            "ab888eb0ae746edd751516efd332ce94688c725b496f6af00870e5e54ce73e28",
+            "42735d852689f128f44efba4f51fcadaca8450ebf9a3a41a43493b28ad70618c"
+          ]
+        }
+      ],
+      "code_block_count": 25
+    },
+    {
+      "old_source": "工具/shell.md",
+      "parent": "40-Knowledge/Developer Tools/shell.md",
+      "parent_sha256_before": "1732dadb9ede55c97d6e6646f05fa8d715886d817cb4597950e2312181baae33",
+      "children": [
+        {
+          "path": "40-Knowledge/Developer Tools/shell/Shell 概论与注释.md",
+          "title": "Shell 概论与注释",
+          "anchor": "概论",
+          "sha256_before": "395cef73cf677a2f1cd93af5293c8d4e7dd200d64b4dfd430e9c546859e00f31",
+          "code_blocks": [
+            "f013b251ee0684ab69cec30d4b7e745b9806176030763920ce708da18d983e3d",
+            "663e20c54e3b460812227a11681b602901c3fcaee279be4f13bc097d2f28ba28",
+            "7ba218908a46bf3789d853b1e61d8ea94c9a46ad47fa376ab2d2c060084011bc",
+            "b9ca264b06da302a3b4ced7e62c849391647b1acc5d374027e6d1fb2f5fbf08d",
+            "633197f3740cdbc4ff5211c243af6d2e159d508af944620c54504cb38e27b9da",
+            "c02bcd90331f6c12c2899e2691f06d55b9673adad6ebfbcbe3f379ca557acfaf",
+            "3432417d4a9beadf02efb578a399e4d8af7d9bef48c0022cc1b9297c70ad2dee"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Developer Tools/shell/Shell 变量.md",
+          "title": "Shell 变量",
+          "anchor": "变量",
+          "sha256_before": "2e1ea6835f45724e95eb91dd65f9d96065075093732d0ce33bc4f261f75545ba",
+          "code_blocks": [
+            "63ce61fbd3c385da2da728a16aa25f2d6ab9b274beba323aa22e52034cb779a2",
+            "9bc200180c81e9bb13b3c7c36e73a1da191403da40bad13ff5181997c9c52f03",
+            "574da9f94d45c36b8919a2195793bf64a3d93a34217ab2d83806e85099506cfd",
+            "d9f8373e95c963bbbcb1d4a6deac6ca2eb5b287c321de83199b9995ba239b02d",
+            "4afaabdce82238305bbe9d384203359dff87c955574a2b61a61d42eff4572913",
+            "7c31ff1ffbda65ca457d60de308c272d42b022108789b6f6caf18f7d8c9f9a77",
+            "a33b00c2fef44c5b26a932288ea0b42e4bdb2b9b100719a3830df2a3c84ed012",
+            "b5ad028ec069016d2c1a66b8cce67e3097f54bc333bcf7c5c5cd7fd489b7b28a",
+            "d09ca4f190434ccf00dcc1c76f546a2c6b134888a6d73bff71cd8def7f04724c",
+            "91cb58bb3edfcf46c1dea9ff5ca6b9f7948d08bd902be20798eb71ca851e8559",
+            "ab82cf08f02951bb6c13682cf4a1d03927808a636cec537f34f7369b970a8c9c"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Developer Tools/shell/Shell 数组与 expr.md",
+          "title": "Shell 数组与 expr",
+          "anchor": "数组",
+          "sha256_before": "1dc9b98d79e511b1bcf9cb49e8e5d039a57033ed102e8b70f53f8e6257fb6166",
+          "code_blocks": [
+            "e23d822e1c26ee9b6bb2b9d0b40f7e245b19ead407f8d9821323ec1f539ad5f2",
+            "13140db90de6b544ca9be5bd49a01d8a2cdf6cec9b6b131f6ddcd1f19d6743c0",
+            "2387dc1c0b8dcbe7c3475e6a6aeb42ed50863d1f9a128a701aec57541ad05f33",
+            "f911d74e5de805ef114a50f01603b89c6b94af3790cb914ecccdb374f285bf8d",
+            "f5e04d1ad0c85f6c4a8f1d97fbe347b44c9f400b4d9ebf9e391eee900f12b7f2",
+            "3ec7a3869aa34582db82ff86eb9e1ad2d8d024ff56bd5f05c82b74d8e78b78e5",
+            "f883743041ab9bfe3b940b0807562e7f1961ae4f478fd93ba3b9affe9c54bc37",
+            "31308dd864dfffe6b698b108c73bbf73ca479a152a1870747149a04542f36f54",
+            "c19c056cf03ae9fc6420461b9f78179fdc1a0f4678fd21fb08bab1d0072e312b",
+            "5f8d6fe4119af91ab79c5ffa2da16b0cce240cbe320c602ee7ac1fc51d7c456c",
+            "7f3e097eaf7f93a0c07ec5b84f4499fea1e0052f7be31b87ab0b2e54a7c0d9c1",
+            "d9bc0548c6934dfb9776287f114da8e12a555c3ef883c02c10e675058b582c89"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Developer Tools/shell/Shell 输入输出命令.md",
+          "title": "Shell 输入输出命令",
+          "anchor": "read命令",
+          "sha256_before": "b3b63f24bcbd25b570da05d9a8fff229cb8219b59b285e7cfb48d12f5dc934f8",
+          "code_blocks": [
+            "2926e1de640a96b46987d877d2fafc2986039a7393fb7547eca03186de9ece71",
+            "908b4625f90a225422d9b663aa8912782c25a2b82f7e21d12715769760caed9a",
+            "dc684ff1ff15d18731124b0a5532651a6a096db1257b5d20979d852c3ae24d5a",
+            "154f885b929f091ebadf67e1b4f96dc4a4eac82523c3ce2e010d75afb04ae94e",
+            "000d969183dbfa83c97a06e1314addd560c3ef1ff1e12fa4c7ab73f822ddcead",
+            "c431228bdea6e63c1a8e6619ce7d35dae3e6b021e28c708df1e385b75d6bd774",
+            "1616554cf03de7497dac2266bc40082289b52b2fc4c67ce0f2037eec291f36f6",
+            "4b6c85e69280e809613285cf37a4ae3f319d029694af120fc9090418d48313f5",
+            "76b8dbb988d0ba2df898163a72fc8d07d823bfb60202573cf91d10f8186fdf35",
+            "1fb4ea242ae303f1bbc0466643b2c5de46fef34d256cfe370c3f5e46e7b31388",
+            "b4e6b0950bdae87a0dd3d79b8fe09aef9ce5f3add33ec84022ae0d30e73516fa",
+            "ebfec4c32276bd71e8a9570a39e823c2ce04da46530125aabfed9e68d015d10f",
+            "40a1a32b70022ed4cfccea029b8581ae0b767f7a0470aa3124930eb3e208cc1e",
+            "b90e975ea43276d777a710206dab55194208f48a45ca4a3a14af7e74255cadf3",
+            "4dd0a2306a704c0f51bd2ef081a840533872a3624d6dc1dbdedde3a2fa95d67a",
+            "e661d1d7058de3c1220d60644a877d8014bf84442868c69094d6528e009a1d71",
+            "169700e7af555877e2022555397bd7ed0ce6a2f0ac3cef3182fc0818b395a71a"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Developer Tools/shell/Shell 条件测试.md",
+          "title": "Shell 条件测试",
+          "anchor": "test命令与判断符号[]",
+          "sha256_before": "edc4b19d891ea4417072f8b0f0d01e8eb2745e942a1545d9f18f9217f8089d92",
+          "code_blocks": [
+            "7aae4c55018718cd3aee29b24a15248341b2422c6a4890597aeb3df6f86570fa",
+            "3b6723a4f2f12117aaad22ddb1d9baba1ce7f95d03f1cad9f42aff8a67cfdea5",
+            "b4aab6806863df22c9145db65739209a2ca9d200d4941e9e290450c827e6bf01",
+            "a54b23dc9f507a64466ab3fa12e80c4498d25c1a52177445cecd16be409df03b",
+            "c97a3f2f488901fdf8641f92566d13d6cffef7af352a1376a34d668117fdc336",
+            "5b3a316c2497882ea8aea0bd0ede79d1df328fa53d5c3f0b531a6c059772402a",
+            "69ac846586c5c8edac358dea5ad014c2d9767caba7b16d3ea6e55f016a003fd9",
+            "dc023144eb32bacd1b19839ae1475023aed28c03d93fdd04717dbe9d16c9861d",
+            "23b3abb04d6b27c2c53fa8f2acfb033ddbbe7d7bac69643473c1eb6412413f07"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Developer Tools/shell/Shell 判断语句.md",
+          "title": "Shell 判断语句",
+          "anchor": "判断语句",
+          "sha256_before": "75965888f0f8e5a22aa9991dbd6c039607059af2a6317b6e56342f453d3809d0",
+          "code_blocks": [
+            "8ef7cc3617dadf17bc434c02b897687053470e4ee4e977f207930918daf8f020",
+            "3a1dedccbaa522c69a718c51ebd7cd94f8fe2931265bd0f6ef656c87ea0be428",
+            "1774888f3f327f689a156c84a2ea261bf4c98b33310a4ff88f067fbeb626d937",
+            "0925fb4e68292d84f642fbd372a9c6e0abb95057ed997b2cacb45dd545c39832",
+            "4a98513c95d189b42f930c13bc13db70f9cbfe56827470ce3a7e29adfde315c1",
+            "a4b8cba1cfdde2853541adce2c78b1405a990e1affacab2697859128823120d5",
+            "291bbb8961e0502210b3e4ce17c865b35cae1067d3bff0874a593e15846a32a5",
+            "3b3f01fed22c8dc1689d4b317df8c4bde5bc723c391e56bc225d230906d3afcf",
+            "33b0d2628761bacceab791d1cc3c6f44670ca4407b4cf1ffecc1928069921924",
+            "a9174c8f80ebd07583833ae709bb35af418f9ffa4178546eafb4737231657f74",
+            "bfece3bde76f025412b4709986543e18b9f0e36803b8e59cc3db90357a54bd0d",
+            "33b0d2628761bacceab791d1cc3c6f44670ca4407b4cf1ffecc1928069921924"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Developer Tools/shell/Shell 循环语句.md",
+          "title": "Shell 循环语句",
+          "anchor": "循环语句",
+          "sha256_before": "c91d69b28de1fb1aa4b369cba73113c240c8b18c89671159cb90eb1ade8fd87f",
+          "code_blocks": [
+            "08b5a7df44ba1630d091991815b426b8525dc6c600e467683e0744d5e5e39da5",
+            "9b9f880032778b5a3ee02d6d5a6c61facacb1bc203c3e07afc9d7011c5110020",
+            "63356fabbdb0e331df9aeb4a38f2f24ad1f9ac7e79c8ae02b3ecf21569071046",
+            "b9470dbf48b06626888a235a2aee1fdb910a158527fa642f0560517e6350e270",
+            "0ae8969f0ba40d9b0d8ff09e72f834cb4d31cc111be157978ebf45a223791591",
+            "6b81ff71386421cb906e9e863bbe08bd9f9bef8e8105884af821a420e3aac46d",
+            "f77ecda9de7de783b0ef52e4d201b234202ae6d9e3901a48267d203f7ff624ca",
+            "772eb52c26a858e0c81eeabb84bfd9e959793c3d073f7ad7e7008035ece8ae24",
+            "d0dc6766c587da32cec2aa9f6b5ec4369ba3087ec4ff0cc205f45ee765327e1b",
+            "d0c57123cbf132719b7e2d248f6f2a03c18e2c5a0208b6f1c0569eba066ee262",
+            "7bbfd5effd644b2e34b3bc8809f38f033f1bea55867d15ed1e6dd1bf76492d02",
+            "f227f42845489878061ec03df668c7b279c46a2960ec5073488f0756809aec5b",
+            "a96afe31e5e23e792e0a20198f312f025cf2df165ae0d6c5314b176b9d9bf312"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Developer Tools/shell/Shell 函数与退出.md",
+          "title": "Shell 函数与退出",
+          "anchor": "函数",
+          "sha256_before": "cb895af722c64979146f8737820787674c6e24f776f446296916762874b6872d",
+          "code_blocks": [
+            "a4d3588c23d996e03c269f71020bfca2c3b44db3fb9d0801510f5afa611cdad9",
+            "5912ff00a323819d082255ddd8ab0b1453f875d9907e04ed1f282830ae727625",
+            "d312f34dfd1819015ef8da6d644c5dcbfc9beeee713b574e72a981a03d34e911",
+            "781b0c988a0fe7d5521fa7e6da89a12fca259ff037ed884a8621e9d13db3083d",
+            "148b76f01112366c4f7b29533ce4c9ea1e91a5547f9e987c87675aa896c6784d",
+            "924437813777df7ddc997e83c8ecd72fac6db8b5c030a2a7a2bfaa236a3c79be",
+            "f1d6290257d8723ef57b277e58eb63ad53970caef3cdab02446529d96c2b5423",
+            "da53864b4a490db6ac1623b8439e9886d59af32ea18bcbee8ebdbcd093c19c44",
+            "32113dc653f86bb7caa55019f5c8c9927531068578836b05c51c39049f9886eb",
+            "ecd8266385b291b8a7cb51666fda89f62c64491b95fdd7fd224ae73a02846275",
+            "8a0089182efefa830c099bf162e5d1fe8030595a4c9af85af4bd276a321c3393",
+            "a59640e81ca3033f8b3d8bf339610f89e61e7f02a0e000ea2ca9d73e64456de7"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Developer Tools/shell/Shell 文件重定向与外部脚本.md",
+          "title": "Shell 文件重定向与外部脚本",
+          "anchor": "文件重定向",
+          "sha256_before": "77c2d74167a3f39203bc57034990eed7fa084cc5e88a550e3266cf37b52a9763",
+          "code_blocks": [
+            "938d97238e7a53d178922e815919f08756fadb2e7d06e579b60bf3f62068320d",
+            "5867f522c46b59fc7487b8b119800da26af6a44a57f3ec2e62c5af0f8285acf8",
+            "9014ffed972abbf90e21e68470dd37fdcd72e906f89f3d4fdbe57f036e8fb8dd",
+            "128ea656445815016dc499c4c7d0f3ee186175914e57c5ddd4ad7b23f24ea1c4",
+            "9cc0758aaa433be966b59253be7ac11c846e1e1623298d20ba511e92fba3e934",
+            "5a9ffe003d3944ec507f3877ea658b7ed84379f9d8ca33be4b08c1a52e7b1e1b",
+            "bd5f6d53a4cd1cd3b92d567f287bee41e87057e27795a427fb1fcf03c415eb3f",
+            "a58fe6faf2ea3fb96156edce3b8344127484f2fea2cc384ed35b0270ecd96eed"
+          ]
+        }
+      ],
+      "code_block_count": 101
+    },
+    {
+      "old_source": "语言/Assembly.md",
+      "parent": "40-Knowledge/Programming/Assembly.md",
+      "parent_sha256_before": "72607346ae3857794c0314462ce9dd7005f760af8ea8e116d082907fc450066b",
+      "children": [
+        {
+          "path": "40-Knowledge/Programming/Assembly/汇编基础知识.md",
+          "title": "汇编基础知识",
+          "anchor": "基础知识",
+          "sha256_before": "4f87d528837bb7d1770ba270821f523c16130cce037e0532ed47b784923f4c38",
+          "code_blocks": []
+        },
+        {
+          "path": "40-Knowledge/Programming/Assembly/8086 寄存器.md",
+          "title": "8086 寄存器",
+          "anchor": "寄存器",
+          "sha256_before": "8169dcef6781a08328fac9cc68bc887ffb1f2748bfcc4e653f643f1c7448a3e5",
+          "code_blocks": [
+            "fda63f768db622a723daebe9d4c145ba2e209815358aaacf7e0b60e410a3b39c"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/Assembly/数据传送与算术指令.md",
+          "title": "数据传送与算术指令",
+          "anchor": "指令",
+          "sha256_before": "47ecc5673a8a6c74c31aa8c4c700a735299844a49b7b2759a41ed6e557365a7a",
+          "code_blocks": [
+            "8c3752fe3cae40deeebe1d8aeba98788d2039164ee45caf922eff45255e34923",
+            "458721d70a2c4648dcc41f702e6564a344194239396518617234006c8500a06d",
+            "ec07f35a588db824719d6a33337c4126b04869dad30fd127aa498b3d38918503",
+            "a3a09781d88106efd1c9d5765315b093276aeb754d767efb7c035de374a94ab6",
+            "30b45a3be6c6e743619f01451d7b1ee44a6839e32609c1fb6b892b0fe188da5d",
+            "c7dec1a196ea2e320a427b9ccc9fb52eecf037313c4d5beb890b96815b425c69",
+            "cab9a2066e88f2c2f179963e8ca62c36c0f68ac380350597cc23e28315d1b805"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/Assembly/循环与跳转指令.md",
+          "title": "循环与跳转指令",
+          "anchor": "loop指令",
+          "sha256_before": "8adf21965ce05331b298770f1a1c188b8b859dedf12d4c05d5c4faf8d7fe0833",
+          "code_blocks": [
+            "17ab96b7127e1abf3fb30d76529e10c60331a02cd13c1d72ab9348121391f7f7",
+            "b1593e784917f5ee734d291b1cc5f9b63688550f7eac6855d7b31010533034d5",
+            "085d7ae04e5637b8b5f9aa6062f6d8664e3e17e48fd57f61fbb20aa4958e1824",
+            "e061ac9ae760da46568ed97cc9a531a3c6bb2746f09ba44219d9aa5b756f90a7",
+            "d27da20b8acf6b662b19d9a03af80fffbfe8dd0e48c3206b03e0c415b3aba92b",
+            "2105a15416829bff51be7c6e13fe9b55b36e1057471fb9f0afa425f2b1d015cf",
+            "b171a3fa70f447608b21b5e9db78183c91b1831a355a1cca739e0ad1a95de1a3",
+            "f23229c0d1fcd3edbe85f6504c004104064d97b4caa51d781b3e3bce27f843f5",
+            "aa25d82390ac9d59bda0fc1ec457265b5583b01204776f6de1064191ca0eebf4"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/Assembly/调用与返回指令.md",
+          "title": "调用与返回指令",
+          "anchor": "call指令",
+          "sha256_before": "887c650db7159d64a726443c5f538b9f8392d1ff6717bbefd0740653395ce800",
+          "code_blocks": [
+            "adb7d032491586bf5ef964020af90dff2039e76f302cfbebe4c02ce9c4db7d13",
+            "df35491768463fac592a7f43076ed9deb8842a2bef2cc2fe98c51dd69f67e26b",
+            "601e68e0b5b57f7549ddc12764b17ff8defb1e26c18b70e63b84a095ae73fef1",
+            "7d589426f6d86f9719250cef8d2ba96489db931710924788556c0d3cbfb74b54",
+            "be85548324c6e8484ddc3334189c55984eddd27c86388ff3b56d944c6b311c02",
+            "04bc8761715b81be56ee213ce81ce0d0faef20e32e21ba8db9643b990814c509",
+            "ebe6a130fa262b7edb824eb4920c781924bc7f04a5b71477c06996e05bf8ac36",
+            "6e3a7031f664b2f2b9a17ac65bbbf5d41a47acd56583d8e830fcf52e12fc666d",
+            "b80e83ffd119ecb89cb51ffc4c48f05356cdee5b07e744c16a92dde90eff6216",
+            "b93da197b2b0d961ce525e27b6258f62deebf21bf8c9a42fbf071e80ddfdc280",
+            "6845b0822c62ba595763834aa0d4b20be280093f10820e89bd5e20db91b4e457",
+            "f07f5165cc26786e1b2a0e5f3169986f4e71b1d2b85ddbb5c06e8f1976a78547",
+            "f079692983676bc0882ad5e4d9a3da6ab3cb15dc554d1803a24bae0c32e81896",
+            "6027a03a99351974952c369a49230edf7c7312c4f96d04d0636ef324786d4f9e",
+            "9b24cb8ce241903b88712f05cabd4237616148702834d4b0b7ad2661aee2bb60"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/Assembly/标志运算与条件转移.md",
+          "title": "标志运算与条件转移",
+          "anchor": "adc指令",
+          "sha256_before": "5c1089204527a81e8bd40e6f875c74ea8ba972c801d6f695d512b30dddc3b482",
+          "code_blocks": [
+            "bd7ba4503e5070274a4e2c0073f76b3b8c3a4a2e395947b3b64a22aa6fb732c4",
+            "6da3c156cff632bae9a0759c63c9286b15ec7671c7ab93aa826c8adec07b0771",
+            "e0023592345a52a57424f2b0415a8b186722152716d3fda070fbdbe722b46479"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/Assembly/字符串与标志指令.md",
+          "title": "字符串与标志指令",
+          "anchor": "串传送指令",
+          "sha256_before": "6e2ca959363c97c70653d27075cd7d044fcaae9015d17608e372845c6c99a650",
+          "code_blocks": [
+            "7a9704815e525b9e98765ec12d74bd7caa3e5df6a80af8d4b473bcbe952a85bf",
+            "c3a99e5d208b62babcdc0221caeaff452248465f5391fa9203d69814b55760d9",
+            "d3a668ce418c6cc8d1c1d04a3ac1e360d77d12e6e55adff7e7b66cbbbaa23a7e",
+            "c95a6babe0da288b8fc73f84087e72b7a5756319d8d2cbc70c6cd1fe7fcbd067",
+            "e9687cc864e5de26eb45e482d95cf7284327d17ec30fc88a337be07ffc9ba986",
+            "3740d9b76830a470f5d25d16c1dac35c67e148cc74580853c25c02bc1c84c652",
+            "a9d1298abaf1da63ec3302e23d67a7e7f9cdda76bd8492bb7424dfc5bb62da98"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/Assembly/端口与位移指令.md",
+          "title": "端口与位移指令",
+          "anchor": "端口读写指令",
+          "sha256_before": "c202444ea13811351b9c266a4991027655c6a0076240496de86e60006a9b9896",
+          "code_blocks": [
+            "68c8d6dc9bcc16ddab60ca23c94dadd5af73057de48e0fd9ad2b18b66a3e1838",
+            "e1267f4a42dd3ea89913805fed28a5be31f6c2f5bb9062d4bc9380b5aa6ef4e0"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/Assembly/汇编程序基础.md",
+          "title": "汇编程序基础",
+          "anchor": "汇编程序",
+          "sha256_before": "81da7f71e933acfb4cfd2e638ba8ddd0f9749b736ff69d1d4553e2af9ce13e32",
+          "code_blocks": [
+            "ec6ae7c516683894cb5f6d418e3ae0b4d79ffbb6d78d033b4ae9d2521e6a793d",
+            "40f829ac5be587e0d5c3c0525396b7da5d43e766ed07b2673093782ac0ed7b69",
+            "d1c38e00078032a5f493230169b0b0eedefad187a1f8527abe7c1d9055fbc020"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/Assembly/汇编伪指令与多段程序.md",
+          "title": "汇编伪指令与多段程序",
+          "anchor": "dw伪指令",
+          "sha256_before": "eab153645c51cefee41436b59a1d7e6267ed65d7425bee623281ffa7c176a6f4",
+          "code_blocks": [
+            "72165c7baff4ba3d3b69f67508dcf1b57e1550803686e90a817a00a914453c2d",
+            "49192566b9a46280110d265a9aafa1b3ef1c7e75e705958d0736a5bd39ce09c8",
+            "e1761c0e5e03981e07c5a69d1d13d634a59787fd5b6adb7e5a93c59e45bf8740",
+            "0549f8599458a2e4c3b121bab9322d996b875f71558b3c7b92983d05dde498c5",
+            "3f246e4b33adc07dd166071e4d870c7d411e6475ef497cf8321efa838c4e5304",
+            "63889d276f60fb9d999583ae00d4e4c151cf12f1d9abf9d32500bc09daf7e32f",
+            "2afcda21906d34fb5d182c771d5b4354942a89b0384851e674a3f7ef6526a06c",
+            "81fdd2e3929dfd9232ad0552b3afb7888d8c1f06aace48ad5dcfb259f2630079",
+            "739637fc45c98595f7eefb30c54aa8017bb8f34ae321d03f172ab805d570e2d2",
+            "59d9f85004ebd730337a5e992705e0a27ca9e315d495b7ab6c3a4af28976cd6f"
+          ]
+        }
+      ],
+      "code_block_count": 57
+    },
+    {
+      "old_source": "语言/C.md",
+      "parent": "40-Knowledge/Programming/C.md",
+      "parent_sha256_before": "a7ce18a944add887b75af6260ca713f85eaa0dec8912db12dfbdcaf300e9d981",
+      "children": [
+        {
+          "path": "40-Knowledge/Programming/C/C 函数基础.md",
+          "title": "C 函数基础",
+          "anchor": "函数",
+          "sha256_before": "1c21dfdcb6ba1d4044e3bf3b5117e1126db68857b634a0d5e00b5c8cd3ccff7b",
+          "code_blocks": [
+            "f76def2749d2704c35d7f5ac134fa5b69abb559e435f9aff0e2b51cd9f330298",
+            "6cc322546b769c89265d7cea15d8f6b74e144f6d8dfb1d5e5ed3d95d530a4f97",
+            "72ea2cdfe76110e679ccafb3dab55ba81240131e7ceda3bf9aa8aeee828a591c",
+            "627db13144487166c0c4d09a91ce460acae17fdd35c11d3bb982d3aeda108fb3",
+            "f5479fb1781dd09ee02402bbea178eb1a8ef9c4f578852fa090834ae4de9e9f0"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/C/C 字符串与字符串函数.md",
+          "title": "C 字符串与字符串函数",
+          "anchor": "字符串和字符串函数",
+          "sha256_before": "de1af0e2ebd3c9f2fa9b0b0eb35a1dda9f44368f4e9e9440267c91d9b62d2faf",
+          "code_blocks": [
+            "9f2de8b6f1196eb0a7d4ad04c7234b5a3aa3b306d75c092eca762f4c0801d65d",
+            "b0f6d78e112bfc4b5fbd524cbd24e977d9297c1b8760bff34ee75d11a050447d",
+            "d6b757ee0e8f94636faa69d5a3d6cbd707c4459f9bcfabb84264fa80cef934d0",
+            "4f9f21d645079d6fe05a2c72f19b72201ace24ccaecbe71994119c18576f1d4f",
+            "00ec6de5de8e01ffd9a3ec3c9c9c202c8eb9da2e420c086c5f499be70e5ad614",
+            "7411c0ccc589c1bc230695969b8d3316a512119f87e4ed50b85824f4cf4694f6",
+            "be71b73a2ea593739420f4eef2e53ca8f4b983ffda36eb7d0c05c1a39e9db308",
+            "99a5494b5ddb7a666e4928c3576353e31bb34cf325068d712a5d8abe1c47769b",
+            "bcfe36ceb4cbb6a0e7bc547fe3eaa3a749ad128b9ef72ed3fbe86cd971d21f2d"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/C/C 文件输入输出函数.md",
+          "title": "C 文件输入输出函数",
+          "anchor": "文件输入输出函数",
+          "sha256_before": "73b5bf3e6ce8623fed4c3f8d9894e577b9dfbf29bf02ab12c00e7b641943f9d3",
+          "code_blocks": [
+            "6fe1d8223ba742416dac0021795c857a8ec486def3a4b8eda1282d9bfccca709",
+            "58ac51fe3081ce7a930d1c4d3e8252f750d0a8f5ccf7ed76a5c8a8198e5f8c05",
+            "c5dc3a7796bccd845e9bbcdfa53bd7469150253268078bd32465c93011f472c4",
+            "7aee63354cfcbdd04b4b9c330643a1fc3ac7abbc95314f3471aed58eb85ed860",
+            "fc679ac802333e980ced144a340ee8663b603d463d3c473018b13b741fdb0155"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/C/C 结构体.md",
+          "title": "C 结构体",
+          "anchor": "结构体",
+          "sha256_before": "a6191302b368bfd29ff35b60324a8aac22067e52bfce9baf1de6be97f9dbfbab",
+          "code_blocks": [
+            "1ab3c24ac2303963e38b2969cde8cbc4b9096e7fbf0daab493afb065b9609c05",
+            "e9c8843a4490a925a6751ad889c71f8b1687aaeb937ed2ab0935ea94b106d6d1",
+            "dd2aa4dc3d3cf9e09bd83660103d928a64894505d7d1047469c2bfadd1beb757",
+            "c7e7896396d39475966c82fa3e91ec6db5ebc378a749bbb33123859d8c404ac5",
+            "63163e9e7bb9f6f05f404b34c4a7f1306928b33d785b7baa414e0ce6534d5381"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/C/Linux IO 基础.md",
+          "title": "Linux IO 基础",
+          "anchor": "Linux I/O",
+          "sha256_before": "f56974bd718f089c0ab223973aa21e51c80112b9b97e6d10ad5e3b192937d356",
+          "code_blocks": [
+            "73cefc9ebe3c8dff346212018fe236f899a1e68c2b29ad43aa96ab00d0635757",
+            "af29186b7afc2c54b3fbce6d11871ac69019bc5d5e6a9bc22033c7b42e9081bd",
+            "8bc46eed11acdd5ceb1af603cb0b168621c4fb50579a39c65d89e4de2cf8e954",
+            "ce6f3fb5c8d2fcbad4ac852493ee51dc5680e915a5b75e2cc999d8388511f1d4",
+            "809777e8029e31bf0f71c9e9a46107cfaf2594c4e530314db398419831aa8679",
+            "921e4006ae74e05356c00ea4b9ac336908ec61c1cea5e29e9fbcc497c9511564"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/C/Linux IO 控制与文件描述符.md",
+          "title": "Linux IO 控制与文件描述符",
+          "anchor": "原子操作和竞争条件",
+          "sha256_before": "d45baf24cdbee2fefa7862422802c45ea855ac244b8f2e7f98c7defa3eb29089",
+          "code_blocks": [
+            "a2fa025af19e7d81fd6e685119191e29cf9ca6d4d1fd395f205073b396d95fa2",
+            "606c02ee674bf310a218b85ca3f4ff9f226696d56e145d5ce01b0b49fe9a16b3",
+            "1e443a03ed63262411e1daf695fabaa86f8065827ecc5ec938fec57c10334a33",
+            "b2c7c255c0742e2feebf77add32eb71923cd138230fa6ee78a545735d7db3794",
+            "c82d78d1166e1dcc64bc6826b471ba21f34468c8e629b24bc76efd32f5d76582"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/C/Linux IO 高级操作.md",
+          "title": "Linux IO 高级操作",
+          "anchor": "在文件特定偏移量处的I/O：pread()和pwrite()",
+          "sha256_before": "b6252c428a1291c4768f92aad6236bb09fd56d05db2f73b991f3b76578450faf",
+          "code_blocks": [
+            "bc2db46908654c0ecd5430907799b895f0b518d7209187140830af7f7614c861",
+            "5e31474ac16d632ef055debdae00617229400310c151e4ddaebea04bd990aa8d",
+            "b3e92cd5f1994529d200d34c4195ba150b5680f375c5c39cfbb3571750040651"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/C/Linux 进程基础.md",
+          "title": "Linux 进程基础",
+          "anchor": "Linux进程",
+          "sha256_before": "b100a330f26b48eadd24c890d379c718901dd5da45f1e652ade3c0d30b428445",
+          "code_blocks": [
+            "31148834f7770a2fc64a0ed8a6ac72b8e2dfc1a6fb74ee3ec66409d937140ff0",
+            "4290a0ac13756e2083579189b76bb2bf111cd3532ad8a0bcc823ede769370f11"
+          ]
+        }
+      ],
+      "code_block_count": 40
+    },
+    {
+      "old_source": "语言/Python.md",
+      "parent": "40-Knowledge/Programming/Python.md",
+      "parent_sha256_before": "0d4db3535c451045a99615542fdee94d4e86792b5be0dbb8f16a70b01001163b",
+      "children": [
+        {
+          "path": "40-Knowledge/Programming/Python/Python 基础输入输出与类型转换.md",
+          "title": "Python 基础输入输出与类型转换",
+          "anchor": "python的基本输入",
+          "sha256_before": "e64acd36150537dbe3ca2d547d9f7519f65abdf4b58b040be2fdb301f6f8aba4",
+          "code_blocks": [
+            "db06ac9eab53ce09cad500786490149da8db46fb675daee26e5fc7a2ad9777e6",
+            "2b2d6388adf9674da783abc9716fb9965b1ffdd535c27f973e75b6d936e1a6e9",
+            "66755e0cf8df48f0b808f6ec98e3e24fefbcc12f506039743bf0d6a9759482b9",
+            "c8d91c3f4afb02341f64cb70b9ad7d4d8ea6e4bd4012c57e39c553a16a1e0405",
+            "1b65b4bdc489c61201e1efb953b466f39bff9411e89b098fe178a3d10776c85c",
+            "be808aeedfd622aab459f64be8c020d118dcd03c2c285bcb0410e9c87eef229c",
+            "cb73daed6be3a058e53988a1d4e12043402239faae35bbaf5115310241419454",
+            "45ccdc1c2560e09ee4c31138fb7436cfc85b171e1913f19507749dc9f56ad682",
+            "2f58b42f396a9d732779087efdf8953aad0a1e64f26821c9ce6f506e71345393"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/Python/Python 列表.md",
+          "title": "Python 列表",
+          "anchor": "列表",
+          "sha256_before": "8f9cfe2fe5e161f0b9dab4c9a14d8227b8c96d6c96b73794f08293cdbb7d6764",
+          "code_blocks": [
+            "9629b603c66047e28d530238491bd3b715185ad3fb14c7512d096c47496401c9",
+            "60b4575771bd57e8c82c6a470f976df4444783e6decf4dab538fac2852474043",
+            "61e2988a0fe96d08dc476e786f8bd473f55331fe6d266f0d54f8be160c62270b",
+            "eb81c227354969645362952ffdf6f6050dbea7ffb3411fdff33f44e4037077df",
+            "26bb41bbb358320ed06612c9b87a7fa9c6f931ca843ec319e91944f58ff179d6",
+            "e9fc608065b1395da9a7deafc492e9bc951f6f6e577ee51fa06b5d69d06f1cb4",
+            "94ae8d22510c09bcb04fd2aeb5604e39ac3510ffb8b29356299726e8fb381a28",
+            "2b50dcd1700b4c609f90843ff184870698cc8559d132fae8d51d5de1601af858",
+            "3ec8bd9520172f883ef6d75d901e0a69464342ae006c3da4715b5070c92a6c70",
+            "3fea7f100febf9a110227aea2562524878a51f137fdb22b81166ed169ba0beb4",
+            "5c841db928229d9386afda4c771f543dae31c9828f94c4e9a8b2506c16ec7ffc",
+            "b03a15d27767aaf367d21b16ce69def7ad7f61afffee7ea4fbef47e32dfa4b7b",
+            "276955c0adf0c83d26ab23e03734b622fea92b47c6767790e643a601e2cd85ba"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Programming/Python/Python 字符串、函数与库.md",
+          "title": "Python 字符串、函数与库",
+          "anchor": "字符串",
+          "sha256_before": "106d5139a8c1e1d3c36cbdd5abe28a6fb58b2a494cbef0db32ddbd0d4936d895",
+          "code_blocks": [
+            "9fa6d622b1300615c62dd2c9ff4908aa62fed2179672605b0fa0a5eb147a15c7",
+            "5a8fd7666fdcef5b5511cb8d0bfd56856175e10aa2e505d631a854da25095fcc",
+            "8a31e0055ac95baf00a86ab23debd8b4cb3070d9e1751052dcca8a0e881edd77",
+            "df29bca794f49c210e82c7ad2f31e4e5db7d39a70530ed303c67bc983fc3239d"
+          ]
+        }
+      ],
+      "code_block_count": 26
+    },
+    {
+      "old_source": "后端/Spring.md",
+      "parent": "40-Knowledge/Software Engineering/Backend/Spring.md",
+      "parent_sha256_before": "d20c6a31ce51d2d7ea295e9b3766fc1d334b280a8ad24de636032bbd3ee8e56c",
+      "children": [
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/Spring/Spring 基本概念与代码样例.md",
+          "title": "Spring 基本概念与代码样例",
+          "anchor": "基本概念",
+          "sha256_before": "ff5844924344046fdcf71253a5eee1a2c3eac10093aa553533a29bd31b2ed262",
+          "code_blocks": [
+            "9b07d3e1c1ed0631f757992a9483398b5958603bad78441286489b81d82a39f9",
+            "e38c020558733f7aa0d2a2fc187fbcb9683c072a75365935286947810ffa1014",
+            "a5ab775819b2d2c77fb89836367dd2019b3264be8476826a7717f80d3f611bbd",
+            "c3095457034d60de8f8d38950efee17663f8e85480f7f31099f499031ca42ebc",
+            "513aa82f839ca8f299bfdb7d3d32acdf2a8681e36b6f5c8ca753fe84c134d67d",
+            "57a6238ae7ab4dc37808cfdc2f08138cb42fed2bfb8772416e829176f56b3134",
+            "feba8ced6e05fff4e50789c742f06be961d69e372f8c316d4e385d6b9274d724"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/Spring/Spring IoC 与 DI 使用案例.md",
+          "title": "Spring IoC 与 DI 使用案例",
+          "anchor": "IoC使用案例",
+          "sha256_before": "c392c16b5729369040e4cd783204490b67233d7b7af72b77bfa3aa97595f24c6",
+          "code_blocks": [
+            "9b07d3e1c1ed0631f757992a9483398b5958603bad78441286489b81d82a39f9",
+            "e38c020558733f7aa0d2a2fc187fbcb9683c072a75365935286947810ffa1014",
+            "7be788605d9923e04b3ed2c3e4ecf8285b0214dd61bdc23f5d5bd3a522522195",
+            "22984d042f7e9329cd1414a26a0aa21957a29e36cd33f14a3345d21ff49ebe40",
+            "e06e4949b4592a49508a85b79b2d3b2515d0c252bc0c03b8dab89721fdc1badb",
+            "a499018130a43d3b2b8932060d4ccc066ed160a2a0dcb5db1b3b4a97a6f99c75"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/Spring/Spring Bean 属性与实例化.md",
+          "title": "Spring Bean 属性与实例化",
+          "anchor": "Bean属性",
+          "sha256_before": "39588721c6ab23f59d073706e7092e9aa335451ba71369fcc2afe70598c53fc4",
+          "code_blocks": [
+            "ac9da7d76848e7b2859433fd66fd8fc40c7d415d6219e3d280f3dd87241e4d74",
+            "ddc431b02e962ee8c1ee9497da4fdcdc613733244cddbff54633567708ce18f1",
+            "f9d3ded764b921e2c03ac237eb5b62cd5ce3214566de16530cb8c77c4ed5f801",
+            "d9c751f4e5e4723854389ae3640ae9fa146e364d5e2a2ffa59d6b07fa498a669",
+            "9813cf61c68d7a75480eb05a58b7117e5c1fce0d875f2347237869ef096c378d",
+            "91969130a18141989399bf89769906059bc78d3d252e956222c08224b0604f0d"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/Spring/Spring Bean 生命周期与依赖注入.md",
+          "title": "Spring Bean 生命周期与依赖注入",
+          "anchor": "通过接口控制bean生命周期",
+          "sha256_before": "79f2f3747e86a386dd7d10b211f8ed9f6bbcf7348a0f59078d1187a46c8feec3",
+          "code_blocks": [
+            "68bcc15cde55aee51e3c925e690850814eca1d2a84bac8b69bb599b43da997db",
+            "3c7f6515c930eaafdfe51bf22840cc44983d2ba810ce2618930a586c86f4042e",
+            "a3306f221cbbd73e93cae30dd8427dd5660402eacc658505b8b871975ae854d7",
+            "da410dcd2e4a7f60c28cc194650958713f8e2909cfe4e0c0f91d8bf6bf023881"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/Spring/Spring Bean 注解开发.md",
+          "title": "Spring Bean 注解开发",
+          "anchor": "Bean纯注解开发",
+          "sha256_before": "53204666141c30d472c9ac163e959118bbfa19db39ccf8bc667b025d8371faf3",
+          "code_blocks": [
+            "ae16922877847a5635d60c2b14510989a65f06e8ed58e4fc4c6f79e4d2fd722c",
+            "d33e3901fefd58e92b23a77fb49bda052f2e40f564888775536e0f36ebae11b8",
+            "ca603e153d3c112f12c1d289a065000b24110eeae7e024655d56ae4801d70895",
+            "3bcf8e9177bfd7189badcc535f3514894de0e323154ede31bec80ef16b8258a4",
+            "a3983ff2964ec4431ebc5c47be9c3e46608cf3a15d011fe6d0343c8e419cacb1",
+            "a0e85178c38535b8f0e4a87b4dc7a243ffa7d4908fc62636cc7a09182b0b6d1a"
+          ]
+        }
+      ],
+      "code_block_count": 29
+    },
+    {
+      "old_source": "后端/SpringSecurity.md",
+      "parent": "40-Knowledge/Software Engineering/Backend/SpringSecurity.md",
+      "parent_sha256_before": "7f046a774216057bfec24e97a7b7eb10bc01ef9f5219e2052a4c142374f55194",
+      "children": [
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/Spring Security 无适配器配置.md",
+          "title": "Spring Security 无适配器配置",
+          "anchor": "Spring Security替换WebSecurityConfigurerAdapter(Deprecated)的方法",
+          "sha256_before": "e3d8f81c42fd26087e340ebfc688a0c4f65d3e93f766772e61ac5486404b4c6b",
+          "code_blocks": [
+            "acb6c6e549b5d5cc212c7241804ac37d26490670ebeedbd2022cdd6f794685c4",
+            "55b0ae6d24abc7674d40405b50df9046511586292a9212b93d4dd9384749cbfb",
+            "6d1216e7ff58b7f61a0bde09dde2c921d15ca687b6dd3616784858a37292dbdd",
+            "c57280b0fb8376e051a7a5c47b388df5a22b18cae30b69d58ee9a4e47ba2cef7"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/Spring Security JWT 配置.md",
+          "title": "Spring Security JWT 配置",
+          "anchor": "Spring Security JWT（JSON Web Token）without WebSecurityConfigurerAdapter",
+          "sha256_before": "6dad1ace33a99fcabd03e964e96f8277b962d020fd052747d02bc79cdc012731",
+          "code_blocks": [
+            "569d8f452838776ea612bfb9b8efdd2d5bfc31dfa98971e5371b8cda6451d809",
+            "de775166b3bd534a1b6abea57a56dac80a868f7fc320ae5c62d36ff05cfd0293"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码原理.md",
+          "title": "邮箱验证码原理",
+          "anchor": "SpringSecurity邮箱验证码登录配置方式",
+          "sha256_before": "2ec4e6dfcf4f9efeacc2bbb3ff650249c2378d8ad6bf301571b64a9b7f874b3e",
+          "code_blocks": []
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码发送接口.md",
+          "title": "邮箱验证码发送接口",
+          "anchor": "开发邮箱验证码接口",
+          "sha256_before": "ea652e36c665efec796fecdfc2375d2c2ebf287ed460d88b226fb053645b00b9",
+          "code_blocks": [
+            "cef9d1ec1195b09006683ecf1b087e1e1a09f9c77ff725f9416b46ba932b7a8f",
+            "a5d0cca09d41c6ba5bb405c6669c07401dd9cb5eac9d63ef7fd402468e8dcc2b",
+            "1f743bb9dd366eeb52d448381f146d7d755acbdf4685b7c22759ecbbce98dc2b",
+            "bdb8fd6420ef5ac2585837b9e6bb25540ea054ae724cf7808eae3970f7e63f94",
+            "c4f067f9149f62aa7b7a62bceaf6a82a668167310e44653d057b655b34f1f780"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码控制器与前端.md",
+          "title": "邮箱验证码控制器与前端",
+          "anchor": "修改ValidateCodeController",
+          "sha256_before": "e8dc92697fbe34bb3056d2332570d46f99c4950b10d07fc0b9e6d61224011865",
+          "code_blocks": [
+            "b24c0d199b7fab2ce5b71f572d7e6f2534857c211dbe2277cb747d838aa2d5c6",
+            "20176ee8fb1541a6c70f87250142c48c44479408f11778944ff9beb323e40e8b",
+            "bca756be7d39f7821ef577190c1d5e0f4609d78e2cd9933e0d0dbce1a8b97ac8"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码第一次重构.md",
+          "title": "邮箱验证码第一次重构",
+          "anchor": "重构代码（一）",
+          "sha256_before": "5b0c486e6286da54ea8a303da24400a9d4248c8043aa3a7300226f59d5821054",
+          "code_blocks": []
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱登录 AuthenticationToken.md",
+          "title": "邮箱登录 AuthenticationToken",
+          "anchor": "校验邮箱验证码并登录",
+          "sha256_before": "52756d5b893441f8a0b0433e7098afa4908f58e586c26bcc4b36357b7c4034e6",
+          "code_blocks": [
+            "f07ca74890070f14257f8104966ab5f3f398b6b50e54e3c833213682f8eb735d"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱登录 AuthenticationFilter.md",
+          "title": "邮箱登录 AuthenticationFilter",
+          "anchor": "编写EmailAuthenticationFilter",
+          "sha256_before": "8e1d9823054cb6c7b026f527f65da35b21fb5e556fe6fe991e73a220e367629d",
+          "code_blocks": [
+            "2af4c856044b58fdd3512a4d71613ab85b604ee565244701a7f0c14e03afd481"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱登录 AuthenticationProvider.md",
+          "title": "邮箱登录 AuthenticationProvider",
+          "anchor": "编写EmailCodeAuthenticationProvider",
+          "sha256_before": "adc0bde40889904c0e07061d687c9b18d0743a9e89206f49cc743fe3b9969f38",
+          "code_blocks": [
+            "98337224141c446666d7870c88352adbb0720365b32614b998e2824986e8a8c0"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码过滤器.md",
+          "title": "邮箱验证码过滤器",
+          "anchor": "编写EmailCodeFilter",
+          "sha256_before": "fb489b5da43b326d8446049c925a87c53fd17648a9b30f2f58cbdf99141f1076",
+          "code_blocks": [
+            "881cc8c2b0053e6857dcee61372f51b2a590b7ec9c7f8250ecbeee2c9cfab182"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱登录安全配置.md",
+          "title": "邮箱登录安全配置",
+          "anchor": "编写配置类EmailCodeAuthenticationSecurityConfig",
+          "sha256_before": "c0bfe043a296a302d52e188c45d780fd24ae3602ed1bee31f3fa888a4942a0f4",
+          "code_blocks": [
+            "749bf5ffd7adc069f787f1bcc96d897938d867cd42d57514c94ba63f57c9c465"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码第二次重构.md",
+          "title": "邮箱验证码第二次重构",
+          "anchor": "重构代码（二）",
+          "sha256_before": "10af80f1b6c8354392d1c766b73080ec85386fd7a87cbf58b0a3b249faf28f41",
+          "code_blocks": []
+        }
+      ],
+      "code_block_count": 19
+    },
+    {
+      "old_source": "前端/Qt for Python.md",
+      "parent": "40-Knowledge/Software Engineering/Frontend/Qt for Python.md",
+      "parent_sha256_before": "a90d29de24bfe9b8ec95e3bcb39e0d6a355fd3f9aad3ea4c34bf69177a17e2af",
+      "children": [
+        {
+          "path": "40-Knowledge/Software Engineering/Frontend/Qt for Python/Qt for Python 环境搭建.md",
+          "title": "Qt for Python 环境搭建",
+          "anchor": "Qt for Python环境搭建",
+          "sha256_before": "b5ecb6a10bd693ed722473c7f96d4a82184e2bd640ffd432c5d6cb4e564f9317",
+          "code_blocks": [
+            "c5205078aec62686b4cc0166d6f9b634ac1eb0340be518ed03116acf3000bc61",
+            "c019c53f94077f703171dff3ca1ac9eb87bd3d1f7923d753a31cea36614a1b7b",
+            "542cea33b7ca4d59f8070f7702e21f2ad3ad524d9d5177ba114b4537e303f139",
+            "122e105c8fab6403d479403fb29f6d8575bc124782b0f6dd9e849c6d33b3b3f1",
+            "b574948de42011a6dea222a104a17cf835de4f4ae4ba2fa20960c0ef98dd8f78",
+            "370147e75e385dcf133da288ca674086ad86c392bbc018a2f8c918e962927324",
+            "809a856ca9e019b8c16686dc746510aeeeca789323dea8d5e4c5ac30c472624f",
+            "b68e0c87a22e26bd532152e7db049d1b9bc629bfed06ea5d162bf7def99a1139"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Frontend/Qt for Python/Qt for Python 打包.md",
+          "title": "Qt for Python 打包",
+          "anchor": "Qt打包",
+          "sha256_before": "9a96086da70c8aefbb07446889f5d84a55de84c2c8a9ce8f220161ebbc611dcb",
+          "code_blocks": [
+            "8d0f36a3f3f4958f92938a563ea36fb78fa0ee051c659a0b9e7a4ada575a9e29",
+            "27dd7b2e1f87d2b4b6878cff7daeeab2a73fb1d3298c5f31e1d6b77f6c35805c",
+            "2c7dd93567ec89da730cda7b266bc3cbc9012dc157e1917c96bd0ed2fb6df860"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Software Engineering/Frontend/Qt for Python/Qt GUI 实时显示日志.md",
+          "title": "Qt GUI 实时显示日志",
+          "anchor": "Qt使用GUI实时显示logging信息",
+          "sha256_before": "c4937bd6b10740e674b34ac1b6db2260649f3b34b3dfeef0e9e1673def893a43",
+          "code_blocks": [
+            "09b1bd43194dbcc705ecf2270888fbb475bb165b899565c1ad0bd762439e6dd2",
+            "d6763986c0e3c1c7286200321d43550b3e31ccce3302e6a20b8e681f9c330a0a",
+            "3b2d3c5fa42743cf1d08b088bbeb29d694f307c786d5c0315cfd95986ce50194",
+            "103c8d9c0fd007d9206ec28de2288a1dc116bb97102f7c74502ff43fd9d929ec",
+            "888117a7ab277d26613de77458b0e09628c988d19483f28beba188388cee84d0"
+          ]
+        }
+      ],
+      "code_block_count": 16
+    },
+    {
+      "old_source": "系统/ArchLinux.md",
+      "parent": "40-Knowledge/Systems/ArchLinux.md",
+      "parent_sha256_before": "71d2d4f9c2b122281a7bdaa042a586e629698b90451e00a64a4c769554ca107e",
+      "children": [
+        {
+          "path": "40-Knowledge/Systems/ArchLinux/Arch Linux 安装.md",
+          "title": "Arch Linux 安装",
+          "anchor": "安装ArchLinux",
+          "sha256_before": "09af031faad6b7456d73e8fd08dc8b0a271d2038692efcb72b62326bf52740c7",
+          "code_blocks": [
+            "83a54fe756ade603bfc9fdb92f267831475296de84ba775b17941e380ccd6e8b",
+            "ddbcc9d84367e7ad0e9937fcc7a982ff9f786b77df8fefff684a215e190b466c",
+            "3b9fff5348a8985d1c59cd3d14d1eeeb5051cfcb61bde8b04b43b152f8d46c63",
+            "7a41c02885dce76b9e84e18f79df25c6182ee54af784188e82ed216593164e2b",
+            "073831161a4ef7a54f575d434fb9183d6e46c7a55a0ade285a7ae1cbe6e761e3",
+            "ffa6177248b195aaabce96d9397620e06d3747c3dbfacf37945c37a9a5841dd3",
+            "fd1adc1eedc247d030820a41d3ab3ced6fae67a9cb96c62c81d43afa426d621a",
+            "625ae8a89719c856de25b2b3093bee4117fd76cee5b8a2a194503000b61af0d7",
+            "27bbecd2fb38db4cd90eb83496dc05c1a1478d305982ded060c1289009915ba9",
+            "d98e876c9c05c8090169a31dfc94c486a4a78935cf924644943e3d04410bc37b",
+            "33be86560ff4a66a02151f4b6d07c14cb6ba29b2fd3341b8f457bc745549fd22",
+            "82da5c19f82bf5ae62bba697b9247e57fb575917bddfe358409d3966dea62e36",
+            "abcc29e46d0d9cf755a883aa3ccca721de91663e4a8ca8d61b9bf0e3074697e3",
+            "511c0132f848a3d66494b5aefdf0774298efafb9994976249744101ada14d746",
+            "06ec5b3403d595bae8804d1a7b82010462c2cacddb95635298291217e4980537",
+            "6a745bd2c739c4b5c5533280786f3bbbea7763e941544239b47c61a460e72e77",
+            "e55b23c507e43689b3ff74f89a99ffe83bd140afd0a7183f60d05ede1de82966",
+            "321a22cf44e983024d7362c617f5e01d65ae43585460a815bab7aa6913bafd77",
+            "2270a50175af849aa0372d560efe794f3064ef833c5f46cace98b3089272f0e1",
+            "9135a3fb5e1912595cc233f50145ded4b470406057831aa19027cbfcbb827496",
+            "d15e4a684d19ad59d604e59744e9b21314cfe3835fb5774a060e32e59137595a"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Systems/ArchLinux/Arch Linux 基础配置.md",
+          "title": "Arch Linux 基础配置",
+          "anchor": "配置Archlinux",
+          "sha256_before": "d78c0113ec59b506d62f02285ff7fee355bb5ffbc345b82332d48cf71be692f2",
+          "code_blocks": [
+            "0dacd734d801398f7db22285866c9be478b468d8d7c8b89778848a963dfcfdfc",
+            "9e6eae1d8b8572294e4e2452ac172b1c8939a7610a5e87770ffb6c15aa5ae678",
+            "3ad3495c0eddb8c674b800de4e6cd88dd6de71b25f3942c0857c33ee56aa9f50",
+            "5a154c6e00a060806c35c85f72af9bc79c937240e756b190a481073d49d2eeb9",
+            "bbf58f42cb6d581e8abe47a737df8310ef2304311c0286f7dc13a5c57956e47e",
+            "69e3922bd9513df2451ff1b8a3dbebb67a82092714ddb0b5e94f2189bd9858d0",
+            "de25bb1aeaae3366a4523cf33865692ed8d05b58e2a07d54d9d903d4f0ed663f",
+            "aed028e56302516b439dac7fe75661208ff42ba5fd1596962cf299c8efa390c3",
+            "93b8489d46925af586befb75aac45f788a1dc2497033916b1ff74e24789e6c4d",
+            "a3d4c82bfcfd30faca12a2208240e6eddf13f4e17dfa6d8c139f4ac75f7dfacd"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Systems/ArchLinux/Arch Linux GNOME 桌面.md",
+          "title": "Arch Linux GNOME 桌面",
+          "anchor": "Gnome图形化界面安装",
+          "sha256_before": "e63b27c0c25f2f335a88b584503d245525cb4bbe7d43b907bd64f07a0a874f70",
+          "code_blocks": [
+            "9c73247e377c97a4672efc33e9990a5b4f23b1b45f93cbd63d9a567d8cc07ea2",
+            "39a4fe9f408475d79539d9203a9c0c79c94862565f0361d36ecb432164120390",
+            "e5f40d11798c1e33c4ee2dae39c9b4ea426e0695f88d04e7e0a423f363e94c4b",
+            "f175c4742f7038f22fbfd0f6851ef692715fa61eaa35433cd7df56c50e9acea5",
+            "9e3bf0b6f4f0af6089cba7394e3f7853649f8fd46d3fb7653aba0a64d6ec25ee",
+            "b83d78ac8354e525a81ee22ddcad08234c71c31df2f4fe4d5ebbc9c6ee235a7c"
+          ]
+        },
+        {
+          "path": "40-Knowledge/Systems/ArchLinux/Arch Linux 软件安装.md",
+          "title": "Arch Linux 软件安装",
+          "anchor": "软件安装",
+          "sha256_before": "845e586bc9450f32cb71948e870040a36c0d16055ed59f30c9604c5c81f2a83b",
+          "code_blocks": [
+            "b0e5b8c88e8dd8351e02a031e37bac094943da8b7fad71e9a96020e4931fe50c",
+            "b538ca4cf97bbe687fbff1c304fb66690bda557cbf26d1839d863f0feb4b1d28",
+            "f530f5e807a5c51dc9d887b1ad77c878bc76f74b896d10f7ffe09e754c05f4ac",
+            "d70c58468d2f548f6cf25f129e0a8ab7c14f69269c0233b3c133f21cfce2e4e0",
+            "05a3d46640903e8d6b51f630991694a166444f27cbfd0e6b996b0b23e5b951a9"
+          ]
+        }
+      ],
+      "code_block_count": 42
+    }
+  ]
+}

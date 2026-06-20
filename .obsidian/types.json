@@ -1,0 +1,30 @@
+{
+  "types": {
+    "title": "text",
+    "aliases": "aliases",
+    "tags": "tags",
+    "type": "text",
+    "created": "date",
+    "area": "text",
+    "status": "text",
+    "review": "text",
+    "started": "date",
+    "deadline": "date",
+    "authors": "multitext",
+    "year": "number",
+    "venue": "text",
+    "url": "text",
+    "code": "text",
+    "projects": "multitext",
+    "topics": "multitext",
+    "project": "text",
+    "dataset": "text",
+    "model": "text",
+    "git_commit": "text",
+    "config": "text",
+    "result": "text",
+    "source": "text",
+    "date": "date",
+    "participants": "multitext"
+  }
+}

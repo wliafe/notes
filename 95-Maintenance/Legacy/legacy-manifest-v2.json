@@ -1,0 +1,5212 @@
+{
+  "generated_before_migration": "2026-06-20",
+  "source_note_count": 135,
+  "knowledge_note_count": 129,
+  "asset_count": 174,
+  "code_block_count": 642,
+  "notes": [
+    {
+      "old_path": "archive/README.md",
+      "new_path": "98-Archive/Archive.md",
+      "title": "Archive",
+      "type": "moc",
+      "sha256_before": "2b364c4365c109e5ec1db1d6c8d6b5d5ae0207c66e3555ad76bafb8f0aa7302b"
+    },
+    {
+      "old_path": "inbox/README.md",
+      "new_path": "00-Inbox/Inbox.md",
+      "title": "Inbox",
+      "type": "moc",
+      "sha256_before": "84a94c85aad2014d35b3c3f03d62bded4b1c89b01a697687b10b426a71cec391"
+    },
+    {
+      "old_path": "maintenance/待复核.md",
+      "new_path": "95-Maintenance/待复核.md",
+      "title": "待复核笔记",
+      "type": "moc",
+      "sha256_before": "bd78a0e31256b834cf625655676fa1bc42ecc6958cdb4d6720da9c636a7e275a"
+    },
+    {
+      "old_path": "maintenance/整理规范.md",
+      "new_path": "95-Maintenance/整理规范.md",
+      "title": "知识库整理规范",
+      "type": "note",
+      "sha256_before": "7754238a844817f0d5e77196e8338c4b07292a7cf36b5f4e5bf6285221a86537"
+    },
+    {
+      "old_path": "maintenance/迁移报告.md",
+      "new_path": "95-Maintenance/History/2026-06-20-第一轮迁移报告.md",
+      "title": "知识库迁移报告",
+      "type": "note",
+      "sha256_before": "82151cbd8d097b3fb3868aa8bf3b9c4bcad9455356ca898dc7dc5c39f6892e90"
+    },
+    {
+      "old_path": "前端/JavaScript前端.md",
+      "new_path": "40-Knowledge/Software Engineering/Frontend/JavaScript前端.md",
+      "title": "JavaScript前端",
+      "type": "note",
+      "sha256_before": "982a9cc243e0393f9199f9bfe17a8827a744eee6e705075dc2764b9a5cc019d0"
+    },
+    {
+      "old_path": "前端/Qt for Python.md",
+      "new_path": "40-Knowledge/Software Engineering/Frontend/Qt for Python.md",
+      "title": "Qt for Python",
+      "type": "moc",
+      "sha256_before": "a7aefb2e83356e12496c7c4aa2e23387004901df6418dcb4b8c7fa923d9ff36f"
+    },
+    {
+      "old_path": "前端/Qt for Python/Qt GUI 实时显示日志.md",
+      "new_path": "40-Knowledge/Software Engineering/Frontend/Qt for Python/Qt GUI 实时显示日志.md",
+      "title": "Qt GUI 实时显示日志",
+      "type": "note",
+      "sha256_before": "f305f0e9681f80bd31db75d72810a7f62a69bc43b9f1244aefaccb66dd7cf7a6"
+    },
+    {
+      "old_path": "前端/Qt for Python/Qt for Python 打包.md",
+      "new_path": "40-Knowledge/Software Engineering/Frontend/Qt for Python/Qt for Python 打包.md",
+      "title": "Qt for Python 打包",
+      "type": "note",
+      "sha256_before": "36180bbb43675fe2cd46622c6b62969ef391b962e3b35e9cd2a2d9612eb96841"
+    },
+    {
+      "old_path": "前端/Qt for Python/Qt for Python 环境搭建.md",
+      "new_path": "40-Knowledge/Software Engineering/Frontend/Qt for Python/Qt for Python 环境搭建.md",
+      "title": "Qt for Python 环境搭建",
+      "type": "note",
+      "sha256_before": "2cd35c6050b509492675b90e9315a3d4351db9370421dc0a7c48b75c27517bd9"
+    },
+    {
+      "old_path": "前端/前端索引.md",
+      "new_path": "40-Knowledge/Software Engineering/Frontend/Frontend.md",
+      "title": "前端索引",
+      "type": "moc",
+      "sha256_before": "7bd2aae451eaa2479650410d83aaf3eb508c00e53884f39c44b5ea3ecbf1c35d"
+    },
+    {
+      "old_path": "博客/Hexo博客搭建.md",
+      "new_path": "40-Knowledge/Software Engineering/Publishing/Hexo博客搭建.md",
+      "title": "Hexo博客搭建",
+      "type": "note",
+      "sha256_before": "3ecf757e41cf72c2f3a303f578b912379c97af59c60c2d6d2f1d289dd0330e39"
+    },
+    {
+      "old_path": "博客/NexT主题.md",
+      "new_path": "40-Knowledge/Software Engineering/Publishing/NexT主题.md",
+      "title": "NexT主题",
+      "type": "note",
+      "sha256_before": "7c766c7062af8f5df04a630c3b48cda0c83b76277acaf3ec84a336fe3429cb6e"
+    },
+    {
+      "old_path": "博客/博客索引.md",
+      "new_path": "40-Knowledge/Software Engineering/Publishing/Publishing.md",
+      "title": "博客索引",
+      "type": "moc",
+      "sha256_before": "9f10eec641df70bb3295d1867911cd563b6033ecaa933ba8a1876765991a90c1"
+    },
+    {
+      "old_path": "后端/Flask.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/Flask.md",
+      "title": "Flask",
+      "type": "note",
+      "sha256_before": "68adb925ee06c1d264e7b549991e09527c3b57cb2b0dd18b0aeaf3197851a1b7"
+    },
+    {
+      "old_path": "后端/Java后端.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/Java后端.md",
+      "title": "Java后端",
+      "type": "note",
+      "sha256_before": "4e8bd5be26737c55fec8a669c9baf861dac77079e11fa0c445a9cc8fb4283c4e"
+    },
+    {
+      "old_path": "后端/MyBatis-Plus.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/MyBatis-Plus.md",
+      "title": "MyBatis-Plus",
+      "type": "note",
+      "sha256_before": "0e9ea8fa9a6f1b444e3b49f60c591d19bd160fac3a2df5bd72535c600d2b40fe"
+    },
+    {
+      "old_path": "后端/Spring.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/Spring.md",
+      "title": "Spring",
+      "type": "moc",
+      "sha256_before": "da2b900be0edcdbd18a11f096fe3af4341111a55dc250457512c9d91b21ae074"
+    },
+    {
+      "old_path": "后端/Spring/Spring Bean 属性与实例化.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/Spring/Spring Bean 属性与实例化.md",
+      "title": "Spring Bean 属性与实例化",
+      "type": "note",
+      "sha256_before": "7c32eef7ac6bb8d463092421db16247ce7f53098df7cef4858b9ed4bdd6771aa"
+    },
+    {
+      "old_path": "后端/Spring/Spring Bean 注解开发.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/Spring/Spring Bean 注解开发.md",
+      "title": "Spring Bean 注解开发",
+      "type": "note",
+      "sha256_before": "8c12652d5f13e6c9d19ac5ee4b888cfd6465d2085d01adeea673c18625d2ec57"
+    },
+    {
+      "old_path": "后端/Spring/Spring Bean 生命周期与依赖注入.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/Spring/Spring Bean 生命周期与依赖注入.md",
+      "title": "Spring Bean 生命周期与依赖注入",
+      "type": "note",
+      "sha256_before": "d5ced1d0a7142392c0318de5c6b17fac86416cb7ee971d3fc62171ed91cec35d"
+    },
+    {
+      "old_path": "后端/Spring/Spring IoC 与 DI 使用案例.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/Spring/Spring IoC 与 DI 使用案例.md",
+      "title": "Spring IoC 与 DI 使用案例",
+      "type": "note",
+      "sha256_before": "24865c17802ac85077504edec53d736812eb42feedfe7259a54534079299049d"
+    },
+    {
+      "old_path": "后端/Spring/Spring 基本概念与代码样例.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/Spring/Spring 基本概念与代码样例.md",
+      "title": "Spring 基本概念与代码样例",
+      "type": "note",
+      "sha256_before": "061649b98dabd8e8d8916c6930e8eced9c84c8203930c47eb5d37b68477d7537"
+    },
+    {
+      "old_path": "后端/SpringBoot.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringBoot.md",
+      "title": "SpringBoot",
+      "type": "note",
+      "sha256_before": "edfcb17a0d6780ef8c045dae571f227efb70e921229bd070674a94681198e62c"
+    },
+    {
+      "old_path": "后端/SpringSecurity.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity.md",
+      "title": "SpringSecurity",
+      "type": "moc",
+      "sha256_before": "3278b293f9a732cc4ad4aa75415961886b108ce366eb46c85ffccbbf91aff55c"
+    },
+    {
+      "old_path": "后端/SpringSecurity/Spring Security JWT 配置.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/Spring Security JWT 配置.md",
+      "title": "Spring Security JWT 配置",
+      "type": "note",
+      "sha256_before": "edcab362c85c48f15af9258efd9388a2b758111acb05a535ed30912e01597392"
+    },
+    {
+      "old_path": "后端/SpringSecurity/Spring Security 无适配器配置.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/Spring Security 无适配器配置.md",
+      "title": "Spring Security 无适配器配置",
+      "type": "note",
+      "sha256_before": "d960a33de8b06e7fe8b80051319dd333c8ecbfb6758c694b99d64956c1dacfe8"
+    },
+    {
+      "old_path": "后端/SpringSecurity/邮箱登录 AuthenticationFilter.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱登录 AuthenticationFilter.md",
+      "title": "邮箱登录 AuthenticationFilter",
+      "type": "note",
+      "sha256_before": "6127612191ac1f31f18308dc5806984ed4da4de97540e45914a7f4cce760cb4c"
+    },
+    {
+      "old_path": "后端/SpringSecurity/邮箱登录 AuthenticationProvider.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱登录 AuthenticationProvider.md",
+      "title": "邮箱登录 AuthenticationProvider",
+      "type": "note",
+      "sha256_before": "d807a95efb0f6a9aa09c35b7081e4836ca94904de029b55c20a746ff1bcb1627"
+    },
+    {
+      "old_path": "后端/SpringSecurity/邮箱登录 AuthenticationToken.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱登录 AuthenticationToken.md",
+      "title": "邮箱登录 AuthenticationToken",
+      "type": "note",
+      "sha256_before": "7b8d14113868c935379886546adc2eb5bc346745730722e574f3c1263c894dca"
+    },
+    {
+      "old_path": "后端/SpringSecurity/邮箱登录安全配置.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱登录安全配置.md",
+      "title": "邮箱登录安全配置",
+      "type": "note",
+      "sha256_before": "70cc55ec43693fca1df4b1ae088d5974eef9c66927c651988d5c96ddb08d6c6b"
+    },
+    {
+      "old_path": "后端/SpringSecurity/邮箱验证码原理.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码原理.md",
+      "title": "邮箱验证码原理",
+      "type": "note",
+      "sha256_before": "7f6df5fa2270b5a74d81008e1880400e69c8ee217ab9c1358c2c77685b94da88"
+    },
+    {
+      "old_path": "后端/SpringSecurity/邮箱验证码发送接口.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码发送接口.md",
+      "title": "邮箱验证码发送接口",
+      "type": "note",
+      "sha256_before": "f0dc91cd7a57888456fe6de30be2060b00ba8d38570b970791361516872bf5e6"
+    },
+    {
+      "old_path": "后端/SpringSecurity/邮箱验证码控制器与前端.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码控制器与前端.md",
+      "title": "邮箱验证码控制器与前端",
+      "type": "note",
+      "sha256_before": "07672fbabd26ef7c4b12f033713ea5cea77f16bbdf62e234607497761e2a9d44"
+    },
+    {
+      "old_path": "后端/SpringSecurity/邮箱验证码第一次重构.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码第一次重构.md",
+      "title": "邮箱验证码第一次重构",
+      "type": "note",
+      "sha256_before": "ed4215c41694a58e9add8f7c7fd20a40099b592e3275c2279eed668928033877"
+    },
+    {
+      "old_path": "后端/SpringSecurity/邮箱验证码第二次重构.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码第二次重构.md",
+      "title": "邮箱验证码第二次重构",
+      "type": "note",
+      "sha256_before": "fa972c04dab7610c713363ce409306360c325f29c68c2d2317964c2d97efcfb0"
+    },
+    {
+      "old_path": "后端/SpringSecurity/邮箱验证码过滤器.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/SpringSecurity/邮箱验证码过滤器.md",
+      "title": "邮箱验证码过滤器",
+      "type": "note",
+      "sha256_before": "64d8a816c02b6739f803ccbd39357bb9014901b23d49957b1b16294773a01232"
+    },
+    {
+      "old_path": "后端/Swagger-SpringDoc.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/Swagger-SpringDoc.md",
+      "title": "Swagger-SpringDoc",
+      "type": "note",
+      "sha256_before": "af466efc11a72ee6308fbab536acd77418e078a29d6d8317d5534f1995657121"
+    },
+    {
+      "old_path": "后端/后端索引.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/Backend.md",
+      "title": "后端索引",
+      "type": "moc",
+      "sha256_before": "c9e2de135874e11c022ee58ce52a9782f7a2d5f84b5403e15bf5984ad2d8bdab"
+    },
+    {
+      "old_path": "后端/异常处理.md",
+      "new_path": "40-Knowledge/Software Engineering/Backend/异常处理.md",
+      "title": "异常处理",
+      "type": "note",
+      "sha256_before": "a4ad636897f8f5899b6200e796994df8f88f86e71cb87740ecded1d6a48c4b77"
+    },
+    {
+      "old_path": "安全/安全.md",
+      "new_path": "40-Knowledge/Cybersecurity/安全.md",
+      "title": "安全",
+      "type": "note",
+      "sha256_before": "3a97d58dd24ae14dbbedaa2b9ed9fd2263938fb29210769335a96b4438d4e152"
+    },
+    {
+      "old_path": "安全/安全索引.md",
+      "new_path": "40-Knowledge/Cybersecurity/Cybersecurity.md",
+      "title": "安全索引",
+      "type": "moc",
+      "sha256_before": "c06136fd4869ba6adf33276e9ec64c3518e66b7cbd110e242ad889c3d891daa3"
+    },
+    {
+      "old_path": "安全/第二届西安邮电大学网络安全大赛(部分re).md",
+      "new_path": "40-Knowledge/Cybersecurity/第二届西安邮电大学网络安全大赛(部分re).md",
+      "title": "第二届西安邮电大学网络安全大赛(部分re)",
+      "type": "note",
+      "sha256_before": "63599c49d83add88bbd639f8afb07f724eaa7afedb0d612ee2c9337ff91d78d3"
+    },
+    {
+      "old_path": "安全/网协安全组二面试题.md",
+      "new_path": "40-Knowledge/Cybersecurity/网协安全组二面试题.md",
+      "title": "网协安全组二面试题",
+      "type": "note",
+      "sha256_before": "5f097ed09c8b43021d2266b443b61a85e3d2478cf98e709456affad7d9609ef0"
+    },
+    {
+      "old_path": "工具/Breed.md",
+      "new_path": "40-Knowledge/Developer Tools/Breed.md",
+      "title": "Breed",
+      "type": "note",
+      "sha256_before": "720349885dd36beb79c6c02980ed1a1ef338f4d94cb999fcd88a15a8645994d6"
+    },
+    {
+      "old_path": "工具/CMake.md",
+      "new_path": "40-Knowledge/Developer Tools/CMake.md",
+      "title": "CMake",
+      "type": "note",
+      "sha256_before": "dd5fda80425672f97e39d471db4170e9020b4e048d3ed955143b224f94733deb"
+    },
+    {
+      "old_path": "工具/Conda.md",
+      "new_path": "40-Knowledge/Developer Tools/Conda.md",
+      "title": "Conda",
+      "type": "note",
+      "sha256_before": "42efaabb02ed36cfa886d9d8abfc1c88bb40dd504d4f5c1a2f17539358558677"
+    },
+    {
+      "old_path": "工具/Docker.md",
+      "new_path": "40-Knowledge/Developer Tools/Docker.md",
+      "title": "Docker",
+      "type": "note",
+      "sha256_before": "9b6f994d42b681d87d543a350eab8f83de6211d74c270f2f5807298cc70cb41f"
+    },
+    {
+      "old_path": "工具/Git.md",
+      "new_path": "40-Knowledge/Developer Tools/Git.md",
+      "title": "Git",
+      "type": "note",
+      "sha256_before": "22a5f7e7b30f15ebbafaf55292b30a55a67a44eca7f69782c7cb165f90229849"
+    },
+    {
+      "old_path": "工具/GitHub.md",
+      "new_path": "40-Knowledge/Developer Tools/GitHub.md",
+      "title": "GitHub",
+      "type": "note",
+      "sha256_before": "8d7c08b38f655fe174018b3202672fb1b60c04545f675d600b64767fc6585b15"
+    },
+    {
+      "old_path": "工具/JetBrains.md",
+      "new_path": "40-Knowledge/Developer Tools/JetBrains.md",
+      "title": "JetBrains",
+      "type": "note",
+      "sha256_before": "296f92ab2f5eb4ed4289aa0725c18de872cde08b1b4a3e0939744a456bd7fd71"
+    },
+    {
+      "old_path": "工具/MySQL.md",
+      "new_path": "40-Knowledge/Developer Tools/MySQL.md",
+      "title": "MySQL",
+      "type": "note",
+      "sha256_before": "6f6a9e0e51b2988e9b79fc381df02b74dbe2791a6d0986d3dcc346f7feacd69e"
+    },
+    {
+      "old_path": "工具/Nodejs.md",
+      "new_path": "40-Knowledge/Developer Tools/Nodejs.md",
+      "title": "Node.js",
+      "type": "note",
+      "sha256_before": "04f7b1f05e75f60a4b0c34ae5b562540f8d856358f101b918a13cfd9f8cf2676"
+    },
+    {
+      "old_path": "工具/Nuitka.md",
+      "new_path": "40-Knowledge/Developer Tools/Nuitka.md",
+      "title": "Nuitka",
+      "type": "note",
+      "sha256_before": "9490708d0b5b0f1f2be3e851d3de5e0dedb2ed4f5b1534b4bc4e99204ceb067f"
+    },
+    {
+      "old_path": "工具/Ollama.md",
+      "new_path": "40-Knowledge/Developer Tools/Ollama.md",
+      "title": "Ollama",
+      "type": "note",
+      "sha256_before": "1be10250ed61982c2373c0d4f222fe265e513242d95e2e6862b8b8eaf69a3df9"
+    },
+    {
+      "old_path": "工具/Redis.md",
+      "new_path": "40-Knowledge/Developer Tools/Redis.md",
+      "title": "Redis",
+      "type": "note",
+      "sha256_before": "402496ef38b2304b0180f30bf57000d300826a474813b6899a41800e0d805d96"
+    },
+    {
+      "old_path": "工具/StarUML.md",
+      "new_path": "40-Knowledge/Developer Tools/StarUML.md",
+      "title": "StarUML",
+      "type": "note",
+      "sha256_before": "6b2fa73fb5a1aa4dc2e3782a4aff088bb2b4331f55b413d9fa96913cfdc7bd90"
+    },
+    {
+      "old_path": "工具/Visual Studio Code.md",
+      "new_path": "40-Knowledge/Developer Tools/Visual Studio Code.md",
+      "title": "Visual Studio Code",
+      "type": "note",
+      "sha256_before": "2545ddc598df99d566e7050696bd1701650fc62332d8653fe8b15c3434e01285"
+    },
+    {
+      "old_path": "工具/Visual Studio.md",
+      "new_path": "40-Knowledge/Developer Tools/Visual Studio.md",
+      "title": "Visual Studio",
+      "type": "note",
+      "sha256_before": "6e839db52a4b0bb345dd13db8a8c01182f2e6647ea4a0055f4723c48e657d540"
+    },
+    {
+      "old_path": "工具/Windows Subsystem for Linux (WSL).md",
+      "new_path": "40-Knowledge/Developer Tools/Windows Subsystem for Linux (WSL).md",
+      "title": "Windows Subsystem for Linux (WSL)",
+      "type": "note",
+      "sha256_before": "aa6bf387644dcbcc84cbf8089996689eef7e7e0e9c05faac65c74a100003f18e"
+    },
+    {
+      "old_path": "工具/pip.md",
+      "new_path": "40-Knowledge/Developer Tools/pip.md",
+      "title": "pip",
+      "type": "moc",
+      "sha256_before": "7634b3087053c4089853d12558078baef094b66c0b1397e153e638f141e60a9e"
+    },
+    {
+      "old_path": "工具/pip/Sphinx 主题与 Read the Docs.md",
+      "new_path": "40-Knowledge/Developer Tools/pip/Sphinx 主题与 Read the Docs.md",
+      "title": "Sphinx 主题与 Read the Docs",
+      "type": "note",
+      "sha256_before": "a5c1c3044172493c23c743e73b8bc9f94b07bd736e6014e2c0c5319b399459db"
+    },
+    {
+      "old_path": "工具/pip/pip 常用命令与镜像.md",
+      "new_path": "40-Knowledge/Developer Tools/pip/pip 常用命令与镜像.md",
+      "title": "pip 常用命令与镜像",
+      "type": "note",
+      "sha256_before": "5353b38a49e3f8705cd0d1f5956c1cb880218bf117f5c49725e326fd25de4fcf"
+    },
+    {
+      "old_path": "工具/pip/使用 Sphinx 编写项目文档.md",
+      "new_path": "40-Knowledge/Developer Tools/pip/使用 Sphinx 编写项目文档.md",
+      "title": "使用 Sphinx 编写项目文档",
+      "type": "note",
+      "sha256_before": "23c6e51242a9ef00c2fd03cc1ff2f877d95b29d15c9c6d8eedc29697d7f87ddc"
+    },
+    {
+      "old_path": "工具/pip/发布 Python 库到 PyPI.md",
+      "new_path": "40-Knowledge/Developer Tools/pip/发布 Python 库到 PyPI.md",
+      "title": "发布 Python 库到 PyPI",
+      "type": "note",
+      "sha256_before": "b8f9e8c03a460a0593bf1529fd732de23b2da5e5ed619e9daa6034f09169af7d"
+    },
+    {
+      "old_path": "工具/shell.md",
+      "new_path": "40-Knowledge/Developer Tools/shell.md",
+      "title": "shell",
+      "type": "moc",
+      "sha256_before": "0627f03eb809e233dbe4ab195282aa7d7816cbc9b8f3ce327aac0df02ebb93ad"
+    },
+    {
+      "old_path": "工具/shell/Shell 函数与退出.md",
+      "new_path": "40-Knowledge/Developer Tools/shell/Shell 函数与退出.md",
+      "title": "Shell 函数与退出",
+      "type": "note",
+      "sha256_before": "6ee1e2490ff2bdb3f26b9460ddb546893c76306a8426c72273074e4d7a8a1c0a"
+    },
+    {
+      "old_path": "工具/shell/Shell 判断语句.md",
+      "new_path": "40-Knowledge/Developer Tools/shell/Shell 判断语句.md",
+      "title": "Shell 判断语句",
+      "type": "note",
+      "sha256_before": "75e8393981de3a4af723c9ce4fefd452f320e38db3f90684438c9029be32157c"
+    },
+    {
+      "old_path": "工具/shell/Shell 变量.md",
+      "new_path": "40-Knowledge/Developer Tools/shell/Shell 变量.md",
+      "title": "Shell 变量",
+      "type": "note",
+      "sha256_before": "67fc9233e509f12d8d8a88ddc6ed813bc90d53f1c57b7a2e899513bb3a9e096e"
+    },
+    {
+      "old_path": "工具/shell/Shell 循环语句.md",
+      "new_path": "40-Knowledge/Developer Tools/shell/Shell 循环语句.md",
+      "title": "Shell 循环语句",
+      "type": "note",
+      "sha256_before": "7d843ec9a844d2a6b0ffb516225175df0cb93bc26908e218600b157bee072dcb"
+    },
+    {
+      "old_path": "工具/shell/Shell 数组与 expr.md",
+      "new_path": "40-Knowledge/Developer Tools/shell/Shell 数组与 expr.md",
+      "title": "Shell 数组与 expr",
+      "type": "note",
+      "sha256_before": "0cfb1f6895139e9286ee4c274c17be67574175f5416012910b8b0664c6256094"
+    },
+    {
+      "old_path": "工具/shell/Shell 文件重定向与外部脚本.md",
+      "new_path": "40-Knowledge/Developer Tools/shell/Shell 文件重定向与外部脚本.md",
+      "title": "Shell 文件重定向与外部脚本",
+      "type": "note",
+      "sha256_before": "f795c60d4e6189b927f7ae394a91b098a37741181e2ed10fd84499eef5ffafe8"
+    },
+    {
+      "old_path": "工具/shell/Shell 条件测试.md",
+      "new_path": "40-Knowledge/Developer Tools/shell/Shell 条件测试.md",
+      "title": "Shell 条件测试",
+      "type": "note",
+      "sha256_before": "203005db59a9224659773fb643036e8d66f892046dfdb7b6a7dd11fee058eab9"
+    },
+    {
+      "old_path": "工具/shell/Shell 概论与注释.md",
+      "new_path": "40-Knowledge/Developer Tools/shell/Shell 概论与注释.md",
+      "title": "Shell 概论与注释",
+      "type": "note",
+      "sha256_before": "0ed506ab1fd8f1da1b85818e8132ed4938558dfa70b59bc0aa257447def24d45"
+    },
+    {
+      "old_path": "工具/shell/Shell 输入输出命令.md",
+      "new_path": "40-Knowledge/Developer Tools/shell/Shell 输入输出命令.md",
+      "title": "Shell 输入输出命令",
+      "type": "note",
+      "sha256_before": "f9c0647d2bb54bf68982bd8fde655c8e0ab6f01bbf263526c25623e61ca8b099"
+    },
+    {
+      "old_path": "工具/tmux.md",
+      "new_path": "40-Knowledge/Developer Tools/tmux.md",
+      "title": "tmux",
+      "type": "note",
+      "sha256_before": "f1d56dfceb1de5f6bda669a704231a5098f1e893ce979fe918c99edb34334d6c"
+    },
+    {
+      "old_path": "工具/uv.md",
+      "new_path": "40-Knowledge/Developer Tools/uv.md",
+      "title": "uv",
+      "type": "note",
+      "sha256_before": "6fd99749c6f9674a9a8704df4358a6d87b24ddd8581c5b79cac09497622033dc"
+    },
+    {
+      "old_path": "工具/上网.md",
+      "new_path": "40-Knowledge/Developer Tools/上网.md",
+      "title": "上网",
+      "type": "note",
+      "sha256_before": "3f4d747560e4aa4e6e7308e7c73eeaeff97fe3aa2832aa020929a65097455d6f"
+    },
+    {
+      "old_path": "工具/工具索引.md",
+      "new_path": "40-Knowledge/Developer Tools/Developer Tools.md",
+      "title": "工具索引",
+      "type": "moc",
+      "sha256_before": "1dffbe320db0d91101bb8e18663ab1137169a275369c28b2cc932ddb97973d7d"
+    },
+    {
+      "old_path": "数据结构/数据结构实现.md",
+      "new_path": "40-Knowledge/Computer Science/数据结构实现.md",
+      "title": "数据结构实现",
+      "type": "moc",
+      "sha256_before": "62d358bda02c8f543aa59901235215f8e4a30e7cc1f9fe8182dab0601326b1bf"
+    },
+    {
+      "old_path": "数据结构/数据结构实现/栈的实现.md",
+      "new_path": "40-Knowledge/Computer Science/数据结构实现/栈的实现.md",
+      "title": "栈的实现",
+      "type": "note",
+      "sha256_before": "a01dc3748246c8ed9f98bc55354fcafb579b7d715ec55e018ae671c5c3516c7d"
+    },
+    {
+      "old_path": "数据结构/数据结构实现/队列的实现.md",
+      "new_path": "40-Knowledge/Computer Science/数据结构实现/队列的实现.md",
+      "title": "队列的实现",
+      "type": "note",
+      "sha256_before": "6f643f83e5ea7bb5c7d2dde9b7503c984fd22aa0ef6bf6a9624c448b4c4689f8"
+    },
+    {
+      "old_path": "数据结构/数据结构索引.md",
+      "new_path": "40-Knowledge/Computer Science/Computer Science.md",
+      "title": "数据结构索引",
+      "type": "moc",
+      "sha256_before": "91ac87e913354cfac1af9b89f172aba813442a2317ca43793093ead03ceec523"
+    },
+    {
+      "old_path": "数据结构/算法题.md",
+      "new_path": "40-Knowledge/Computer Science/算法题.md",
+      "title": "算法题",
+      "type": "note",
+      "sha256_before": "7418119910ba8165e01b5f6004e1f59eed9d5bfaef414cf9b43ae5249d51cff4"
+    },
+    {
+      "old_path": "机器学习/人工智能顶会顶刊.md",
+      "new_path": "40-Knowledge/Deep Learning/人工智能顶会顶刊.md",
+      "title": "人工智能顶会顶刊",
+      "type": "note",
+      "sha256_before": "abb40dd372effb9fe5adc026481e61ef773cf7ba3bbdbc2dd0d8201ac47177bd"
+    },
+    {
+      "old_path": "机器学习/机器学习索引.md",
+      "new_path": "40-Knowledge/Deep Learning/Deep Learning.md",
+      "title": "机器学习索引",
+      "type": "moc",
+      "sha256_before": "ca437c9d867694c59dab40b69bd7cb85d778dc2ae6fb4b5310a5f4204a6902b1"
+    },
+    {
+      "old_path": "机器学习/深度学习.md",
+      "new_path": "40-Knowledge/Deep Learning/深度学习.md",
+      "title": "深度学习",
+      "type": "moc",
+      "sha256_before": "986da9509a3e35f3844f06055a895b199e4042748452900a4f6d781ef122ed2a"
+    },
+    {
+      "old_path": "机器学习/深度学习/PyTorch CPU 与 cu128 安装.md",
+      "new_path": "40-Knowledge/Deep Learning/深度学习/PyTorch CPU 与 cu128 安装.md",
+      "title": "PyTorch CPU 与 cu128 安装",
+      "type": "note",
+      "sha256_before": "eaa338272d04e63bf24c39a27a320a710610772cec3b3fc3ac4e09994bcc157b"
+    },
+    {
+      "old_path": "机器学习/深度学习/PyTorch cu111 与 cu102 安装.md",
+      "new_path": "40-Knowledge/Deep Learning/深度学习/PyTorch cu111 与 cu102 安装.md",
+      "title": "PyTorch cu111 与 cu102 安装",
+      "type": "note",
+      "sha256_before": "a11bd51eaf4894fe289b5019e0345ac70e80136911e7a9fd9bf79ed177fc60b2"
+    },
+    {
+      "old_path": "机器学习/深度学习/PyTorch cu117 至 cu113 安装.md",
+      "new_path": "40-Knowledge/Deep Learning/深度学习/PyTorch cu117 至 cu113 安装.md",
+      "title": "PyTorch cu117 至 cu113 安装",
+      "type": "note",
+      "sha256_before": "3b87f3a662bd4949fb097f2424a200f024f12f9545c44fa66a82804fc852a87a"
+    },
+    {
+      "old_path": "机器学习/深度学习/PyTorch cu118 安装.md",
+      "new_path": "40-Knowledge/Deep Learning/深度学习/PyTorch cu118 安装.md",
+      "title": "PyTorch cu118 安装",
+      "type": "note",
+      "sha256_before": "6d9bbb6669bac8bbeae4c20a2fa2ed58256f779ec08d7fbf894e7205423af912"
+    },
+    {
+      "old_path": "机器学习/深度学习/PyTorch cu121 安装.md",
+      "new_path": "40-Knowledge/Deep Learning/深度学习/PyTorch cu121 安装.md",
+      "title": "PyTorch cu121 安装",
+      "type": "note",
+      "sha256_before": "984d612d194af82075ce4712efe17576dfe8ef556d1051647999df92498ffd81"
+    },
+    {
+      "old_path": "机器学习/深度学习/PyTorch cu126 与 cu124 安装.md",
+      "new_path": "40-Knowledge/Deep Learning/深度学习/PyTorch cu126 与 cu124 安装.md",
+      "title": "PyTorch cu126 与 cu124 安装",
+      "type": "note",
+      "sha256_before": "67ed12a565e6516e1479a30cc70f4bd47b422df4251bc0f3f97ab517f1b8260b"
+    },
+    {
+      "old_path": "机器学习/深度学习/PyTorch 版本与镜像.md",
+      "new_path": "40-Knowledge/Deep Learning/深度学习/PyTorch 版本与镜像.md",
+      "title": "PyTorch 版本与镜像",
+      "type": "note",
+      "sha256_before": "4f752ce712ecb4bc48b5432ac817cf37ea4964b18c9a882f514360f4501cfe93"
+    },
+    {
+      "old_path": "机器学习/深度学习/PyTorch 自选版本安装.md",
+      "new_path": "40-Knowledge/Deep Learning/深度学习/PyTorch 自选版本安装.md",
+      "title": "PyTorch 自选版本安装",
+      "type": "note",
+      "sha256_before": "fc3ed27b2f844eab2b68155194c96f4a34ec952b19191d4068a5621334de25bc"
+    },
+    {
+      "old_path": "机器学习/深度学习/TensorFlow 与本地 CUDA 环境.md",
+      "new_path": "40-Knowledge/Deep Learning/深度学习/TensorFlow 与本地 CUDA 环境.md",
+      "title": "TensorFlow 与本地 CUDA 环境",
+      "type": "note",
+      "sha256_before": "8aef169dfd3b7c886667135ad5f33c55ed640d4116a5da7ddbf86ad8171dec9a"
+    },
+    {
+      "old_path": "机器学习/深度学习/深度学习资源与 Python 环境.md",
+      "new_path": "40-Knowledge/Deep Learning/深度学习/深度学习资源与 Python 环境.md",
+      "title": "深度学习资源与 Python 环境",
+      "type": "note",
+      "sha256_before": "596b9f948e1f00c1415116b35251c957b275aad0034fd8c13b8cf4af51720621"
+    },
+    {
+      "old_path": "爬虫/爬虫.md",
+      "new_path": "40-Knowledge/Software Engineering/Web Scraping/爬虫.md",
+      "title": "爬虫",
+      "type": "note",
+      "sha256_before": "0946b81eb41e0f4374800650111e73995527da8f7ee259df26272c7b837929fd"
+    },
+    {
+      "old_path": "爬虫/爬虫索引.md",
+      "new_path": "40-Knowledge/Software Engineering/Web Scraping/Web Scraping.md",
+      "title": "爬虫索引",
+      "type": "moc",
+      "sha256_before": "0de750d2794300a6d4f91df5d56e0802f82a5a1e443b096d66359fba49681941"
+    },
+    {
+      "old_path": "系统/ArchLinux.md",
+      "new_path": "40-Knowledge/Systems/ArchLinux.md",
+      "title": "ArchLinux",
+      "type": "moc",
+      "sha256_before": "c5d98d75d904a718375dfdc8f063ee71e2b4163d644aa70677b1e30c0090aeb8"
+    },
+    {
+      "old_path": "系统/ArchLinux/Arch Linux GNOME 桌面.md",
+      "new_path": "40-Knowledge/Systems/ArchLinux/Arch Linux GNOME 桌面.md",
+      "title": "Arch Linux GNOME 桌面",
+      "type": "note",
+      "sha256_before": "a6e8cf51f526cb51e0363daccf0920fb3f0e5791acc8dfda742c6e301b7825bc"
+    },
+    {
+      "old_path": "系统/ArchLinux/Arch Linux 基础配置.md",
+      "new_path": "40-Knowledge/Systems/ArchLinux/Arch Linux 基础配置.md",
+      "title": "Arch Linux 基础配置",
+      "type": "note",
+      "sha256_before": "a7f89c2c92a7c8eb6990b5ea0340b1a6bd500f7c28ab89fec08c805d8dd7e876"
+    },
+    {
+      "old_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "new_path": "40-Knowledge/Systems/ArchLinux/Arch Linux 安装.md",
+      "title": "Arch Linux 安装",
+      "type": "note",
+      "sha256_before": "1e1297985821cfce6438f5f835a1bf3f26c23528f52682f5b27b84eba204db19"
+    },
+    {
+      "old_path": "系统/ArchLinux/Arch Linux 软件安装.md",
+      "new_path": "40-Knowledge/Systems/ArchLinux/Arch Linux 软件安装.md",
+      "title": "Arch Linux 软件安装",
+      "type": "note",
+      "sha256_before": "0a1c3966e4e63cc469aca02b3c38f8446d5666c28ce7959d3057825e1bff86d2"
+    },
+    {
+      "old_path": "系统/ESXI.md",
+      "new_path": "40-Knowledge/Systems/ESXI.md",
+      "title": "ESXI",
+      "type": "note",
+      "sha256_before": "6df80462dfafca0181913ae1ad3b2534b327ccc48e3d23ea8197fb8cd94cbbc7"
+    },
+    {
+      "old_path": "系统/Linux.md",
+      "new_path": "40-Knowledge/Systems/Linux.md",
+      "title": "Linux",
+      "type": "note",
+      "sha256_before": "2da7720df461ee415648c983ea4e4b463cadd437bbf21e2a4be27c233b360f14"
+    },
+    {
+      "old_path": "系统/Ubuntu.md",
+      "new_path": "40-Knowledge/Systems/Ubuntu.md",
+      "title": "Ubuntu",
+      "type": "note",
+      "sha256_before": "7149a341294c8e1866ab70cc9cf02366a5842a71a70871edc326d06809a3f467"
+    },
+    {
+      "old_path": "系统/系统索引.md",
+      "new_path": "40-Knowledge/Systems/Systems.md",
+      "title": "系统索引",
+      "type": "moc",
+      "sha256_before": "ea8223446f0e75f5566b96caf4f4b847e32b3c529f93508fabda0e39d000da04"
+    },
+    {
+      "old_path": "语言/Assembly.md",
+      "new_path": "40-Knowledge/Programming/Assembly.md",
+      "title": "Assembly",
+      "type": "moc",
+      "sha256_before": "bc7108d4b92fe1798499c8d83f5ba1c4e63fcd0e1ec5af4d689e5b83a1e51c10"
+    },
+    {
+      "old_path": "语言/Assembly/8086 寄存器.md",
+      "new_path": "40-Knowledge/Programming/Assembly/8086 寄存器.md",
+      "title": "8086 寄存器",
+      "type": "note",
+      "sha256_before": "7fa15f03b63b258d0a77745b8297280a58cdd81d106e7ce14a0ec4c456ca5cc6"
+    },
+    {
+      "old_path": "语言/Assembly/字符串与标志指令.md",
+      "new_path": "40-Knowledge/Programming/Assembly/字符串与标志指令.md",
+      "title": "字符串与标志指令",
+      "type": "note",
+      "sha256_before": "784d14fbd1e53ecc03b0f02abdfdaa74e78da4a4e3a690a2608459ccb584b8a2"
+    },
+    {
+      "old_path": "语言/Assembly/循环与跳转指令.md",
+      "new_path": "40-Knowledge/Programming/Assembly/循环与跳转指令.md",
+      "title": "循环与跳转指令",
+      "type": "note",
+      "sha256_before": "84494a7bc939db4d26696c54ca20bffd29a1cf0180db8742236cb70f14a00ca0"
+    },
+    {
+      "old_path": "语言/Assembly/数据传送与算术指令.md",
+      "new_path": "40-Knowledge/Programming/Assembly/数据传送与算术指令.md",
+      "title": "数据传送与算术指令",
+      "type": "note",
+      "sha256_before": "b6f0d2ee8bcaad1dd85d4d224fa72e54e099985fb02ecd92f55aca10f2ac2144"
+    },
+    {
+      "old_path": "语言/Assembly/标志运算与条件转移.md",
+      "new_path": "40-Knowledge/Programming/Assembly/标志运算与条件转移.md",
+      "title": "标志运算与条件转移",
+      "type": "note",
+      "sha256_before": "31a24e1c99a91fbdc7c48069e411907af0006899012135e7e6698637f67276f1"
+    },
+    {
+      "old_path": "语言/Assembly/汇编伪指令与多段程序.md",
+      "new_path": "40-Knowledge/Programming/Assembly/汇编伪指令与多段程序.md",
+      "title": "汇编伪指令与多段程序",
+      "type": "note",
+      "sha256_before": "bcc24542dac830d0d28a3784021cc8b93a08345a68dfe152119a9f05927388ca"
+    },
+    {
+      "old_path": "语言/Assembly/汇编基础知识.md",
+      "new_path": "40-Knowledge/Programming/Assembly/汇编基础知识.md",
+      "title": "汇编基础知识",
+      "type": "note",
+      "sha256_before": "400faf96801f73c57a98577e5d3354a72ba908e5453e983ea6db552cbaddcef0"
+    },
+    {
+      "old_path": "语言/Assembly/汇编程序基础.md",
+      "new_path": "40-Knowledge/Programming/Assembly/汇编程序基础.md",
+      "title": "汇编程序基础",
+      "type": "note",
+      "sha256_before": "66ca5f1483a80adaf4c66b23fa94f348c0272ed9c4f5afce6dbb1b30ec3919df"
+    },
+    {
+      "old_path": "语言/Assembly/端口与位移指令.md",
+      "new_path": "40-Knowledge/Programming/Assembly/端口与位移指令.md",
+      "title": "端口与位移指令",
+      "type": "note",
+      "sha256_before": "e516854bc8981df2891fae8252bb587a327f109284e9aab2d62f26be03174f98"
+    },
+    {
+      "old_path": "语言/Assembly/调用与返回指令.md",
+      "new_path": "40-Knowledge/Programming/Assembly/调用与返回指令.md",
+      "title": "调用与返回指令",
+      "type": "note",
+      "sha256_before": "30ef2b1f1370acd2f4fad2870fc361a174ca75fc721f7acd13dcaeb6402de5c6"
+    },
+    {
+      "old_path": "语言/C.md",
+      "new_path": "40-Knowledge/Programming/C.md",
+      "title": "C",
+      "type": "moc",
+      "sha256_before": "e4bdb5856c5c384179107f44b43af48069cbcaa06d38f2d59e7d60fb260b9c85"
+    },
+    {
+      "old_path": "语言/C/C 函数基础.md",
+      "new_path": "40-Knowledge/Programming/C/C 函数基础.md",
+      "title": "C 函数基础",
+      "type": "note",
+      "sha256_before": "7de53f7d5c061029d516b00c37c2b43db2c5cead564f607784a1820b0386256f"
+    },
+    {
+      "old_path": "语言/C/C 字符串与字符串函数.md",
+      "new_path": "40-Knowledge/Programming/C/C 字符串与字符串函数.md",
+      "title": "C 字符串与字符串函数",
+      "type": "note",
+      "sha256_before": "22d44cbdab74512d6c9302a59d3cc72a03c9fa73a37ca5addd2b531ac86ef780"
+    },
+    {
+      "old_path": "语言/C/C 文件输入输出函数.md",
+      "new_path": "40-Knowledge/Programming/C/C 文件输入输出函数.md",
+      "title": "C 文件输入输出函数",
+      "type": "note",
+      "sha256_before": "2ee69c433df5a0a7e12950c9d19cb34a57932dcc28e2c0985cb88295c56f2df7"
+    },
+    {
+      "old_path": "语言/C/C 结构体.md",
+      "new_path": "40-Knowledge/Programming/C/C 结构体.md",
+      "title": "C 结构体",
+      "type": "note",
+      "sha256_before": "262946f41b663c90ce6868994cfc267b1c7c40fbcaa22c7ab19d82fe1755efa9"
+    },
+    {
+      "old_path": "语言/C/Linux IO 基础.md",
+      "new_path": "40-Knowledge/Programming/C/Linux IO 基础.md",
+      "title": "Linux IO 基础",
+      "type": "note",
+      "sha256_before": "b4583ef9cfba8fb800b83ddc85a1812a1c6d28508e72d6609cbb6c189f1bdac0"
+    },
+    {
+      "old_path": "语言/C/Linux IO 控制与文件描述符.md",
+      "new_path": "40-Knowledge/Programming/C/Linux IO 控制与文件描述符.md",
+      "title": "Linux IO 控制与文件描述符",
+      "type": "note",
+      "sha256_before": "451fcbf0f5b01bafd82795eb160a4d117b581f91c76c20bb0c787e5b835b02f2"
+    },
+    {
+      "old_path": "语言/C/Linux IO 高级操作.md",
+      "new_path": "40-Knowledge/Programming/C/Linux IO 高级操作.md",
+      "title": "Linux IO 高级操作",
+      "type": "note",
+      "sha256_before": "1f91c541218189d2c47b40f4ef934ad5dc2f8150ecb1bf9956ac1cf3d6a38a3e"
+    },
+    {
+      "old_path": "语言/C/Linux 进程基础.md",
+      "new_path": "40-Knowledge/Programming/C/Linux 进程基础.md",
+      "title": "Linux 进程基础",
+      "type": "note",
+      "sha256_before": "a9cb739a423299847360a4c8945940fb5150697771d4c74a5f4df35a09537a9f"
+    },
+    {
+      "old_path": "语言/Cpp.md",
+      "new_path": "40-Knowledge/Programming/Cpp.md",
+      "title": "Cpp",
+      "type": "note",
+      "sha256_before": "c6ec65611a8bcd3e35353ee0ad6aba2ccb222aed05997e683b5d224320ab5ca7"
+    },
+    {
+      "old_path": "语言/Python.md",
+      "new_path": "40-Knowledge/Programming/Python.md",
+      "title": "Python",
+      "type": "moc",
+      "sha256_before": "dfedefe8435432ee607f366cb22f24dd0e7a356bf6357980c5530cf66336c07c"
+    },
+    {
+      "old_path": "语言/Python/Python 列表.md",
+      "new_path": "40-Knowledge/Programming/Python/Python 列表.md",
+      "title": "Python 列表",
+      "type": "note",
+      "sha256_before": "ae8480f600e57ab43957a28d819b50c37c9354a0424c3412371c05ca1901ec7a"
+    },
+    {
+      "old_path": "语言/Python/Python 基础输入输出与类型转换.md",
+      "new_path": "40-Knowledge/Programming/Python/Python 基础输入输出与类型转换.md",
+      "title": "Python 基础输入输出与类型转换",
+      "type": "note",
+      "sha256_before": "999f3e5f87627ef5a176e828dc5f0e15c51130f2e95b9358577f1469c095adc1"
+    },
+    {
+      "old_path": "语言/Python/Python 字符串、函数与库.md",
+      "new_path": "40-Knowledge/Programming/Python/Python 字符串、函数与库.md",
+      "title": "Python 字符串、函数与库",
+      "type": "note",
+      "sha256_before": "c178bba0397907ad903e25ebf7ea9f76cadf5be1ec9bba2d466c3e30aca554cd"
+    },
+    {
+      "old_path": "语言/语言索引.md",
+      "new_path": "40-Knowledge/Programming/Programming.md",
+      "title": "语言索引",
+      "type": "moc",
+      "sha256_before": "15083dd52b948e191167709ce51c0728b0e8832ac24f07a64682f922b757e3ae"
+    },
+    {
+      "old_path": "首页.md",
+      "new_path": "首页.md",
+      "title": "首页",
+      "type": "moc",
+      "sha256_before": "888a9832f91fcf56e0afdab4c25c740bc6b9c746d8b27c1a4b69f08d5e1b15f3"
+    }
+  ],
+  "assets": [
+    {
+      "old_path": "assets/前端/Qt for Python/1.png",
+      "new_path": "99-Assets/Legacy/前端/Qt for Python/1.png",
+      "bytes": 25733,
+      "sha256": "e54478f079204fa21722d634502a69a2d0f075b0f8d4b0aa4574e59ef4e8f76d"
+    },
+    {
+      "old_path": "assets/前端/Qt for Python/2.png",
+      "new_path": "99-Assets/Legacy/前端/Qt for Python/2.png",
+      "bytes": 8737,
+      "sha256": "056235431bb48e75ffa19e43ba6bc726ba5b000869a2f3eb3c8f418d8cd5daba"
+    },
+    {
+      "old_path": "assets/博客/Hexo博客搭建/1.png",
+      "new_path": "99-Assets/Legacy/博客/Hexo博客搭建/1.png",
+      "bytes": 82557,
+      "sha256": "fd2fb08a4a89cbc3b9f9e4767cbd0304d5fdc2778ea90c82d4e0b8007f8ca53b"
+    },
+    {
+      "old_path": "assets/博客/Hexo博客搭建/2.png",
+      "new_path": "99-Assets/Legacy/博客/Hexo博客搭建/2.png",
+      "bytes": 140189,
+      "sha256": "751f80ecf2f46c021593b1e41377849d98bf929bc81f27fd06053e0b3f9c8122"
+    },
+    {
+      "old_path": "assets/博客/Hexo博客搭建/3.png",
+      "new_path": "99-Assets/Legacy/博客/Hexo博客搭建/3.png",
+      "bytes": 74937,
+      "sha256": "ff3f9b6fcf9f1bcb68f5ad12b79a5edc0a5558a3a54de0c20a4d34637cc74262"
+    },
+    {
+      "old_path": "assets/博客/Hexo博客搭建/4.png",
+      "new_path": "99-Assets/Legacy/博客/Hexo博客搭建/4.png",
+      "bytes": 72005,
+      "sha256": "9264f1cc73cf7cd132953288955f8b09837af4617eb033773376df12ddc2a4be"
+    },
+    {
+      "old_path": "assets/博客/Hexo博客搭建/5.png",
+      "new_path": "99-Assets/Legacy/博客/Hexo博客搭建/5.png",
+      "bytes": 38818,
+      "sha256": "23bab8b6ee88dec79e42b4293c6cdba219f0aeeb1c1d5304f0ddb5a74988a4be"
+    },
+    {
+      "old_path": "assets/博客/NexT主题/1.png",
+      "new_path": "99-Assets/Legacy/博客/NexT主题/1.png",
+      "bytes": 171293,
+      "sha256": "95c257eb7d62319782426756a1d88aa02800964b84c06c4d9cd24c7dc0fe327d"
+    },
+    {
+      "old_path": "assets/博客/NexT主题/2.png",
+      "new_path": "99-Assets/Legacy/博客/NexT主题/2.png",
+      "bytes": 142980,
+      "sha256": "77d078799c6caf8517d3ba2a85bfd3cdd48dedad8efe8556882d328388fef19a"
+    },
+    {
+      "old_path": "assets/博客/NexT主题/3.png",
+      "new_path": "99-Assets/Legacy/博客/NexT主题/3.png",
+      "bytes": 221017,
+      "sha256": "7d0bb9892e1bd0e86e9d5d2d6bf8f6d390d0f63e2bc12a4484a878d6075986d5"
+    },
+    {
+      "old_path": "assets/博客/NexT主题/4.png",
+      "new_path": "99-Assets/Legacy/博客/NexT主题/4.png",
+      "bytes": 160171,
+      "sha256": "542ebb43469a6a111d3a1c83b91e36f19f8620620e9e22efd014ef598af78875"
+    },
+    {
+      "old_path": "assets/博客/NexT主题/5.png",
+      "new_path": "99-Assets/Legacy/博客/NexT主题/5.png",
+      "bytes": 12809,
+      "sha256": "f067cf703feba49590ff8f44eba683da5e69bd664c58f1d06013c00e53fdece8"
+    },
+    {
+      "old_path": "assets/博客/NexT主题/6.png",
+      "new_path": "99-Assets/Legacy/博客/NexT主题/6.png",
+      "bytes": 17192,
+      "sha256": "e9afcd7677084242cfda018101b10bcbfecabcf938ae8830247a3ebcfa1f1328"
+    },
+    {
+      "old_path": "assets/后端/SpringBoot/1.png",
+      "new_path": "99-Assets/Legacy/后端/SpringBoot/1.png",
+      "bytes": 80943,
+      "sha256": "71d40d2cc083e539f455da84ccf55694e4d455997703a8b3d0c1217021a638da"
+    },
+    {
+      "old_path": "assets/后端/SpringBoot/2.png",
+      "new_path": "99-Assets/Legacy/后端/SpringBoot/2.png",
+      "bytes": 58552,
+      "sha256": "ebf3508d5ea56779ffc406559cd749f33c012529ba2170a108eee5b50cd9c855"
+    },
+    {
+      "old_path": "assets/后端/SpringBoot/3.png",
+      "new_path": "99-Assets/Legacy/后端/SpringBoot/3.png",
+      "bytes": 72946,
+      "sha256": "966cf6b2ad112ffc6bcace84e8c3cea56b8221c98ed5c6cb2934fff1ff2fbfcf"
+    },
+    {
+      "old_path": "assets/后端/SpringBoot/4.png",
+      "new_path": "99-Assets/Legacy/后端/SpringBoot/4.png",
+      "bytes": 366503,
+      "sha256": "ae844ccb0a297b2b9124ccbeac82f273222f3dc53cab7aae1a9e7d75b82120ad"
+    },
+    {
+      "old_path": "assets/后端/SpringBoot/5.png",
+      "new_path": "99-Assets/Legacy/后端/SpringBoot/5.png",
+      "bytes": 18397,
+      "sha256": "8f285ef373f699a62f7cdba7380e2ad746f7773357b4d500c2be187985b44401"
+    },
+    {
+      "old_path": "assets/后端/SpringBoot/6.png",
+      "new_path": "99-Assets/Legacy/后端/SpringBoot/6.png",
+      "bytes": 6092,
+      "sha256": "68071c8931800cfc7ab32f6b417079ae85fe68fecddddf55d545ab79dd852c8e"
+    },
+    {
+      "old_path": "assets/后端/SpringBoot/7.png",
+      "new_path": "99-Assets/Legacy/后端/SpringBoot/7.png",
+      "bytes": 76362,
+      "sha256": "c072c79c8cbc7b0e90ff90146b9ca027fc83580c4216445f3e7ef6515219794c"
+    },
+    {
+      "old_path": "assets/后端/SpringBoot/8.png",
+      "new_path": "99-Assets/Legacy/后端/SpringBoot/8.png",
+      "bytes": 28254,
+      "sha256": "92ec81df1a096a49063073ff0b7d046f7e2767a5a01cd2a5f50a2503518130c6"
+    },
+    {
+      "old_path": "assets/后端/SpringBoot/9.png",
+      "new_path": "99-Assets/Legacy/后端/SpringBoot/9.png",
+      "bytes": 194043,
+      "sha256": "b877402a109c511447d01ef147eb2bcfc1c07e91bb9bf5eced5603ea72842515"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/1.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/1.png",
+      "bytes": 89610,
+      "sha256": "15b9b10f50c0bd3ca767a2880c93feb3b63a71e1b490a8c7c6a6c4db56fc1a13"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/10.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/10.png",
+      "bytes": 78101,
+      "sha256": "8df4699de3f9a3f8191f108c2b7a409ff8a0f6a82fe2ca2ecb7d64815e48c503"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/11.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/11.png",
+      "bytes": 356941,
+      "sha256": "f5c908a9d55e9938946c041001837cbf589407c93a9152e8f7e92bf98a79cd22"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/12.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/12.png",
+      "bytes": 314377,
+      "sha256": "a1a990fcb181c54015f20be0aa46987a10402bb260fc1e8e1fe66e5c9f1dac94"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/13.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/13.png",
+      "bytes": 229436,
+      "sha256": "ad5a9693d595a50d154c5b5bc08cad9a39e59699741dc59c2d865a9c4053543b"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/14.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/14.png",
+      "bytes": 229846,
+      "sha256": "dd134fbfa252ff18c2c05a6c7ea8ba7800a22c1f9cdf1655e4b8959dcb5ebd1d"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/15.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/15.png",
+      "bytes": 229688,
+      "sha256": "6c8310137a2413a8a31d4571878d011887467e4d0e8c7391cf06f7920877c1b4"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/16.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/16.png",
+      "bytes": 231493,
+      "sha256": "58aaf9c6430ba05115851677d81e946aa1015cc83dd50d261dc2ac1f67982c4c"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/17.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/17.png",
+      "bytes": 76146,
+      "sha256": "455cff9e7f77190aa2e15ab7a438640a4bbea5763ff25c6a8ea4965724591453"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/18.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/18.png",
+      "bytes": 25028,
+      "sha256": "d750a342dbb14099862ea3a60332776b024f43e3bbb37cef4a90987cc463e3e1"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/19.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/19.png",
+      "bytes": 51713,
+      "sha256": "dedac0783fb7c1df50c5cb35a487444087f16d1da970863e6e6f6aa2b37a63a9"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/2.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/2.png",
+      "bytes": 101141,
+      "sha256": "b9a6af2bbe97ea5c00c3fdaece7e34e762e283d98e0c20d0d23c44fa85f210de"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/20.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/20.png",
+      "bytes": 28039,
+      "sha256": "fd314aff5ed82a2c8608a0dce19b768ee08fe001c1148e717628cf7669117e02"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/21.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/21.png",
+      "bytes": 53912,
+      "sha256": "45528e83b531fa6e9055c5241927cf9c4201855d677a1e7f8cd243748a696a04"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/22.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/22.png",
+      "bytes": 27912,
+      "sha256": "1e884bbd80bdb9026b7117c551dec17f1d0c2c04e0e0c5614c32099a107612e5"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/23.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/23.png",
+      "bytes": 64807,
+      "sha256": "5d350240b6427da4c4b5a9dd8ff7f8237405e5e6b2b9024bd4223406aae78416"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/24.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/24.png",
+      "bytes": 42999,
+      "sha256": "24a1adca732dff28f52953be4d3f2549a3fcc578590aefec37288e71852f94f9"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/26.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/26.png",
+      "bytes": 27388,
+      "sha256": "a5b867e37b45a3b4f493e05a0a9c8e916632de6619e258939d38734b856d52bd"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/27.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/27.png",
+      "bytes": 371950,
+      "sha256": "816b6cc244f3592fe7dfafceed39a541e2ed0327528fbd216e746eca35039568"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/28.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/28.png",
+      "bytes": 282353,
+      "sha256": "0d8a4958b0f957dd5601ab551fdaf135212f16e1fcde9b8c3617d7e01d99d8f4"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/29.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/29.png",
+      "bytes": 390607,
+      "sha256": "6a6f86b1704f8b67cb7916a2c7220e07186abba2832ee68f77d920c1eaf2d8ef"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/3.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/3.png",
+      "bytes": 156892,
+      "sha256": "b232d5faae50c4063bb188ded5a0928d4859568fcc03fc793c26718875ae31d7"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/30.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/30.png",
+      "bytes": 400205,
+      "sha256": "6a9ce51628f420db426ad73d913627129d7cae43e9a2ddbc7b9ee7130ff5d78b"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/31.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/31.png",
+      "bytes": 333169,
+      "sha256": "343f4f1fb244fc0231b90de95cd8b315518c2e4346c066029706a6d0901c36f1"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/32.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/32.png",
+      "bytes": 708103,
+      "sha256": "2dffea2dc08ee5bcd6e058be12f3f5613e550871b94826e324d391ed3ba3a525"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/33.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/33.png",
+      "bytes": 662518,
+      "sha256": "67409f1116538901358ad17b36037c68ad9fbb0b17765dc55e42a656b106d7bf"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/34.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/34.png",
+      "bytes": 675182,
+      "sha256": "f2fc1d428cd1ecfb371c5145458b41ad79d05a6995e0a642762b9e1aa834cfbb"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/35.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/35.png",
+      "bytes": 571169,
+      "sha256": "a0c8d1bcbb203cb5a2ba7919416e23763e9f939f21d607760cc9baf432addae3"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/36.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/36.png",
+      "bytes": 537556,
+      "sha256": "a7831938488c53d81551dae5a3b23b84e94a6eea0ce412728153ed25cfc84d33"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/37.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/37.png",
+      "bytes": 679025,
+      "sha256": "886e852ea05c1c5a8ca58ae07718648255857e6146b8247fc23c212891d827ed"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/4.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/4.png",
+      "bytes": 16785,
+      "sha256": "f18943abfaba84d804c115467b868ae3b21b28ded20cfc96ba2e6bd725a5640f"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/5.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/5.png",
+      "bytes": 73128,
+      "sha256": "8a9069cab41a56f15deaeea5343793c763b37474d79c893f9a4651055f7c9ab5"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/6.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/6.png",
+      "bytes": 5785,
+      "sha256": "6e1c89ce8c3d4f950d488a0daddaba4c61c484c439b9e4f783c97a139b1b5248"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/7.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/7.png",
+      "bytes": 20971,
+      "sha256": "3e9529712cfaa21af53edfe98b463c1085d4798bb6601f04883273d2add0edac"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/8.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/8.png",
+      "bytes": 64030,
+      "sha256": "3eb1d1a084a86e8e08602f758f064cde86e276c424a0e0c6ed7fdeeb4f5a26ee"
+    },
+    {
+      "old_path": "assets/后端/SpringSecurity/9.png",
+      "new_path": "99-Assets/Legacy/后端/SpringSecurity/9.png",
+      "bytes": 157876,
+      "sha256": "19b55260ffbb729384676c55bc0c70a6aeccb643bb67aae22971ba90f0befc30"
+    },
+    {
+      "old_path": "assets/后端/Swagger-SpringDoc/1.png",
+      "new_path": "99-Assets/Legacy/后端/Swagger-SpringDoc/1.png",
+      "bytes": 275252,
+      "sha256": "b4fb6dfae87b6b01c72ac4729b7e19d5bf95c6881817f87ab0f509eb53ebdbd2"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/1.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/1.png",
+      "bytes": 42869,
+      "sha256": "9ee6d537c92d968eb289e76910bc2da4f497d0790369a0d9e2faefed012c5dba"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/10.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/10.png",
+      "bytes": 22090,
+      "sha256": "0a9349469abc9ae7c9f9c7a42c32dc8b22b86f6e98223d00cf0bdda5d70968fd"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/11.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/11.png",
+      "bytes": 120829,
+      "sha256": "e0092dcbbf6d1304c661dcbee18c71da7881a0e2484c49d73775fec51e808756"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/12.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/12.png",
+      "bytes": 160434,
+      "sha256": "24793995886ab4640d803516c5debfd6c9b3ad1b16e3b56b72ea6092d28b5dd2"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/13.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/13.png",
+      "bytes": 138629,
+      "sha256": "d0b271e1557a7d3c1a614531f40d793783ba2bb1f0e46fc1e637bacf4ac16e28"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/14.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/14.png",
+      "bytes": 185617,
+      "sha256": "b61e4e99e09cda1e87b3523442e1c99250f59c8463bf6fd82ed5c2d7a9eed083"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/15.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/15.png",
+      "bytes": 79348,
+      "sha256": "653021f8035e264c3da0364f770d26cafe7ae113c67ffde0a28a9eb6c43bff3e"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/16.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/16.png",
+      "bytes": 13401,
+      "sha256": "cb540ac5a63b829fcfdba2817120efad3f6592b960593337f29c7da809ada368"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/2.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/2.png",
+      "bytes": 45372,
+      "sha256": "312a86a1ad1d4d52a15d4fc99db26c94efa6c6abd7c446321ed526e13a625697"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/3.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/3.png",
+      "bytes": 24972,
+      "sha256": "57ac89ed5a0270562803f79c5847a05bc29a6e60d64a6d7c89300458bd84b82f"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/4.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/4.png",
+      "bytes": 68796,
+      "sha256": "71224310291e74c7107eb134c62c183bed16a7a01d92506b760ccb0a250c6b43"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/5.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/5.png",
+      "bytes": 68565,
+      "sha256": "4a8a2e31fced57cf82f7583bbf5a910a64ff558c8556394c745246434f6e3558"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/6.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/6.png",
+      "bytes": 74752,
+      "sha256": "1857ecb9ebda24ef6b7968d77ffe05fd3f264529f316f773b69b8b48a985d47e"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/7.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/7.png",
+      "bytes": 18925,
+      "sha256": "44b2bc41adf21239dde07de666d0acab4468bbf59af2279c6d24194211c8038d"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/8.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/8.png",
+      "bytes": 176036,
+      "sha256": "72e4dc568ef23db1bfe6e2703f940f3f122e9a1921102b0a7fca20eab7350d30"
+    },
+    {
+      "old_path": "assets/安全/第二届西安邮电大学网络安全大赛(部分re)/9.png",
+      "new_path": "99-Assets/Legacy/安全/第二届西安邮电大学网络安全大赛(部分re)/9.png",
+      "bytes": 65050,
+      "sha256": "18f0c11cd6ae28d8050f6eb89c78d09a572b6d10e421054e96d172bf3c50ae29"
+    },
+    {
+      "old_path": "assets/工具/Git/1.png",
+      "new_path": "99-Assets/Legacy/工具/Git/1.png",
+      "bytes": 136033,
+      "sha256": "dcacf7a32fd56b60968d4a3f694de295e916a7ccbf17841e8f6e2b6131c179ea"
+    },
+    {
+      "old_path": "assets/工具/Git/2.png",
+      "new_path": "99-Assets/Legacy/工具/Git/2.png",
+      "bytes": 23841,
+      "sha256": "e57dc66aca406ed3410f70ea0ae74a34beadb2fde2ec37b753ac913dfce17d2f"
+    },
+    {
+      "old_path": "assets/工具/Git/3.png",
+      "new_path": "99-Assets/Legacy/工具/Git/3.png",
+      "bytes": 28453,
+      "sha256": "1784724d722ba1d242fc3d8bc85f4640a56091eeea35129c281e3a4fcca3d80f"
+    },
+    {
+      "old_path": "assets/工具/Git/4.png",
+      "new_path": "99-Assets/Legacy/工具/Git/4.png",
+      "bytes": 31986,
+      "sha256": "c6d177ffe8e05bda9e40df2722a2cf2e672d5fa9f2a543a6c06cd6dd1c7aff4d"
+    },
+    {
+      "old_path": "assets/工具/GitHub/1.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/1.png",
+      "bytes": 108575,
+      "sha256": "5138463f44d13a85486966e8b756651cf9fba194ca9058109cbc9192bb2df2aa"
+    },
+    {
+      "old_path": "assets/工具/GitHub/10.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/10.png",
+      "bytes": 321931,
+      "sha256": "f378459c07bc20d308773bef5ee1206b12a8d7e41d193b71aba03c78bd4cad7b"
+    },
+    {
+      "old_path": "assets/工具/GitHub/11.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/11.png",
+      "bytes": 154715,
+      "sha256": "4a6e60cdc4d9758c87f4b23ec3596a36fc85821fc41173d7195ffaef496cb777"
+    },
+    {
+      "old_path": "assets/工具/GitHub/12.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/12.png",
+      "bytes": 148756,
+      "sha256": "c27ac0bc2754603ae0760d2425acbe06531acf0c7a80d6787337c6865644b40d"
+    },
+    {
+      "old_path": "assets/工具/GitHub/13.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/13.png",
+      "bytes": 95911,
+      "sha256": "367556122707cc099adfcd59bab9bf8b36557b31a14e5a8a24c33603723bf455"
+    },
+    {
+      "old_path": "assets/工具/GitHub/2.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/2.png",
+      "bytes": 121669,
+      "sha256": "352608281754b6ed4915cf344f1d3ce92337d8763e58227004db86b589137c8e"
+    },
+    {
+      "old_path": "assets/工具/GitHub/3.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/3.png",
+      "bytes": 188040,
+      "sha256": "606638d59ba1ba80d1464f2004d2e2b3f4d181753215bcadda3f70c86b44f63e"
+    },
+    {
+      "old_path": "assets/工具/GitHub/4.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/4.png",
+      "bytes": 178816,
+      "sha256": "d428860001ce22476d354006ef65af5af38088f45b7cf366c46932017300b23a"
+    },
+    {
+      "old_path": "assets/工具/GitHub/5.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/5.png",
+      "bytes": 44358,
+      "sha256": "c0316082d286bf913a846c21f2aeaad6333f859f27a830802ab0fecbb492f24d"
+    },
+    {
+      "old_path": "assets/工具/GitHub/6.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/6.png",
+      "bytes": 134800,
+      "sha256": "1e2d259e0f693f75e7823be0ef6b65fd7fb51baa757c17c6431d2ea93e334cea"
+    },
+    {
+      "old_path": "assets/工具/GitHub/7.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/7.png",
+      "bytes": 77253,
+      "sha256": "bcd25f0da4280e3aa98d3e3a81610e349ada3f0b9bd9323e0d67c51a7b7cb92e"
+    },
+    {
+      "old_path": "assets/工具/GitHub/8.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/8.png",
+      "bytes": 77452,
+      "sha256": "21ef3c35be819e9a9b0a3f0ae81dfb33567742ed38975f219d5c3166534a2ee0"
+    },
+    {
+      "old_path": "assets/工具/GitHub/9.png",
+      "new_path": "99-Assets/Legacy/工具/GitHub/9.png",
+      "bytes": 70550,
+      "sha256": "6179e439114e60e2b0f4cf2b90081841cf42233ea7148ed4e421a8cd63620b6f"
+    },
+    {
+      "old_path": "assets/工具/Nodejs/1.png",
+      "new_path": "99-Assets/Legacy/工具/Nodejs/1.png",
+      "bytes": 85835,
+      "sha256": "189ac3b140e72282b77cbda2f4d5cad5b80c665ea054630b0c901ebe2daf406a"
+    },
+    {
+      "old_path": "assets/工具/Nodejs/2.png",
+      "new_path": "99-Assets/Legacy/工具/Nodejs/2.png",
+      "bytes": 97903,
+      "sha256": "5ec904d87af5b13ff842ea9dc1fe0cca8f49d436537b4b09cdf4b15874957cec"
+    },
+    {
+      "old_path": "assets/工具/Redis/1.png",
+      "new_path": "99-Assets/Legacy/工具/Redis/1.png",
+      "bytes": 5774,
+      "sha256": "59b2a9404e7e3eb01b493bce268dd74640d02f69f5f1adffc6aa017f29db7b3e"
+    },
+    {
+      "old_path": "assets/工具/Redis/2.png",
+      "new_path": "99-Assets/Legacy/工具/Redis/2.png",
+      "bytes": 12407,
+      "sha256": "652b93deec5dcbbb52e5305640eee663bda0498b09a3a9b5c43c3bc4ef975513"
+    },
+    {
+      "old_path": "assets/工具/Redis/3.png",
+      "new_path": "99-Assets/Legacy/工具/Redis/3.png",
+      "bytes": 14012,
+      "sha256": "e3d73334a29dcbf8ad9f340c336a56c12e0149e79dac5532f4b1ad59f32cb136"
+    },
+    {
+      "old_path": "assets/工具/StarUML/1.png",
+      "new_path": "99-Assets/Legacy/工具/StarUML/1.png",
+      "bytes": 11076,
+      "sha256": "7b820402350bb9a9e6cf761b53af3393fd26bd5c951cf508d80c60ec373cb383"
+    },
+    {
+      "old_path": "assets/工具/StarUML/2.png",
+      "new_path": "99-Assets/Legacy/工具/StarUML/2.png",
+      "bytes": 13000,
+      "sha256": "c860144fb09db1673e699786b8aec6a6221579133bcdcb30a4f72068526eff5d"
+    },
+    {
+      "old_path": "assets/工具/Visual Studio Code/1.png",
+      "new_path": "99-Assets/Legacy/工具/Visual Studio Code/1.png",
+      "bytes": 29428,
+      "sha256": "1838d45be685d22ca31dc93a43ca58c7cbd641890ca0d12170e3d3586b467b58"
+    },
+    {
+      "old_path": "assets/工具/Visual Studio Code/10.png",
+      "new_path": "99-Assets/Legacy/工具/Visual Studio Code/10.png",
+      "bytes": 104820,
+      "sha256": "acf09a69832143044c06590ae8444e2f4d21f327b0c4a18b1e6bfd841d7aa258"
+    },
+    {
+      "old_path": "assets/工具/Visual Studio Code/11.png",
+      "new_path": "99-Assets/Legacy/工具/Visual Studio Code/11.png",
+      "bytes": 20007,
+      "sha256": "f5d10f2d96229b742bb2bdead570838a47f233475b4eb482ae2bc4f95708bc29"
+    },
+    {
+      "old_path": "assets/工具/Visual Studio Code/2.png",
+      "new_path": "99-Assets/Legacy/工具/Visual Studio Code/2.png",
+      "bytes": 22179,
+      "sha256": "fa51eaa60305ffdaef69f0cb808d57d776473d2508a0e5f02150a0bafa6a056a"
+    },
+    {
+      "old_path": "assets/工具/Visual Studio Code/3.gif",
+      "new_path": "99-Assets/Legacy/工具/Visual Studio Code/3.gif",
+      "bytes": 43673,
+      "sha256": "c87abb47cd744f5404a2081d41639052625d9d8bf1411a05eff9dded76e33168"
+    },
+    {
+      "old_path": "assets/工具/Visual Studio Code/4.gif",
+      "new_path": "99-Assets/Legacy/工具/Visual Studio Code/4.gif",
+      "bytes": 100553,
+      "sha256": "462f90d1000e6e9a8ad4b0420bc3e6d8e813e0cec83fee5e86c43d49bdd958cb"
+    },
+    {
+      "old_path": "assets/工具/Visual Studio Code/5.gif",
+      "new_path": "99-Assets/Legacy/工具/Visual Studio Code/5.gif",
+      "bytes": 132721,
+      "sha256": "af8fab7f20e078e5d15ad0aa5c3f94de8cc7b50e88fd12b73c7de930f9e3854a"
+    },
+    {
+      "old_path": "assets/工具/Visual Studio Code/6.gif",
+      "new_path": "99-Assets/Legacy/工具/Visual Studio Code/6.gif",
+      "bytes": 130078,
+      "sha256": "9db78bfd9ccc54663c4473b61ee620f3e040c3e06041011ae85abc7e6f9bc2e3"
+    },
+    {
+      "old_path": "assets/工具/Visual Studio Code/7.png",
+      "new_path": "99-Assets/Legacy/工具/Visual Studio Code/7.png",
+      "bytes": 83926,
+      "sha256": "2029b01e3f3064494b2fc3e266012733ab2a8b4d21961cb66256277762fdac88"
+    },
+    {
+      "old_path": "assets/工具/Visual Studio Code/8.png",
+      "new_path": "99-Assets/Legacy/工具/Visual Studio Code/8.png",
+      "bytes": 119127,
+      "sha256": "e9f3b9bd945cfb5691813c16c66ee2bb1ebb12be7447b71f956d0decdeb32d04"
+    },
+    {
+      "old_path": "assets/工具/Visual Studio Code/9.gif",
+      "new_path": "99-Assets/Legacy/工具/Visual Studio Code/9.gif",
+      "bytes": 64286,
+      "sha256": "8039491c80d35bf15d944b9a657fee20a348a5f88f16524331e710284dcd24c4"
+    },
+    {
+      "old_path": "assets/工具/Windows Subsystem for Linux (WSL)/1.png",
+      "new_path": "99-Assets/Legacy/工具/Windows Subsystem for Linux (WSL)/1.png",
+      "bytes": 546384,
+      "sha256": "ae60749e1e275db53848223cac569a2ac4a04c9a8ae29a5cef791911b9e25a8c"
+    },
+    {
+      "old_path": "assets/工具/pip/1.png",
+      "new_path": "99-Assets/Legacy/工具/pip/1.png",
+      "bytes": 135970,
+      "sha256": "42bd6326f2d0fcb1ea29d3a7352a5fc3f4e85c8db8c7a53dc4fdba489e7788b8"
+    },
+    {
+      "old_path": "assets/工具/pip/2.png",
+      "new_path": "99-Assets/Legacy/工具/pip/2.png",
+      "bytes": 89826,
+      "sha256": "efffad7801417149de35093dce9bc6b78d024e03030eaeacb73e4085fd1980a3"
+    },
+    {
+      "old_path": "assets/工具/pip/3.png",
+      "new_path": "99-Assets/Legacy/工具/pip/3.png",
+      "bytes": 90262,
+      "sha256": "d09ef07927ae221b968b990bc8a28fce5c8d7ae2846f8ae18d20bb8a11e42d6e"
+    },
+    {
+      "old_path": "assets/工具/pip/4.png",
+      "new_path": "99-Assets/Legacy/工具/pip/4.png",
+      "bytes": 26482,
+      "sha256": "45425a9d60f5725f7843605d717269cde7b130c86a3f0ec133456d77f4f78ca1"
+    },
+    {
+      "old_path": "assets/工具/pip/5.png",
+      "new_path": "99-Assets/Legacy/工具/pip/5.png",
+      "bytes": 85707,
+      "sha256": "8e7478a1803cab6a21cacc011278a36b640121ec04d8f175c5df6cc0055527dd"
+    },
+    {
+      "old_path": "assets/工具/pip/6.png",
+      "new_path": "99-Assets/Legacy/工具/pip/6.png",
+      "bytes": 40343,
+      "sha256": "bb82a63de44eda48b8d5aa7d012c9d111bac02e338855e99535df86b820961bf"
+    },
+    {
+      "old_path": "assets/工具/pip/7.png",
+      "new_path": "99-Assets/Legacy/工具/pip/7.png",
+      "bytes": 49508,
+      "sha256": "b46d3aeac0f5eb4a5420000c696e7c0e3647d9f68c43dbb0d5aa2bb80c181cae"
+    },
+    {
+      "old_path": "assets/工具/pip/8.png",
+      "new_path": "99-Assets/Legacy/工具/pip/8.png",
+      "bytes": 104431,
+      "sha256": "c12b8356ab6c84fab2fc133b43b1c61efe8deae130b21f8f1c6e831b37ff4041"
+    },
+    {
+      "old_path": "assets/机器学习/深度学习/1.png",
+      "new_path": "99-Assets/Legacy/机器学习/深度学习/1.png",
+      "bytes": 64023,
+      "sha256": "59dd821569ce6f4d888060f5c17237442c75a89f2628f98d2d8334a5b1a8cdf6"
+    },
+    {
+      "old_path": "assets/系统/ESXI/1.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/1.png",
+      "bytes": 271963,
+      "sha256": "2a4d40f5f1ba67bc583eb860173fe22036add8570eaea3bce1831a2b62afb9ac"
+    },
+    {
+      "old_path": "assets/系统/ESXI/10.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/10.png",
+      "bytes": 37968,
+      "sha256": "26d6c3b3556ea6607f08c91298b56d39b032becf5f68278314c6c03d9a2c7f63"
+    },
+    {
+      "old_path": "assets/系统/ESXI/11.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/11.png",
+      "bytes": 24172,
+      "sha256": "958707ff2a7c10e766b7b73bd684fd3fc5d3eb507d6ecd3d29afa68bf50561a7"
+    },
+    {
+      "old_path": "assets/系统/ESXI/12.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/12.png",
+      "bytes": 7594,
+      "sha256": "36102ae84bef8e5d8da373f91a64d7893bb96981ff64ac574b8072a0743646fe"
+    },
+    {
+      "old_path": "assets/系统/ESXI/13.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/13.png",
+      "bytes": 45525,
+      "sha256": "86b2fc76241eaa948c194bcffc9defa715de7fe4a0bfdd8bc96a1d8299e5ed0f"
+    },
+    {
+      "old_path": "assets/系统/ESXI/14.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/14.png",
+      "bytes": 35583,
+      "sha256": "d49c818ae9a60348fed9e83360b5ebb820cd2fcdf469eebe97d251c5400bbd3e"
+    },
+    {
+      "old_path": "assets/系统/ESXI/15.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/15.png",
+      "bytes": 237124,
+      "sha256": "ce90f7e24193e8ee2e0de4d7edd0e2078e26971ffd620a89976f9e7cf05638bd"
+    },
+    {
+      "old_path": "assets/系统/ESXI/16.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/16.png",
+      "bytes": 39047,
+      "sha256": "abc46c8ff8dfc478d347a2dab348d948993e9dbfc170c7b577ba10ca60fe9f73"
+    },
+    {
+      "old_path": "assets/系统/ESXI/17.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/17.png",
+      "bytes": 4340,
+      "sha256": "c9cb40ceb06d26aa999e5868bfdba70802dc62e1a5af8c651f34a72878c545df"
+    },
+    {
+      "old_path": "assets/系统/ESXI/18.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/18.png",
+      "bytes": 235461,
+      "sha256": "a98064b2edc95dd6cd7c4f6989cd3a595cafe510b7ccf203f3f10594b16d6573"
+    },
+    {
+      "old_path": "assets/系统/ESXI/2.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/2.png",
+      "bytes": 68393,
+      "sha256": "8aa8b1bb845890ae15fccfda89c8dc53ffd6fe2f1a8c7679f50f7189d9e3bd25"
+    },
+    {
+      "old_path": "assets/系统/ESXI/3.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/3.png",
+      "bytes": 74283,
+      "sha256": "cd9cf3a2295795351fb39b243cbdca75a7b11ce3b29d12ca7f5d974dc7db8a92"
+    },
+    {
+      "old_path": "assets/系统/ESXI/4.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/4.png",
+      "bytes": 60527,
+      "sha256": "e999d7b19fa39fb795d4a060af460e882f5fbe4ee3da95055575fda6075b0029"
+    },
+    {
+      "old_path": "assets/系统/ESXI/5.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/5.png",
+      "bytes": 10490,
+      "sha256": "10aeffbdabe2098157582c54b0ededaca59899498548b0ac10313701aa99db71"
+    },
+    {
+      "old_path": "assets/系统/ESXI/6.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/6.png",
+      "bytes": 2026,
+      "sha256": "dff1d67377ecf3d8ca0e4990d954605c26d89a6d9d4c1e6264fd3ed65bfe7fdb"
+    },
+    {
+      "old_path": "assets/系统/ESXI/7.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/7.png",
+      "bytes": 76957,
+      "sha256": "677f6b6fa45b7385b74393adf4a20b1deb0ba07d819f4a3bceb1ae49404610c1"
+    },
+    {
+      "old_path": "assets/系统/ESXI/8.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/8.png",
+      "bytes": 3467,
+      "sha256": "4e8081ab6b72a3546132bc4c0a8df1a095358384e256a93f6f87a5b8e353ce4c"
+    },
+    {
+      "old_path": "assets/系统/ESXI/9.png",
+      "new_path": "99-Assets/Legacy/系统/ESXI/9.png",
+      "bytes": 3053,
+      "sha256": "3fab6e12a3ec74386b931c62f89c6e0733359aecf54cf5b1609c43ccb43a1572"
+    },
+    {
+      "old_path": "assets/语言/Assembly/1.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/1.png",
+      "bytes": 580711,
+      "sha256": "9896655fdda20851e563153cae5ea20320583a6a6ee4b489b21275dcb793482e"
+    },
+    {
+      "old_path": "assets/语言/Assembly/10.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/10.png",
+      "bytes": 368362,
+      "sha256": "6c51f56982518fc5ffa9acaa9b3e715b365769883f53ec97935b9ce31968f53d"
+    },
+    {
+      "old_path": "assets/语言/Assembly/11.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/11.png",
+      "bytes": 24064,
+      "sha256": "20279a075edf94af390b468da7136475f61ba1a7621206536551970d883bf3d8"
+    },
+    {
+      "old_path": "assets/语言/Assembly/12.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/12.png",
+      "bytes": 35790,
+      "sha256": "7777de14670a540d82e483b80a3ce5149e2363cd9a79cd92d00c68394a1868fa"
+    },
+    {
+      "old_path": "assets/语言/Assembly/13.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/13.png",
+      "bytes": 42670,
+      "sha256": "d6d3190ee33765220e905fadea284c0fb04a1e433abe8f621ae057e6b086191c"
+    },
+    {
+      "old_path": "assets/语言/Assembly/14.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/14.png",
+      "bytes": 57536,
+      "sha256": "56a7053f464eec1418e1671ce6291a1a66c6fe106248f94bbbc442808a01df95"
+    },
+    {
+      "old_path": "assets/语言/Assembly/15.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/15.png",
+      "bytes": 80664,
+      "sha256": "76b4b862973b51c4329d873b7695e63bf550ffe9defb855b78a96d58fafdac92"
+    },
+    {
+      "old_path": "assets/语言/Assembly/16.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/16.png",
+      "bytes": 89037,
+      "sha256": "842fb3ef6d517bcd2b0748ce0b7ed5d5672619c89a79b073cc0f4816e371ada3"
+    },
+    {
+      "old_path": "assets/语言/Assembly/17.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/17.png",
+      "bytes": 78949,
+      "sha256": "52088352e2d4e55e3f09a8055280aae0e2fa34f269a59ca3f7f28e341b117f77"
+    },
+    {
+      "old_path": "assets/语言/Assembly/2.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/2.png",
+      "bytes": 142450,
+      "sha256": "55858a36d86bbdc1179e7b19dd6d2cac2999ce9e5bac53a248cdedc511ff89d5"
+    },
+    {
+      "old_path": "assets/语言/Assembly/3.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/3.png",
+      "bytes": 441279,
+      "sha256": "c7f19553f4a52fb2e634e214144c5bdca2ba9477922cd9f06c84aa9dd857832b"
+    },
+    {
+      "old_path": "assets/语言/Assembly/4.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/4.png",
+      "bytes": 271532,
+      "sha256": "506d997626d9c930ee1c3a1a0ff706b52d79181c6b89156cd62f80b008e3f030"
+    },
+    {
+      "old_path": "assets/语言/Assembly/5.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/5.png",
+      "bytes": 213801,
+      "sha256": "a656e76b9dec95a1d5911aed41c9668dc6f6de387e3b60de359ea504b1b7879a"
+    },
+    {
+      "old_path": "assets/语言/Assembly/6.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/6.png",
+      "bytes": 562696,
+      "sha256": "af782ecd5e91cb71f22699942bef24a4ce1095861c05a59ce13e0f047c84c011"
+    },
+    {
+      "old_path": "assets/语言/Assembly/7.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/7.png",
+      "bytes": 32999,
+      "sha256": "45df27d032f8d61bce84cf847bec5d271014914c8816f8bb2ada636c11c69b52"
+    },
+    {
+      "old_path": "assets/语言/Assembly/8.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/8.png",
+      "bytes": 50166,
+      "sha256": "95cc228ed5c62abdef675fe67ada1d0a52229d19d711cc56b312fde85a0dd9b8"
+    },
+    {
+      "old_path": "assets/语言/Assembly/9.png",
+      "new_path": "99-Assets/Legacy/语言/Assembly/9.png",
+      "bytes": 51456,
+      "sha256": "6fd8a2398cafd1ab6b2d93f1837a6bc2770d65e67ce6d3ad75164a3d3c978070"
+    },
+    {
+      "old_path": "assets/语言/C/1.png",
+      "new_path": "99-Assets/Legacy/语言/C/1.png",
+      "bytes": 14601,
+      "sha256": "27fb91c53080b6bbfb58c4f70fac9abdf945cda8e052ccfc1a17c0f5e36faefa"
+    },
+    {
+      "old_path": "assets/语言/C/2.png",
+      "new_path": "99-Assets/Legacy/语言/C/2.png",
+      "bytes": 140050,
+      "sha256": "9921bffa6f0a633e5a1347b2f0ff4aa34f7f7fc81076bbee98f2700868b68526"
+    },
+    {
+      "old_path": "assets/语言/C/3.png",
+      "new_path": "99-Assets/Legacy/语言/C/3.png",
+      "bytes": 61394,
+      "sha256": "6789a2673f585a6f065e0f267d84b892233eeec1c7ac66dc11fcada5504a7c25"
+    },
+    {
+      "old_path": "assets/语言/Cpp/1.png",
+      "new_path": "99-Assets/Legacy/语言/Cpp/1.png",
+      "bytes": 251386,
+      "sha256": "21f06ffac199f84428f5bcfbc54ef3b68f2ead87901465fa801690329a46d1b3"
+    },
+    {
+      "old_path": "assets/语言/Cpp/2.png",
+      "new_path": "99-Assets/Legacy/语言/Cpp/2.png",
+      "bytes": 431512,
+      "sha256": "e951c243ed908913a5db37d32ad6afb4b311581529edc3b16aa22ae6c63a4fb0"
+    },
+    {
+      "old_path": "assets/语言/Cpp/3.png",
+      "new_path": "99-Assets/Legacy/语言/Cpp/3.png",
+      "bytes": 242485,
+      "sha256": "d48293aa2b0b8799ef00a607bd438228d16a200c3d71e1d19aedc564bd37e1bb"
+    },
+    {
+      "old_path": "assets/语言/Cpp/4.png",
+      "new_path": "99-Assets/Legacy/语言/Cpp/4.png",
+      "bytes": 225762,
+      "sha256": "a31e2a6c760d621e4fee5891930864eefef73044e3a7fbb210bdfc6563412506"
+    },
+    {
+      "old_path": "assets/语言/Cpp/5.png",
+      "new_path": "99-Assets/Legacy/语言/Cpp/5.png",
+      "bytes": 377221,
+      "sha256": "ddafd0d88e71c93092f87cb092c3d429b7cf8a191eb5baf6db954f33e75ab851"
+    },
+    {
+      "old_path": "assets/语言/Cpp/6.png",
+      "new_path": "99-Assets/Legacy/语言/Cpp/6.png",
+      "bytes": 445333,
+      "sha256": "4e6577d60e7f7fb2fb11173e60221565574912c1a3000c6bb22a9e4c4c6ce24a"
+    },
+    {
+      "old_path": "assets/语言/Cpp/7.png",
+      "new_path": "99-Assets/Legacy/语言/Cpp/7.png",
+      "bytes": 292859,
+      "sha256": "08054e0153659b0c69f9dd9c7b1ee8e8fa9b8e8515a879e49795744c7071f719"
+    },
+    {
+      "old_path": "assets/语言/Cpp/8.png",
+      "new_path": "99-Assets/Legacy/语言/Cpp/8.png",
+      "bytes": 233339,
+      "sha256": "3dadcb6a795b99c996729ee667827fc64af9d25fa2fd5cda89ef3766e821a96e"
+    },
+    {
+      "old_path": "assets/语言/Python/1.png",
+      "new_path": "99-Assets/Legacy/语言/Python/1.png",
+      "bytes": 1874,
+      "sha256": "65c12e38f6beafe391552e18a41237f3b22ce53888f77e3b8872b39bf884e616"
+    },
+    {
+      "old_path": "assets/语言/Python/2.png",
+      "new_path": "99-Assets/Legacy/语言/Python/2.png",
+      "bytes": 1779,
+      "sha256": "6e8c074d7186e08e2fa9d00475e628e24a6acfaeb140a099a4fa3d2a8acec577"
+    },
+    {
+      "old_path": "assets/语言/Python/3.png",
+      "new_path": "99-Assets/Legacy/语言/Python/3.png",
+      "bytes": 2381,
+      "sha256": "c7e54e803379cde754b14ed1db35f2991d5e4a03758d7fbc9464fe0f6ea65941"
+    },
+    {
+      "old_path": "assets/语言/Python/4.png",
+      "new_path": "99-Assets/Legacy/语言/Python/4.png",
+      "bytes": 1904,
+      "sha256": "65e7c53ad0159bf0b18579d538035cd71f70d310695f81c5fb89d173c66248db"
+    },
+    {
+      "old_path": "assets/语言/Python/5.png",
+      "new_path": "99-Assets/Legacy/语言/Python/5.png",
+      "bytes": 18861,
+      "sha256": "4158173fde9be2db992434ec806aa40e0f09127978c4daac7238ba8a9a0572f1"
+    },
+    {
+      "old_path": "assets/语言/Python/6.png",
+      "new_path": "99-Assets/Legacy/语言/Python/6.png",
+      "bytes": 1916,
+      "sha256": "43d7cad2a0fccc2e078640963ba230f49c976e34df5c009b22275907f599fae1"
+    },
+    {
+      "old_path": "assets/语言/Python/7.png",
+      "new_path": "99-Assets/Legacy/语言/Python/7.png",
+      "bytes": 1858,
+      "sha256": "b235ec9cde50a979fa617dcd332971a3551c8e8aa0770549f981025c69e15034"
+    },
+    {
+      "old_path": "assets/语言/Python/8.png",
+      "new_path": "99-Assets/Legacy/语言/Python/8.png",
+      "bytes": 1632,
+      "sha256": "48e0d39884597a767093296cdcb991ad600652a24960f2af69d7ba6c72086621"
+    }
+  ],
+  "code_blocks": [
+    {
+      "source_path": "前端/JavaScript前端.md",
+      "index": 1,
+      "sha256": "e1bcea85703e840bdaab92b74134297e5ee06cdde25bb3a7157dd86ff3a35769"
+    },
+    {
+      "source_path": "前端/JavaScript前端.md",
+      "index": 2,
+      "sha256": "71d9c3fbe98b7e2a0709a1f2574fb769ad961f6c4636fad826e5d3b9fe0d242e"
+    },
+    {
+      "source_path": "前端/JavaScript前端.md",
+      "index": 3,
+      "sha256": "60a3fc1790fb485bbfbf54806d22a38c33e4b3bd7516335270407a5e449f3df5"
+    },
+    {
+      "source_path": "前端/JavaScript前端.md",
+      "index": 4,
+      "sha256": "dffe5236bd1634354d394c7f3c72ff6ea510eaae045bd1a9f3a9e137793d02db"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt GUI 实时显示日志.md",
+      "index": 1,
+      "sha256": "09b1bd43194dbcc705ecf2270888fbb475bb165b899565c1ad0bd762439e6dd2"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt GUI 实时显示日志.md",
+      "index": 2,
+      "sha256": "d6763986c0e3c1c7286200321d43550b3e31ccce3302e6a20b8e681f9c330a0a"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt GUI 实时显示日志.md",
+      "index": 3,
+      "sha256": "3b2d3c5fa42743cf1d08b088bbeb29d694f307c786d5c0315cfd95986ce50194"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt GUI 实时显示日志.md",
+      "index": 4,
+      "sha256": "103c8d9c0fd007d9206ec28de2288a1dc116bb97102f7c74502ff43fd9d929ec"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt GUI 实时显示日志.md",
+      "index": 5,
+      "sha256": "888117a7ab277d26613de77458b0e09628c988d19483f28beba188388cee84d0"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt for Python 打包.md",
+      "index": 1,
+      "sha256": "8d0f36a3f3f4958f92938a563ea36fb78fa0ee051c659a0b9e7a4ada575a9e29"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt for Python 打包.md",
+      "index": 2,
+      "sha256": "27dd7b2e1f87d2b4b6878cff7daeeab2a73fb1d3298c5f31e1d6b77f6c35805c"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt for Python 打包.md",
+      "index": 3,
+      "sha256": "2c7dd93567ec89da730cda7b266bc3cbc9012dc157e1917c96bd0ed2fb6df860"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt for Python 环境搭建.md",
+      "index": 1,
+      "sha256": "c5205078aec62686b4cc0166d6f9b634ac1eb0340be518ed03116acf3000bc61"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt for Python 环境搭建.md",
+      "index": 2,
+      "sha256": "c019c53f94077f703171dff3ca1ac9eb87bd3d1f7923d753a31cea36614a1b7b"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt for Python 环境搭建.md",
+      "index": 3,
+      "sha256": "542cea33b7ca4d59f8070f7702e21f2ad3ad524d9d5177ba114b4537e303f139"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt for Python 环境搭建.md",
+      "index": 4,
+      "sha256": "122e105c8fab6403d479403fb29f6d8575bc124782b0f6dd9e849c6d33b3b3f1"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt for Python 环境搭建.md",
+      "index": 5,
+      "sha256": "b574948de42011a6dea222a104a17cf835de4f4ae4ba2fa20960c0ef98dd8f78"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt for Python 环境搭建.md",
+      "index": 6,
+      "sha256": "370147e75e385dcf133da288ca674086ad86c392bbc018a2f8c918e962927324"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt for Python 环境搭建.md",
+      "index": 7,
+      "sha256": "809a856ca9e019b8c16686dc746510aeeeca789323dea8d5e4c5ac30c472624f"
+    },
+    {
+      "source_path": "前端/Qt for Python/Qt for Python 环境搭建.md",
+      "index": 8,
+      "sha256": "b68e0c87a22e26bd532152e7db049d1b9bc629bfed06ea5d162bf7def99a1139"
+    },
+    {
+      "source_path": "博客/Hexo博客搭建.md",
+      "index": 1,
+      "sha256": "54a78a98dbda80f150c96c0cb0bc0ab3b86aa32597b31c3ae32b27fe0cb9fafb"
+    },
+    {
+      "source_path": "博客/Hexo博客搭建.md",
+      "index": 2,
+      "sha256": "63a8f5e37befde2b1b0a9f0b1ed0225b032578fec37b5ff91ff1b031b578e4aa"
+    },
+    {
+      "source_path": "博客/Hexo博客搭建.md",
+      "index": 3,
+      "sha256": "25d64c1fae83a6d1f297c12cb649ad819be7e2e68c9a1d4d3f1b549bd2f63fa0"
+    },
+    {
+      "source_path": "博客/Hexo博客搭建.md",
+      "index": 4,
+      "sha256": "db5c71a1b85b1db75c0a03bfab800821baaa7e89ef6c4cc23aae50f2ac3819da"
+    },
+    {
+      "source_path": "博客/Hexo博客搭建.md",
+      "index": 5,
+      "sha256": "4cf2bea1afda118e421412bb8e50f2ae481c32453060a9701631a547cdd72a39"
+    },
+    {
+      "source_path": "博客/Hexo博客搭建.md",
+      "index": 6,
+      "sha256": "d3824a00294a2ee88f179888a99593ccaae46a2fd61bcdd98ebc7944542f62ac"
+    },
+    {
+      "source_path": "博客/NexT主题.md",
+      "index": 1,
+      "sha256": "964cb4768b14040cf8722c4ae6dfe2e779870968ba154d1d1656ec3c978d45ee"
+    },
+    {
+      "source_path": "博客/NexT主题.md",
+      "index": 2,
+      "sha256": "57aa9481ea73485faa752fa68b8bccbc1c65f917c657d202c6d21007f88b5872"
+    },
+    {
+      "source_path": "后端/Flask.md",
+      "index": 1,
+      "sha256": "4f9fd755023bcc8e15f4e1cbf62868795312c5b76d5578f3d2230e9ddff993af"
+    },
+    {
+      "source_path": "后端/Java后端.md",
+      "index": 1,
+      "sha256": "12a8d16a9deaa9d7062ca6a0c591365c44f80d51ada714ec12be9805ff1a7358"
+    },
+    {
+      "source_path": "后端/MyBatis-Plus.md",
+      "index": 1,
+      "sha256": "cfa768a2435188bdc012e77a6a96dd0da6e2be8f4d5637b6a7a669ae21da4e85"
+    },
+    {
+      "source_path": "后端/MyBatis-Plus.md",
+      "index": 2,
+      "sha256": "74322e715f8ec5d22a6f2a25ec68f61135d7b1231d90e19d4bd48bc09d9d5dbd"
+    },
+    {
+      "source_path": "后端/MyBatis-Plus.md",
+      "index": 3,
+      "sha256": "49e3070092188ba7a0debe08fe4eb71fbf669ddc14304db673475ccc62f4f1ae"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 属性与实例化.md",
+      "index": 1,
+      "sha256": "ac9da7d76848e7b2859433fd66fd8fc40c7d415d6219e3d280f3dd87241e4d74"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 属性与实例化.md",
+      "index": 2,
+      "sha256": "ddc431b02e962ee8c1ee9497da4fdcdc613733244cddbff54633567708ce18f1"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 属性与实例化.md",
+      "index": 3,
+      "sha256": "f9d3ded764b921e2c03ac237eb5b62cd5ce3214566de16530cb8c77c4ed5f801"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 属性与实例化.md",
+      "index": 4,
+      "sha256": "d9c751f4e5e4723854389ae3640ae9fa146e364d5e2a2ffa59d6b07fa498a669"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 属性与实例化.md",
+      "index": 5,
+      "sha256": "9813cf61c68d7a75480eb05a58b7117e5c1fce0d875f2347237869ef096c378d"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 属性与实例化.md",
+      "index": 6,
+      "sha256": "91969130a18141989399bf89769906059bc78d3d252e956222c08224b0604f0d"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 注解开发.md",
+      "index": 1,
+      "sha256": "ae16922877847a5635d60c2b14510989a65f06e8ed58e4fc4c6f79e4d2fd722c"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 注解开发.md",
+      "index": 2,
+      "sha256": "d33e3901fefd58e92b23a77fb49bda052f2e40f564888775536e0f36ebae11b8"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 注解开发.md",
+      "index": 3,
+      "sha256": "ca603e153d3c112f12c1d289a065000b24110eeae7e024655d56ae4801d70895"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 注解开发.md",
+      "index": 4,
+      "sha256": "3bcf8e9177bfd7189badcc535f3514894de0e323154ede31bec80ef16b8258a4"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 注解开发.md",
+      "index": 5,
+      "sha256": "a3983ff2964ec4431ebc5c47be9c3e46608cf3a15d011fe6d0343c8e419cacb1"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 注解开发.md",
+      "index": 6,
+      "sha256": "a0e85178c38535b8f0e4a87b4dc7a243ffa7d4908fc62636cc7a09182b0b6d1a"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 生命周期与依赖注入.md",
+      "index": 1,
+      "sha256": "68bcc15cde55aee51e3c925e690850814eca1d2a84bac8b69bb599b43da997db"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 生命周期与依赖注入.md",
+      "index": 2,
+      "sha256": "3c7f6515c930eaafdfe51bf22840cc44983d2ba810ce2618930a586c86f4042e"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 生命周期与依赖注入.md",
+      "index": 3,
+      "sha256": "a3306f221cbbd73e93cae30dd8427dd5660402eacc658505b8b871975ae854d7"
+    },
+    {
+      "source_path": "后端/Spring/Spring Bean 生命周期与依赖注入.md",
+      "index": 4,
+      "sha256": "da410dcd2e4a7f60c28cc194650958713f8e2909cfe4e0c0f91d8bf6bf023881"
+    },
+    {
+      "source_path": "后端/Spring/Spring IoC 与 DI 使用案例.md",
+      "index": 1,
+      "sha256": "9b07d3e1c1ed0631f757992a9483398b5958603bad78441286489b81d82a39f9"
+    },
+    {
+      "source_path": "后端/Spring/Spring IoC 与 DI 使用案例.md",
+      "index": 2,
+      "sha256": "e38c020558733f7aa0d2a2fc187fbcb9683c072a75365935286947810ffa1014"
+    },
+    {
+      "source_path": "后端/Spring/Spring IoC 与 DI 使用案例.md",
+      "index": 3,
+      "sha256": "7be788605d9923e04b3ed2c3e4ecf8285b0214dd61bdc23f5d5bd3a522522195"
+    },
+    {
+      "source_path": "后端/Spring/Spring IoC 与 DI 使用案例.md",
+      "index": 4,
+      "sha256": "22984d042f7e9329cd1414a26a0aa21957a29e36cd33f14a3345d21ff49ebe40"
+    },
+    {
+      "source_path": "后端/Spring/Spring IoC 与 DI 使用案例.md",
+      "index": 5,
+      "sha256": "e06e4949b4592a49508a85b79b2d3b2515d0c252bc0c03b8dab89721fdc1badb"
+    },
+    {
+      "source_path": "后端/Spring/Spring IoC 与 DI 使用案例.md",
+      "index": 6,
+      "sha256": "a499018130a43d3b2b8932060d4ccc066ed160a2a0dcb5db1b3b4a97a6f99c75"
+    },
+    {
+      "source_path": "后端/Spring/Spring 基本概念与代码样例.md",
+      "index": 1,
+      "sha256": "9b07d3e1c1ed0631f757992a9483398b5958603bad78441286489b81d82a39f9"
+    },
+    {
+      "source_path": "后端/Spring/Spring 基本概念与代码样例.md",
+      "index": 2,
+      "sha256": "e38c020558733f7aa0d2a2fc187fbcb9683c072a75365935286947810ffa1014"
+    },
+    {
+      "source_path": "后端/Spring/Spring 基本概念与代码样例.md",
+      "index": 3,
+      "sha256": "a5ab775819b2d2c77fb89836367dd2019b3264be8476826a7717f80d3f611bbd"
+    },
+    {
+      "source_path": "后端/Spring/Spring 基本概念与代码样例.md",
+      "index": 4,
+      "sha256": "c3095457034d60de8f8d38950efee17663f8e85480f7f31099f499031ca42ebc"
+    },
+    {
+      "source_path": "后端/Spring/Spring 基本概念与代码样例.md",
+      "index": 5,
+      "sha256": "513aa82f839ca8f299bfdb7d3d32acdf2a8681e36b6f5c8ca753fe84c134d67d"
+    },
+    {
+      "source_path": "后端/Spring/Spring 基本概念与代码样例.md",
+      "index": 6,
+      "sha256": "57a6238ae7ab4dc37808cfdc2f08138cb42fed2bfb8772416e829176f56b3134"
+    },
+    {
+      "source_path": "后端/Spring/Spring 基本概念与代码样例.md",
+      "index": 7,
+      "sha256": "feba8ced6e05fff4e50789c742f06be961d69e372f8c316d4e385d6b9274d724"
+    },
+    {
+      "source_path": "后端/SpringBoot.md",
+      "index": 1,
+      "sha256": "d28b3d3d32c13d46f2f9977d1d1a6047ad0408a4ca668f52c43c669882ec20ed"
+    },
+    {
+      "source_path": "后端/SpringBoot.md",
+      "index": 2,
+      "sha256": "e12419aa5e0b4d1be7b6d8f1e297eb31c56e5ac497a098a90efcc50c40c44df4"
+    },
+    {
+      "source_path": "后端/SpringBoot.md",
+      "index": 3,
+      "sha256": "97a0c086151c2b23e81ba3512664d14b429dc433434809887ef074ffd9203c2f"
+    },
+    {
+      "source_path": "后端/SpringBoot.md",
+      "index": 4,
+      "sha256": "0348ce2c5b9e432bcc20ecf0ced0991bbe4812b331f217557a22d64386e57f62"
+    },
+    {
+      "source_path": "后端/SpringBoot.md",
+      "index": 5,
+      "sha256": "b4899e3802bc0dd9cd78b206896745ad4ab1c4447519b0d5b51a9e40ebf5e31b"
+    },
+    {
+      "source_path": "后端/SpringBoot.md",
+      "index": 6,
+      "sha256": "5a70da792df237b95ed56cc4a322479f6c2574285c4188f639bbee06bc7b299f"
+    },
+    {
+      "source_path": "后端/SpringBoot.md",
+      "index": 7,
+      "sha256": "888901e6df54acfc430dcacdbb5fca648354a85acc140a37a779ea2cac2f6bae"
+    },
+    {
+      "source_path": "后端/SpringBoot.md",
+      "index": 8,
+      "sha256": "46f782cfcb33be6ab00b30579299064ca7a06689f96a5a86ee3965abcf671311"
+    },
+    {
+      "source_path": "后端/SpringBoot.md",
+      "index": 9,
+      "sha256": "2308f196f304b987bf189ef812b7543be262a2ba31e846a85a616aa548da7924"
+    },
+    {
+      "source_path": "后端/SpringBoot.md",
+      "index": 10,
+      "sha256": "91152ec7ea8e1c148d63a64aa8d95f01d78067f32ae99294a7697b7a97094ebb"
+    },
+    {
+      "source_path": "后端/SpringBoot.md",
+      "index": 11,
+      "sha256": "b3798900c48732dfb7f9e5d72b0e638c96e95a3b9bf4f1724bdc2f069aed5c02"
+    },
+    {
+      "source_path": "后端/SpringSecurity/Spring Security JWT 配置.md",
+      "index": 1,
+      "sha256": "569d8f452838776ea612bfb9b8efdd2d5bfc31dfa98971e5371b8cda6451d809"
+    },
+    {
+      "source_path": "后端/SpringSecurity/Spring Security JWT 配置.md",
+      "index": 2,
+      "sha256": "de775166b3bd534a1b6abea57a56dac80a868f7fc320ae5c62d36ff05cfd0293"
+    },
+    {
+      "source_path": "后端/SpringSecurity/Spring Security 无适配器配置.md",
+      "index": 1,
+      "sha256": "acb6c6e549b5d5cc212c7241804ac37d26490670ebeedbd2022cdd6f794685c4"
+    },
+    {
+      "source_path": "后端/SpringSecurity/Spring Security 无适配器配置.md",
+      "index": 2,
+      "sha256": "55b0ae6d24abc7674d40405b50df9046511586292a9212b93d4dd9384749cbfb"
+    },
+    {
+      "source_path": "后端/SpringSecurity/Spring Security 无适配器配置.md",
+      "index": 3,
+      "sha256": "6d1216e7ff58b7f61a0bde09dde2c921d15ca687b6dd3616784858a37292dbdd"
+    },
+    {
+      "source_path": "后端/SpringSecurity/Spring Security 无适配器配置.md",
+      "index": 4,
+      "sha256": "c57280b0fb8376e051a7a5c47b388df5a22b18cae30b69d58ee9a4e47ba2cef7"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱登录 AuthenticationFilter.md",
+      "index": 1,
+      "sha256": "2af4c856044b58fdd3512a4d71613ab85b604ee565244701a7f0c14e03afd481"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱登录 AuthenticationProvider.md",
+      "index": 1,
+      "sha256": "98337224141c446666d7870c88352adbb0720365b32614b998e2824986e8a8c0"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱登录 AuthenticationToken.md",
+      "index": 1,
+      "sha256": "f07ca74890070f14257f8104966ab5f3f398b6b50e54e3c833213682f8eb735d"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱登录安全配置.md",
+      "index": 1,
+      "sha256": "749bf5ffd7adc069f787f1bcc96d897938d867cd42d57514c94ba63f57c9c465"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱验证码发送接口.md",
+      "index": 1,
+      "sha256": "cef9d1ec1195b09006683ecf1b087e1e1a09f9c77ff725f9416b46ba932b7a8f"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱验证码发送接口.md",
+      "index": 2,
+      "sha256": "a5d0cca09d41c6ba5bb405c6669c07401dd9cb5eac9d63ef7fd402468e8dcc2b"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱验证码发送接口.md",
+      "index": 3,
+      "sha256": "1f743bb9dd366eeb52d448381f146d7d755acbdf4685b7c22759ecbbce98dc2b"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱验证码发送接口.md",
+      "index": 4,
+      "sha256": "bdb8fd6420ef5ac2585837b9e6bb25540ea054ae724cf7808eae3970f7e63f94"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱验证码发送接口.md",
+      "index": 5,
+      "sha256": "c4f067f9149f62aa7b7a62bceaf6a82a668167310e44653d057b655b34f1f780"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱验证码控制器与前端.md",
+      "index": 1,
+      "sha256": "b24c0d199b7fab2ce5b71f572d7e6f2534857c211dbe2277cb747d838aa2d5c6"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱验证码控制器与前端.md",
+      "index": 2,
+      "sha256": "20176ee8fb1541a6c70f87250142c48c44479408f11778944ff9beb323e40e8b"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱验证码控制器与前端.md",
+      "index": 3,
+      "sha256": "bca756be7d39f7821ef577190c1d5e0f4609d78e2cd9933e0d0dbce1a8b97ac8"
+    },
+    {
+      "source_path": "后端/SpringSecurity/邮箱验证码过滤器.md",
+      "index": 1,
+      "sha256": "881cc8c2b0053e6857dcee61372f51b2a590b7ec9c7f8250ecbeee2c9cfab182"
+    },
+    {
+      "source_path": "后端/Swagger-SpringDoc.md",
+      "index": 1,
+      "sha256": "039d34fcc03a42c5eb7851552f601f28bcf6bb72ae5964d6bb5fa07b4e299686"
+    },
+    {
+      "source_path": "后端/Swagger-SpringDoc.md",
+      "index": 2,
+      "sha256": "20142bf01035f9f1104a1bd5c1ae64cd99331826177be5027e1454579411b533"
+    },
+    {
+      "source_path": "后端/Swagger-SpringDoc.md",
+      "index": 3,
+      "sha256": "3351d4621acea7228b9fb8762103891f411c7f08055f5afd727b749795cbbf82"
+    },
+    {
+      "source_path": "后端/Swagger-SpringDoc.md",
+      "index": 4,
+      "sha256": "3b27fa919a1fae04dc0a1847149cc30af76fd5143c25a40d29de1b1ae62aef67"
+    },
+    {
+      "source_path": "后端/Swagger-SpringDoc.md",
+      "index": 5,
+      "sha256": "68fa5ae16fa55c277cc4da33e334255c0285523553ca4cb7183988e2c238466a"
+    },
+    {
+      "source_path": "后端/Swagger-SpringDoc.md",
+      "index": 6,
+      "sha256": "bc6b70458abb87920a642ccc83d8d48a226961f9f67b0f5c78183ada9380d28c"
+    },
+    {
+      "source_path": "后端/Swagger-SpringDoc.md",
+      "index": 7,
+      "sha256": "d3c270cd62504cba6c3ba8393503278c9b2f7e00f5db959a488ff81110505f47"
+    },
+    {
+      "source_path": "后端/异常处理.md",
+      "index": 1,
+      "sha256": "25767303e41bf9957ac53f56efc1c557e7449a377069fa83282ccd307cb5e118"
+    },
+    {
+      "source_path": "后端/异常处理.md",
+      "index": 2,
+      "sha256": "d34fceeb82809e5b6f7cfbc21ecca0799f1f0c555a468f6c62cc1222fcdb805c"
+    },
+    {
+      "source_path": "后端/异常处理.md",
+      "index": 3,
+      "sha256": "70f42de4b844359e4490cd9b669571678d5f25ef61d77342e0c66ca1b91c5873"
+    },
+    {
+      "source_path": "后端/异常处理.md",
+      "index": 4,
+      "sha256": "c31a135429420c3ade3471a67d478555f79bc78f7a3257701c5140e42d538c6f"
+    },
+    {
+      "source_path": "后端/异常处理.md",
+      "index": 5,
+      "sha256": "10a8580adffb28236da8819d217b1954b63fe77f1ddae6585afc475db146c258"
+    },
+    {
+      "source_path": "后端/异常处理.md",
+      "index": 6,
+      "sha256": "03ed6920ea9e29cf86d410db1330d89448cb54dd4f4f92895b0fc496b344af30"
+    },
+    {
+      "source_path": "安全/第二届西安邮电大学网络安全大赛(部分re).md",
+      "index": 1,
+      "sha256": "f770122d197eb4903a5674009b5837c3d4bc34d9007d4f0bf4b73f67c49c3dc7"
+    },
+    {
+      "source_path": "安全/第二届西安邮电大学网络安全大赛(部分re).md",
+      "index": 2,
+      "sha256": "001da5d12d0106b9e74f39c05bf8fdb00c1dbda002f76b84f5652011628093ef"
+    },
+    {
+      "source_path": "安全/第二届西安邮电大学网络安全大赛(部分re).md",
+      "index": 3,
+      "sha256": "8f7162d215d7760fa81176cf6368390b23788f1567fa7b535c2831caf4d981ad"
+    },
+    {
+      "source_path": "安全/第二届西安邮电大学网络安全大赛(部分re).md",
+      "index": 4,
+      "sha256": "42edb132ebe99e4fd3797fdb8bfda5df23b4d5310f7899da76d019921ddef3c0"
+    },
+    {
+      "source_path": "安全/第二届西安邮电大学网络安全大赛(部分re).md",
+      "index": 5,
+      "sha256": "7f8990f4ced024e008750df31db6e83cc404f167eae801ee2b17fa2ad74d98f0"
+    },
+    {
+      "source_path": "安全/第二届西安邮电大学网络安全大赛(部分re).md",
+      "index": 6,
+      "sha256": "e665c3eb2945d5f3956a01490ae7a28907b34d2f6673a725cb0dca0681631e0d"
+    },
+    {
+      "source_path": "安全/网协安全组二面试题.md",
+      "index": 1,
+      "sha256": "2f46e67bf83208b66657648b7c9c992f8ec7479d2713cf582c9f191e0d3e5ef4"
+    },
+    {
+      "source_path": "安全/网协安全组二面试题.md",
+      "index": 2,
+      "sha256": "7d3ca8a30f6a43930ebf1a17b3656d0651f36da9151b765ff9556cdf8d8eab47"
+    },
+    {
+      "source_path": "安全/网协安全组二面试题.md",
+      "index": 3,
+      "sha256": "d3be0fe69dc85f8fd42cef9d799d457f67d75f1973d336d50aa88385b0fd4622"
+    },
+    {
+      "source_path": "工具/CMake.md",
+      "index": 1,
+      "sha256": "2bb3c43e64f190e89a4d07ccb4ff9f2cd9a4695627b08ae6ac8ab6d521300c49"
+    },
+    {
+      "source_path": "工具/CMake.md",
+      "index": 2,
+      "sha256": "7972512045762686ccd6129c4ad102324079c46fdf7625844aa0eadf51899dfd"
+    },
+    {
+      "source_path": "工具/CMake.md",
+      "index": 3,
+      "sha256": "006b59efdf95ae9ce0a58855772f938fb5d9696cab559064603fd75f8d61d2e9"
+    },
+    {
+      "source_path": "工具/CMake.md",
+      "index": 4,
+      "sha256": "61a219ffe3db6134deb9f04bc48498164bfd6af19047c7cac323a811263a626c"
+    },
+    {
+      "source_path": "工具/CMake.md",
+      "index": 5,
+      "sha256": "10f3152070efc207e4a269d2e722c9de90779bb27766ab4c6495980166cd0a46"
+    },
+    {
+      "source_path": "工具/CMake.md",
+      "index": 6,
+      "sha256": "c7877bd233dda7dbc1ce131b553321b933807ce01ca36294232c01996af84c50"
+    },
+    {
+      "source_path": "工具/CMake.md",
+      "index": 7,
+      "sha256": "b0d378884f1c2169db7d3abf4fbb561ea83170bf1ddf688ecf0fb9b5ea34408d"
+    },
+    {
+      "source_path": "工具/CMake.md",
+      "index": 8,
+      "sha256": "743d0bca3ead813ad219e0a7d93084832651275acb5d204eccdd0266e80b877b"
+    },
+    {
+      "source_path": "工具/CMake.md",
+      "index": 9,
+      "sha256": "a89deb42256b5299dc470dd689565647030d168a226b59fe15717a745ea5281b"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 1,
+      "sha256": "f4a77c78c6c1796dd34b9c51d669135e2ffbf2b12bf6c19e35b31830be257cd4"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 2,
+      "sha256": "f0b9eeb98d83aa9fec6db4abea542c1dd28bc8ae1c7d7a2d94db98660f8312d0"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 3,
+      "sha256": "ce2c3be0d3d6a43a4c683577ca0d88a39b7d99163587edde16411496ad667980"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 4,
+      "sha256": "f327a92ef684531898be5321abf12ffdce67f84423bb28ed36fec8088637315e"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 5,
+      "sha256": "c231835dd53e952d969370231dc802d518af305a77c85a3d1b96521ff1dbe078"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 6,
+      "sha256": "127402d94b34de596b7dd68f303a5dbc96709623d1784ba897694704a361ca35"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 7,
+      "sha256": "e4b1e7f75a5eca515d5faa8a45755162d4174d63ee2d853719726a51215328e2"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 8,
+      "sha256": "8d56a15a3a7d219451e5a5d334398949f44719f03c59b1a4b0240bb1508042ef"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 9,
+      "sha256": "9df11fb19a71d1d3012241ce8cf9ccecfde3264386645da05035f33966825424"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 10,
+      "sha256": "4ac99a7eb6c1f48a3b0a93e25223980d7b424c73c396182e7122f5d69711314b"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 11,
+      "sha256": "cd72ee02668467aeff99a297956034790d02781a03912abdfbdb3cc70db32136"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 12,
+      "sha256": "8416c78a714e7a69537465ffa194aa07697847f5cae1f6fe6d6bd64fbca9f887"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 13,
+      "sha256": "ad72e17e352c9d8d91cea84751472736c1ac822d6f29a0efd2e262b79e7734a4"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 14,
+      "sha256": "d999178b5c86dd7e6af6f8327a6727a5184d33bbd91e346d95fd5c96a3ea4b08"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 15,
+      "sha256": "84ceaf9b513678cb44ae985b3ef05d26aae965f5377793106ccb24f47b1b6325"
+    },
+    {
+      "source_path": "工具/Conda.md",
+      "index": 16,
+      "sha256": "2f89c6d5ed3b40848fd475b7b943acfd5899a96d1ba30b6e7c73f882ef361bb3"
+    },
+    {
+      "source_path": "工具/Docker.md",
+      "index": 1,
+      "sha256": "f9352ad5184618b2d04dc8e535e727baae94b4e88c3f6e7398fee0ef13258ec9"
+    },
+    {
+      "source_path": "工具/Docker.md",
+      "index": 2,
+      "sha256": "fb7889f51b18506239db2064b39ede16d2227b0902cb2e265b3b2fe4f49013fe"
+    },
+    {
+      "source_path": "工具/Docker.md",
+      "index": 3,
+      "sha256": "08d9c4820913b9a6f8450132711954dca9d718274bcf17d39804207b4dd00c8a"
+    },
+    {
+      "source_path": "工具/Docker.md",
+      "index": 4,
+      "sha256": "a1863d62f94fa07a8292ec8b527ccff710cfffa08ea90edec86dff4e4fd6e595"
+    },
+    {
+      "source_path": "工具/Docker.md",
+      "index": 5,
+      "sha256": "ab8e9ce2719825b95934938eb33500c5d590606ba586608db5fd8130aaa142df"
+    },
+    {
+      "source_path": "工具/Docker.md",
+      "index": 6,
+      "sha256": "fb46a90ea588058ef6e771f8bdd4e6b04c63e71f7c2636165c966b8e64e2099e"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 1,
+      "sha256": "d62617b0865f0ac5e03249e5beacc56074ff88755905125010a428679de3c85f"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 2,
+      "sha256": "06c6780e2028bd2df702427cd53624510b6c323333df61c5bb76dc0db5eeb5ee"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 3,
+      "sha256": "363be83486c529ac703ffbd745c38f1f17bf6976cc176cc78bc522f939ed0872"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 4,
+      "sha256": "6922abbd6d0a4fe32ed49f445f6063158d9653173bd67e7125a78c3403c3a4c4"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 5,
+      "sha256": "5dbc18bcacd4d8049dcba63f439f85553697306e3b92a0d7ee9a75576688aeb8"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 6,
+      "sha256": "fcf4197101db15c80cdc3cc2ed011dfcebff2fb171335718572e1328f63ef114"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 7,
+      "sha256": "17553f380ded404b8734a27f45833d0a6b605a763e984ae1557b61f105c37fa4"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 8,
+      "sha256": "14bbb0469acb7d9ed7b2a10b131bfe4abfe3ffd2ca98cfb8f8a7d9e923fc62ca"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 9,
+      "sha256": "72fa9d4718afc11746f24bd65f4a5c2904f5705dc207df7a716eb5420b1eef92"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 10,
+      "sha256": "422c1ff1c9975092c31d0c353775f1c740931705870bb648b5867dbc544bbdcd"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 11,
+      "sha256": "c40e37f4cce1c118f17c8e007b0b92d94770e64256f318705c0891edafbc44c0"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 12,
+      "sha256": "1bf079b037775df39f29baeef467e1ef5ba79c59daa9abc3e58568cbd39a3d41"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 13,
+      "sha256": "2a307e999a213176bc9de1b88940e1dfe920f4c2d5e55175fc1a98b3e7f21937"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 14,
+      "sha256": "98add411a2a6f3e5dabf36a64231e26e945cf24b654e58259592f09711b93bba"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 15,
+      "sha256": "49ec4de8d196d452069b0f4d6c562b44034dd14e23a317c07539e602017308b9"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 16,
+      "sha256": "98e6163ff439c6fa7de3c88876d06fd71cc021fc5b2d4c032539c86bfefe531d"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 17,
+      "sha256": "6e091deaf94564e052614591f0954c7c6daa5bd7684ccbdc6f0a11ce88fbeacc"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 18,
+      "sha256": "454f1c90332cb993800cd3041696e0f0853d226eb069c5b741ce7cc0b9e509ec"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 19,
+      "sha256": "1713725280d02530a7688b4ae467b08cc5e3476bb10fa234a53b3cc9f156f66b"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 20,
+      "sha256": "27a7209aa73f91f58e2a75841637bc6a51d9117694c55c6c67d85626704041ea"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 21,
+      "sha256": "d10b0e11a0ffe927c67fd28036acccdda6c40281fe631a3356caa7620d3eaf18"
+    },
+    {
+      "source_path": "工具/Git.md",
+      "index": 22,
+      "sha256": "bd008f39798c4b19326ba42d5c3d24347418050dc85de1d46277dd24181b68e7"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 1,
+      "sha256": "997129fef434192893e04fbc736dff06d58e66ae65048031eb21ef683ca0230e"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 2,
+      "sha256": "bf0f783ccaa55d427ffbf5b6f4a4e44bf7d97a0f48893d5677a7e8268ed78942"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 3,
+      "sha256": "08321407ad9ec2cf553ac9116f1e8126ca6c4d25d4cf6cbaa53a44a9d95684e5"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 4,
+      "sha256": "66e0f4156f63f83d3f6542728932a2b7ef13e6320623e3f19ae08e99d8590157"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 5,
+      "sha256": "18ed82d587c3ea689c1de5d24388e5874f32ecfac6bfb58b9beb4e13da9192cb"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 6,
+      "sha256": "932ba961b82f4db3b10dbac395374e944012a00a5156c18a3d00f124e0398735"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 7,
+      "sha256": "02d04068f2905ce467c660f56aba31d2c6c073697f3d75c6e5678944450f8762"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 8,
+      "sha256": "3a25094fdd2a46f066f900cfa9adc2f3686eeebd323a1f2d0170f4375cdb2a76"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 9,
+      "sha256": "2270a50175af849aa0372d560efe794f3064ef833c5f46cace98b3089272f0e1"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 10,
+      "sha256": "ea23be3af513d386d632451f6a1f40584226c4fd445cdb40b496ec1f45e8fe59"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 11,
+      "sha256": "7cf47a441de63463e1ec2aa8b0fdeff3d545ba79f56085b7113d1bed638bf6e8"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 12,
+      "sha256": "68aadf36b1bb90b98b36612e0c0be0135f3222c041c9f419b5407ec3d64a6b37"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 13,
+      "sha256": "029bac8b887a4bec33eba2510af189015f0de2c3bd2e2fb23d0a300042abfadf"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 14,
+      "sha256": "c329d951e1c63a7c9a9c3d80b0c47cd830dda0edb9dc50eb03000eee8fc31461"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 15,
+      "sha256": "4d8c0ff3ec9be1a53a5e86873ca9b2ebc4cba6a8bf662ce9549fdc71823ff83f"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 16,
+      "sha256": "90669b0d609973c49d5e3e85509118532931824ef03cd8ecaa393714b55eb42f"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 17,
+      "sha256": "4fd3ab645061af1ea85da6796ca866dfc029819b6f87ee7420dc5a76e52c03e6"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 18,
+      "sha256": "c98f1fb4d7faeb62066a1c2941ec4d726405d2bfa8b3b7704e1d5e99ae159dc0"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 19,
+      "sha256": "1fecaacec0ba7cb19709aba78af3dd51d17b0fc90783e98003273bb18086c8d9"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 20,
+      "sha256": "6443679522d736c2338bc4222c76a736f3ae089eabd579cf7bc533091b80307b"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 21,
+      "sha256": "c329d951e1c63a7c9a9c3d80b0c47cd830dda0edb9dc50eb03000eee8fc31461"
+    },
+    {
+      "source_path": "工具/MySQL.md",
+      "index": 22,
+      "sha256": "e83cd1b2b19056855827d9f5efee927c24a340eb2696b335736439b346781386"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 1,
+      "sha256": "2c5a478948dec2e0c3f682140946161039e6db94d68a5a2972fae3457d2a5e13"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 2,
+      "sha256": "981baabfa563566673f0b47bc5d33684db7bf744a37666e7241ecef34bc3e721"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 3,
+      "sha256": "7df55de1a326169b28643d943d25715a2820bc02e3ce45b098335d3e4d59a669"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 4,
+      "sha256": "eb5a50fc58daf7363e311766e9dd31ad61d85de38cdea9e5921158421a5cb4bb"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 5,
+      "sha256": "c8f90037441395b896940b1d7c848c93bd6afcc70160db8f027dbedc6b23f065"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 6,
+      "sha256": "b8e53f9e244534670acc35a1867f740a6f8f14b73b7009b860215d9660f7f12e"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 7,
+      "sha256": "54a78a98dbda80f150c96c0cb0bc0ab3b86aa32597b31c3ae32b27fe0cb9fafb"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 8,
+      "sha256": "b82a46e94c71b39139cbae05fc57e22a41cdb3cb1a20e375a61e5d9d903c8db8"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 9,
+      "sha256": "5284cc96fd01d8d90a9287072c12b9b68a0a5f82518d04dd37398ce7ea4340c7"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 10,
+      "sha256": "0b4bca9454984f6279a390c2994d1d4eac467b9af6a8e3e34dfe88c69be6f539"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 11,
+      "sha256": "8b4b627f41e170a6f87a461fb56dd0d01b6e53b441740e231ffccdca0214633b"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 12,
+      "sha256": "14483b2f16b623ebfbb03d9e55b30d6cfdc678a5888237fc87146abe23acf457"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 13,
+      "sha256": "dff8c430734020f82ce376e90085a0b3e43b92cd5aa0492a8f68e16c3c61be2f"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 14,
+      "sha256": "63a8f5e37befde2b1b0a9f0b1ed0225b032578fec37b5ff91ff1b031b578e4aa"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 15,
+      "sha256": "dd1ad8b55d156fd94819c76a60897e0b41615ca926c982b5c7648bcb9ae3db2a"
+    },
+    {
+      "source_path": "工具/Nodejs.md",
+      "index": 16,
+      "sha256": "d3824a00294a2ee88f179888a99593ccaae46a2fd61bcdd98ebc7944542f62ac"
+    },
+    {
+      "source_path": "工具/Nuitka.md",
+      "index": 1,
+      "sha256": "1748be377ef0514f7cb7988e27fcee310f4a0f94ed128d8684f69e58b7afaaa6"
+    },
+    {
+      "source_path": "工具/Nuitka.md",
+      "index": 2,
+      "sha256": "4ec13f9270c3460bdda07563c68573013fd89d6d2769cd6b34657054ecba99b8"
+    },
+    {
+      "source_path": "工具/Nuitka.md",
+      "index": 3,
+      "sha256": "2586f6c17082aabfb476093cb23931f282ba49feff567385d41de3cd3eb2f9d7"
+    },
+    {
+      "source_path": "工具/Ollama.md",
+      "index": 1,
+      "sha256": "6d525c39e573f1746447bea806f91581b816013abba67b88aef5171b80c60ca0"
+    },
+    {
+      "source_path": "工具/Ollama.md",
+      "index": 2,
+      "sha256": "06636eaa0fb0ab209f891a9a1508800759bb6437946795b94e0941558a255507"
+    },
+    {
+      "source_path": "工具/Ollama.md",
+      "index": 3,
+      "sha256": "84879d3200e382077547b5ab9fca528f32e4b0a15e130729050f4ea7ea13c614"
+    },
+    {
+      "source_path": "工具/Ollama.md",
+      "index": 4,
+      "sha256": "ea324ce1894d82f74bf2a8efa72169cbdd394d94ea56d4324425db36b01b3f8f"
+    },
+    {
+      "source_path": "工具/Ollama.md",
+      "index": 5,
+      "sha256": "6459fd73b80675ece51b24dd7cf721219873fe1f748b48029ecded2071461c39"
+    },
+    {
+      "source_path": "工具/Ollama.md",
+      "index": 6,
+      "sha256": "1ae90dea143da8b9b078f29afe2874b552d8ecf6a37eceb8b21424ac1895bcfb"
+    },
+    {
+      "source_path": "工具/Ollama.md",
+      "index": 7,
+      "sha256": "99df8ed57285c987d6b84304c15c5b993bb9ce90179128c39e736c230365882c"
+    },
+    {
+      "source_path": "工具/Redis.md",
+      "index": 1,
+      "sha256": "50f0dc1adb1e1f694e4eba090d1bc9bb0b4f3f226c3e15a1c8eb93891c7f1be7"
+    },
+    {
+      "source_path": "工具/Redis.md",
+      "index": 2,
+      "sha256": "df437b22f1f967fca17ff8f695fca62f0fc3730bb125e835fa13c624075058e1"
+    },
+    {
+      "source_path": "工具/StarUML.md",
+      "index": 1,
+      "sha256": "200c2e204e6538045f8c43c6717c47ddc51e88d2f1b1bdc847ad40b72601b290"
+    },
+    {
+      "source_path": "工具/StarUML.md",
+      "index": 2,
+      "sha256": "84070968067f848ed71757ea78a46d2da2e2304053ecb7b78ee89e179b98de22"
+    },
+    {
+      "source_path": "工具/StarUML.md",
+      "index": 3,
+      "sha256": "2e227c8c7bc9fe397021c3d846127885581412706b35109765b873a32d16bc6b"
+    },
+    {
+      "source_path": "工具/StarUML.md",
+      "index": 4,
+      "sha256": "6e9a7ae0a5f1443be2a416ed4704daffed4f48a10e74ede413c6429e1b19f9d7"
+    },
+    {
+      "source_path": "工具/Visual Studio Code.md",
+      "index": 1,
+      "sha256": "df446b96080f3908091daca3e0499f6d49cee568f9c9cc4e1895c55f07f5e354"
+    },
+    {
+      "source_path": "工具/Visual Studio Code.md",
+      "index": 2,
+      "sha256": "f1faab73cc0db45251bcf3cf05cb4486535b26e3932252ebd1c2389768a1813f"
+    },
+    {
+      "source_path": "工具/Visual Studio Code.md",
+      "index": 3,
+      "sha256": "ce8479b207901f90ab8a495095900d901c4361a83bf435f693e9e2a124a71fb0"
+    },
+    {
+      "source_path": "工具/Visual Studio Code.md",
+      "index": 4,
+      "sha256": "3fd8db5cb4780ce21a9e7d7b72556a8f69591d0e5dfb05a39aaf493f8ba81568"
+    },
+    {
+      "source_path": "工具/Visual Studio.md",
+      "index": 1,
+      "sha256": "a02497f5b3a22ea776d39e534e6a1349bb7e095e31d6fdf56578869e51dc9060"
+    },
+    {
+      "source_path": "工具/Visual Studio.md",
+      "index": 2,
+      "sha256": "a02497f5b3a22ea776d39e534e6a1349bb7e095e31d6fdf56578869e51dc9060"
+    },
+    {
+      "source_path": "工具/Windows Subsystem for Linux (WSL).md",
+      "index": 1,
+      "sha256": "3481f1b30019cc18fac79568771ed2477ecbda9b7262f4fe794629e8e89b7739"
+    },
+    {
+      "source_path": "工具/Windows Subsystem for Linux (WSL).md",
+      "index": 2,
+      "sha256": "bf05d1b62123f43eb6d576dfd86a2f37552d1b3836d031aec18aadec5558f3d7"
+    },
+    {
+      "source_path": "工具/Windows Subsystem for Linux (WSL).md",
+      "index": 3,
+      "sha256": "01db2bb07b32e3a60273accfaab0f5cab80d7a5117ce1a3b2e2158ee9f94d5fe"
+    },
+    {
+      "source_path": "工具/pip/Sphinx 主题与 Read the Docs.md",
+      "index": 1,
+      "sha256": "ab888eb0ae746edd751516efd332ce94688c725b496f6af00870e5e54ce73e28"
+    },
+    {
+      "source_path": "工具/pip/Sphinx 主题与 Read the Docs.md",
+      "index": 2,
+      "sha256": "42735d852689f128f44efba4f51fcadaca8450ebf9a3a41a43493b28ad70618c"
+    },
+    {
+      "source_path": "工具/pip/pip 常用命令与镜像.md",
+      "index": 1,
+      "sha256": "8fa0295a13dd53f799c0f4ed7739fd78a30e5f7adaa8e94bcbac876035c28ec2"
+    },
+    {
+      "source_path": "工具/pip/pip 常用命令与镜像.md",
+      "index": 2,
+      "sha256": "b500fff3ae5929f2044ec90749d33d0ed779c922eb59a9a89cabccf39f9399ea"
+    },
+    {
+      "source_path": "工具/pip/pip 常用命令与镜像.md",
+      "index": 3,
+      "sha256": "f3683aec81328493ad14227c66050cbce1c2ad49c56a9f63f167edbf9442f5c9"
+    },
+    {
+      "source_path": "工具/pip/pip 常用命令与镜像.md",
+      "index": 4,
+      "sha256": "0391277710fa4f50edd943cedb18ea5424bcb3c583809d3c0e6aed17859dadb0"
+    },
+    {
+      "source_path": "工具/pip/pip 常用命令与镜像.md",
+      "index": 5,
+      "sha256": "a603166759ca4c00ffd16546ca6b199ed2775590359810cbc3066044d2bc028d"
+    },
+    {
+      "source_path": "工具/pip/pip 常用命令与镜像.md",
+      "index": 6,
+      "sha256": "f7ae36b53b5073b29ebc28c211236996e5c8688b6b3959bf9fd01b740d197204"
+    },
+    {
+      "source_path": "工具/pip/pip 常用命令与镜像.md",
+      "index": 7,
+      "sha256": "44c9adb1a7d564df1fbc6d7bff8dd725ab832509cab26f8a8d1356e79fdca0b1"
+    },
+    {
+      "source_path": "工具/pip/pip 常用命令与镜像.md",
+      "index": 8,
+      "sha256": "5d2c73205117ebac0621811370fc52a3e2738e5fa603218afbb30e191fc3e1f6"
+    },
+    {
+      "source_path": "工具/pip/pip 常用命令与镜像.md",
+      "index": 9,
+      "sha256": "fb00da9ad605bfa69854d44c5d68e9bb7812b3634a37970c9e3eb4c816ae46a5"
+    },
+    {
+      "source_path": "工具/pip/使用 Sphinx 编写项目文档.md",
+      "index": 1,
+      "sha256": "25c6c3fbcbecca6e171743a5ceaaa3e6451391cdb8d885c2863b97d9ef894dcd"
+    },
+    {
+      "source_path": "工具/pip/使用 Sphinx 编写项目文档.md",
+      "index": 2,
+      "sha256": "9c40d3db3a58d5eeeb183fe31ffd254d436d2401fdbe3d8a01413124b0617db2"
+    },
+    {
+      "source_path": "工具/pip/使用 Sphinx 编写项目文档.md",
+      "index": 3,
+      "sha256": "41a47085a562de3fb1b432d445dd0fd65ad640b9c6d9e22d82eaa19d8d875241"
+    },
+    {
+      "source_path": "工具/pip/使用 Sphinx 编写项目文档.md",
+      "index": 4,
+      "sha256": "ab0a0a341d2c7b5f7c1aa48457c6009104f8ad364eb2e6c36ff241ba726e51e6"
+    },
+    {
+      "source_path": "工具/pip/使用 Sphinx 编写项目文档.md",
+      "index": 5,
+      "sha256": "96d97170c4e616a1d1448c15b63708ea13b5150c8f637cbdad3e642ce1e8d5c9"
+    },
+    {
+      "source_path": "工具/pip/使用 Sphinx 编写项目文档.md",
+      "index": 6,
+      "sha256": "8a52298d3a3d8494522e1af452b28f2ef77365051d5afb05b2820f1dd2c9204c"
+    },
+    {
+      "source_path": "工具/pip/使用 Sphinx 编写项目文档.md",
+      "index": 7,
+      "sha256": "e9f71e113da00f757ef95ee3a3d2f2e136de0005791f8455bcdad14f356c1c35"
+    },
+    {
+      "source_path": "工具/pip/使用 Sphinx 编写项目文档.md",
+      "index": 8,
+      "sha256": "fff14663294686e7ae7517aadf335775ca996360b35528a46683c5f2b4ccb1ba"
+    },
+    {
+      "source_path": "工具/pip/使用 Sphinx 编写项目文档.md",
+      "index": 9,
+      "sha256": "b9c377c01e552336b22aebbeec4249af6ab5738c6b9170c1cb34bf66753cfcba"
+    },
+    {
+      "source_path": "工具/pip/发布 Python 库到 PyPI.md",
+      "index": 1,
+      "sha256": "44fb670ab97c3bedf2d6338340633cfbab315d3e1be3c3a7dae28940c3ec680a"
+    },
+    {
+      "source_path": "工具/pip/发布 Python 库到 PyPI.md",
+      "index": 2,
+      "sha256": "223b50c98ce4db5728071e1956e60917499fb8600d76e81d5a7bab9b82d29f97"
+    },
+    {
+      "source_path": "工具/pip/发布 Python 库到 PyPI.md",
+      "index": 3,
+      "sha256": "18343e63bee07014f002895a6fafb4a946e055924dd480670fc78deb938c7b50"
+    },
+    {
+      "source_path": "工具/pip/发布 Python 库到 PyPI.md",
+      "index": 4,
+      "sha256": "825aba44b618e52f6b8486e9700ee036cbfaf4f97d0396bb5c5ad264bede3183"
+    },
+    {
+      "source_path": "工具/pip/发布 Python 库到 PyPI.md",
+      "index": 5,
+      "sha256": "cadbc97ffe4b17be7448f05ac5227169a9f16804f4b22b85795a9a9ba29f5a0b"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 1,
+      "sha256": "a4d3588c23d996e03c269f71020bfca2c3b44db3fb9d0801510f5afa611cdad9"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 2,
+      "sha256": "5912ff00a323819d082255ddd8ab0b1453f875d9907e04ed1f282830ae727625"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 3,
+      "sha256": "d312f34dfd1819015ef8da6d644c5dcbfc9beeee713b574e72a981a03d34e911"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 4,
+      "sha256": "781b0c988a0fe7d5521fa7e6da89a12fca259ff037ed884a8621e9d13db3083d"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 5,
+      "sha256": "148b76f01112366c4f7b29533ce4c9ea1e91a5547f9e987c87675aa896c6784d"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 6,
+      "sha256": "924437813777df7ddc997e83c8ecd72fac6db8b5c030a2a7a2bfaa236a3c79be"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 7,
+      "sha256": "f1d6290257d8723ef57b277e58eb63ad53970caef3cdab02446529d96c2b5423"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 8,
+      "sha256": "da53864b4a490db6ac1623b8439e9886d59af32ea18bcbee8ebdbcd093c19c44"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 9,
+      "sha256": "32113dc653f86bb7caa55019f5c8c9927531068578836b05c51c39049f9886eb"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 10,
+      "sha256": "ecd8266385b291b8a7cb51666fda89f62c64491b95fdd7fd224ae73a02846275"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 11,
+      "sha256": "8a0089182efefa830c099bf162e5d1fe8030595a4c9af85af4bd276a321c3393"
+    },
+    {
+      "source_path": "工具/shell/Shell 函数与退出.md",
+      "index": 12,
+      "sha256": "a59640e81ca3033f8b3d8bf339610f89e61e7f02a0e000ea2ca9d73e64456de7"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 1,
+      "sha256": "8ef7cc3617dadf17bc434c02b897687053470e4ee4e977f207930918daf8f020"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 2,
+      "sha256": "3a1dedccbaa522c69a718c51ebd7cd94f8fe2931265bd0f6ef656c87ea0be428"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 3,
+      "sha256": "1774888f3f327f689a156c84a2ea261bf4c98b33310a4ff88f067fbeb626d937"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 4,
+      "sha256": "0925fb4e68292d84f642fbd372a9c6e0abb95057ed997b2cacb45dd545c39832"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 5,
+      "sha256": "4a98513c95d189b42f930c13bc13db70f9cbfe56827470ce3a7e29adfde315c1"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 6,
+      "sha256": "a4b8cba1cfdde2853541adce2c78b1405a990e1affacab2697859128823120d5"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 7,
+      "sha256": "291bbb8961e0502210b3e4ce17c865b35cae1067d3bff0874a593e15846a32a5"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 8,
+      "sha256": "3b3f01fed22c8dc1689d4b317df8c4bde5bc723c391e56bc225d230906d3afcf"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 9,
+      "sha256": "33b0d2628761bacceab791d1cc3c6f44670ca4407b4cf1ffecc1928069921924"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 10,
+      "sha256": "a9174c8f80ebd07583833ae709bb35af418f9ffa4178546eafb4737231657f74"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 11,
+      "sha256": "bfece3bde76f025412b4709986543e18b9f0e36803b8e59cc3db90357a54bd0d"
+    },
+    {
+      "source_path": "工具/shell/Shell 判断语句.md",
+      "index": 12,
+      "sha256": "33b0d2628761bacceab791d1cc3c6f44670ca4407b4cf1ffecc1928069921924"
+    },
+    {
+      "source_path": "工具/shell/Shell 变量.md",
+      "index": 1,
+      "sha256": "63ce61fbd3c385da2da728a16aa25f2d6ab9b274beba323aa22e52034cb779a2"
+    },
+    {
+      "source_path": "工具/shell/Shell 变量.md",
+      "index": 2,
+      "sha256": "9bc200180c81e9bb13b3c7c36e73a1da191403da40bad13ff5181997c9c52f03"
+    },
+    {
+      "source_path": "工具/shell/Shell 变量.md",
+      "index": 3,
+      "sha256": "574da9f94d45c36b8919a2195793bf64a3d93a34217ab2d83806e85099506cfd"
+    },
+    {
+      "source_path": "工具/shell/Shell 变量.md",
+      "index": 4,
+      "sha256": "d9f8373e95c963bbbcb1d4a6deac6ca2eb5b287c321de83199b9995ba239b02d"
+    },
+    {
+      "source_path": "工具/shell/Shell 变量.md",
+      "index": 5,
+      "sha256": "4afaabdce82238305bbe9d384203359dff87c955574a2b61a61d42eff4572913"
+    },
+    {
+      "source_path": "工具/shell/Shell 变量.md",
+      "index": 6,
+      "sha256": "7c31ff1ffbda65ca457d60de308c272d42b022108789b6f6caf18f7d8c9f9a77"
+    },
+    {
+      "source_path": "工具/shell/Shell 变量.md",
+      "index": 7,
+      "sha256": "a33b00c2fef44c5b26a932288ea0b42e4bdb2b9b100719a3830df2a3c84ed012"
+    },
+    {
+      "source_path": "工具/shell/Shell 变量.md",
+      "index": 8,
+      "sha256": "b5ad028ec069016d2c1a66b8cce67e3097f54bc333bcf7c5c5cd7fd489b7b28a"
+    },
+    {
+      "source_path": "工具/shell/Shell 变量.md",
+      "index": 9,
+      "sha256": "d09ca4f190434ccf00dcc1c76f546a2c6b134888a6d73bff71cd8def7f04724c"
+    },
+    {
+      "source_path": "工具/shell/Shell 变量.md",
+      "index": 10,
+      "sha256": "91cb58bb3edfcf46c1dea9ff5ca6b9f7948d08bd902be20798eb71ca851e8559"
+    },
+    {
+      "source_path": "工具/shell/Shell 变量.md",
+      "index": 11,
+      "sha256": "ab82cf08f02951bb6c13682cf4a1d03927808a636cec537f34f7369b970a8c9c"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 1,
+      "sha256": "08b5a7df44ba1630d091991815b426b8525dc6c600e467683e0744d5e5e39da5"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 2,
+      "sha256": "9b9f880032778b5a3ee02d6d5a6c61facacb1bc203c3e07afc9d7011c5110020"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 3,
+      "sha256": "63356fabbdb0e331df9aeb4a38f2f24ad1f9ac7e79c8ae02b3ecf21569071046"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 4,
+      "sha256": "b9470dbf48b06626888a235a2aee1fdb910a158527fa642f0560517e6350e270"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 5,
+      "sha256": "0ae8969f0ba40d9b0d8ff09e72f834cb4d31cc111be157978ebf45a223791591"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 6,
+      "sha256": "6b81ff71386421cb906e9e863bbe08bd9f9bef8e8105884af821a420e3aac46d"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 7,
+      "sha256": "f77ecda9de7de783b0ef52e4d201b234202ae6d9e3901a48267d203f7ff624ca"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 8,
+      "sha256": "772eb52c26a858e0c81eeabb84bfd9e959793c3d073f7ad7e7008035ece8ae24"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 9,
+      "sha256": "d0dc6766c587da32cec2aa9f6b5ec4369ba3087ec4ff0cc205f45ee765327e1b"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 10,
+      "sha256": "d0c57123cbf132719b7e2d248f6f2a03c18e2c5a0208b6f1c0569eba066ee262"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 11,
+      "sha256": "7bbfd5effd644b2e34b3bc8809f38f033f1bea55867d15ed1e6dd1bf76492d02"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 12,
+      "sha256": "f227f42845489878061ec03df668c7b279c46a2960ec5073488f0756809aec5b"
+    },
+    {
+      "source_path": "工具/shell/Shell 循环语句.md",
+      "index": 13,
+      "sha256": "a96afe31e5e23e792e0a20198f312f025cf2df165ae0d6c5314b176b9d9bf312"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 1,
+      "sha256": "e23d822e1c26ee9b6bb2b9d0b40f7e245b19ead407f8d9821323ec1f539ad5f2"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 2,
+      "sha256": "13140db90de6b544ca9be5bd49a01d8a2cdf6cec9b6b131f6ddcd1f19d6743c0"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 3,
+      "sha256": "2387dc1c0b8dcbe7c3475e6a6aeb42ed50863d1f9a128a701aec57541ad05f33"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 4,
+      "sha256": "f911d74e5de805ef114a50f01603b89c6b94af3790cb914ecccdb374f285bf8d"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 5,
+      "sha256": "f5e04d1ad0c85f6c4a8f1d97fbe347b44c9f400b4d9ebf9e391eee900f12b7f2"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 6,
+      "sha256": "3ec7a3869aa34582db82ff86eb9e1ad2d8d024ff56bd5f05c82b74d8e78b78e5"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 7,
+      "sha256": "f883743041ab9bfe3b940b0807562e7f1961ae4f478fd93ba3b9affe9c54bc37"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 8,
+      "sha256": "31308dd864dfffe6b698b108c73bbf73ca479a152a1870747149a04542f36f54"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 9,
+      "sha256": "c19c056cf03ae9fc6420461b9f78179fdc1a0f4678fd21fb08bab1d0072e312b"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 10,
+      "sha256": "5f8d6fe4119af91ab79c5ffa2da16b0cce240cbe320c602ee7ac1fc51d7c456c"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 11,
+      "sha256": "7f3e097eaf7f93a0c07ec5b84f4499fea1e0052f7be31b87ab0b2e54a7c0d9c1"
+    },
+    {
+      "source_path": "工具/shell/Shell 数组与 expr.md",
+      "index": 12,
+      "sha256": "d9bc0548c6934dfb9776287f114da8e12a555c3ef883c02c10e675058b582c89"
+    },
+    {
+      "source_path": "工具/shell/Shell 文件重定向与外部脚本.md",
+      "index": 1,
+      "sha256": "938d97238e7a53d178922e815919f08756fadb2e7d06e579b60bf3f62068320d"
+    },
+    {
+      "source_path": "工具/shell/Shell 文件重定向与外部脚本.md",
+      "index": 2,
+      "sha256": "5867f522c46b59fc7487b8b119800da26af6a44a57f3ec2e62c5af0f8285acf8"
+    },
+    {
+      "source_path": "工具/shell/Shell 文件重定向与外部脚本.md",
+      "index": 3,
+      "sha256": "9014ffed972abbf90e21e68470dd37fdcd72e906f89f3d4fdbe57f036e8fb8dd"
+    },
+    {
+      "source_path": "工具/shell/Shell 文件重定向与外部脚本.md",
+      "index": 4,
+      "sha256": "128ea656445815016dc499c4c7d0f3ee186175914e57c5ddd4ad7b23f24ea1c4"
+    },
+    {
+      "source_path": "工具/shell/Shell 文件重定向与外部脚本.md",
+      "index": 5,
+      "sha256": "9cc0758aaa433be966b59253be7ac11c846e1e1623298d20ba511e92fba3e934"
+    },
+    {
+      "source_path": "工具/shell/Shell 文件重定向与外部脚本.md",
+      "index": 6,
+      "sha256": "5a9ffe003d3944ec507f3877ea658b7ed84379f9d8ca33be4b08c1a52e7b1e1b"
+    },
+    {
+      "source_path": "工具/shell/Shell 文件重定向与外部脚本.md",
+      "index": 7,
+      "sha256": "bd5f6d53a4cd1cd3b92d567f287bee41e87057e27795a427fb1fcf03c415eb3f"
+    },
+    {
+      "source_path": "工具/shell/Shell 文件重定向与外部脚本.md",
+      "index": 8,
+      "sha256": "a58fe6faf2ea3fb96156edce3b8344127484f2fea2cc384ed35b0270ecd96eed"
+    },
+    {
+      "source_path": "工具/shell/Shell 条件测试.md",
+      "index": 1,
+      "sha256": "7aae4c55018718cd3aee29b24a15248341b2422c6a4890597aeb3df6f86570fa"
+    },
+    {
+      "source_path": "工具/shell/Shell 条件测试.md",
+      "index": 2,
+      "sha256": "3b6723a4f2f12117aaad22ddb1d9baba1ce7f95d03f1cad9f42aff8a67cfdea5"
+    },
+    {
+      "source_path": "工具/shell/Shell 条件测试.md",
+      "index": 3,
+      "sha256": "b4aab6806863df22c9145db65739209a2ca9d200d4941e9e290450c827e6bf01"
+    },
+    {
+      "source_path": "工具/shell/Shell 条件测试.md",
+      "index": 4,
+      "sha256": "a54b23dc9f507a64466ab3fa12e80c4498d25c1a52177445cecd16be409df03b"
+    },
+    {
+      "source_path": "工具/shell/Shell 条件测试.md",
+      "index": 5,
+      "sha256": "c97a3f2f488901fdf8641f92566d13d6cffef7af352a1376a34d668117fdc336"
+    },
+    {
+      "source_path": "工具/shell/Shell 条件测试.md",
+      "index": 6,
+      "sha256": "5b3a316c2497882ea8aea0bd0ede79d1df328fa53d5c3f0b531a6c059772402a"
+    },
+    {
+      "source_path": "工具/shell/Shell 条件测试.md",
+      "index": 7,
+      "sha256": "69ac846586c5c8edac358dea5ad014c2d9767caba7b16d3ea6e55f016a003fd9"
+    },
+    {
+      "source_path": "工具/shell/Shell 条件测试.md",
+      "index": 8,
+      "sha256": "dc023144eb32bacd1b19839ae1475023aed28c03d93fdd04717dbe9d16c9861d"
+    },
+    {
+      "source_path": "工具/shell/Shell 条件测试.md",
+      "index": 9,
+      "sha256": "23b3abb04d6b27c2c53fa8f2acfb033ddbbe7d7bac69643473c1eb6412413f07"
+    },
+    {
+      "source_path": "工具/shell/Shell 概论与注释.md",
+      "index": 1,
+      "sha256": "f013b251ee0684ab69cec30d4b7e745b9806176030763920ce708da18d983e3d"
+    },
+    {
+      "source_path": "工具/shell/Shell 概论与注释.md",
+      "index": 2,
+      "sha256": "663e20c54e3b460812227a11681b602901c3fcaee279be4f13bc097d2f28ba28"
+    },
+    {
+      "source_path": "工具/shell/Shell 概论与注释.md",
+      "index": 3,
+      "sha256": "7ba218908a46bf3789d853b1e61d8ea94c9a46ad47fa376ab2d2c060084011bc"
+    },
+    {
+      "source_path": "工具/shell/Shell 概论与注释.md",
+      "index": 4,
+      "sha256": "b9ca264b06da302a3b4ced7e62c849391647b1acc5d374027e6d1fb2f5fbf08d"
+    },
+    {
+      "source_path": "工具/shell/Shell 概论与注释.md",
+      "index": 5,
+      "sha256": "633197f3740cdbc4ff5211c243af6d2e159d508af944620c54504cb38e27b9da"
+    },
+    {
+      "source_path": "工具/shell/Shell 概论与注释.md",
+      "index": 6,
+      "sha256": "c02bcd90331f6c12c2899e2691f06d55b9673adad6ebfbcbe3f379ca557acfaf"
+    },
+    {
+      "source_path": "工具/shell/Shell 概论与注释.md",
+      "index": 7,
+      "sha256": "3432417d4a9beadf02efb578a399e4d8af7d9bef48c0022cc1b9297c70ad2dee"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 1,
+      "sha256": "2926e1de640a96b46987d877d2fafc2986039a7393fb7547eca03186de9ece71"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 2,
+      "sha256": "908b4625f90a225422d9b663aa8912782c25a2b82f7e21d12715769760caed9a"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 3,
+      "sha256": "dc684ff1ff15d18731124b0a5532651a6a096db1257b5d20979d852c3ae24d5a"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 4,
+      "sha256": "154f885b929f091ebadf67e1b4f96dc4a4eac82523c3ce2e010d75afb04ae94e"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 5,
+      "sha256": "000d969183dbfa83c97a06e1314addd560c3ef1ff1e12fa4c7ab73f822ddcead"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 6,
+      "sha256": "c431228bdea6e63c1a8e6619ce7d35dae3e6b021e28c708df1e385b75d6bd774"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 7,
+      "sha256": "1616554cf03de7497dac2266bc40082289b52b2fc4c67ce0f2037eec291f36f6"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 8,
+      "sha256": "4b6c85e69280e809613285cf37a4ae3f319d029694af120fc9090418d48313f5"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 9,
+      "sha256": "76b8dbb988d0ba2df898163a72fc8d07d823bfb60202573cf91d10f8186fdf35"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 10,
+      "sha256": "1fb4ea242ae303f1bbc0466643b2c5de46fef34d256cfe370c3f5e46e7b31388"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 11,
+      "sha256": "b4e6b0950bdae87a0dd3d79b8fe09aef9ce5f3add33ec84022ae0d30e73516fa"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 12,
+      "sha256": "ebfec4c32276bd71e8a9570a39e823c2ce04da46530125aabfed9e68d015d10f"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 13,
+      "sha256": "40a1a32b70022ed4cfccea029b8581ae0b767f7a0470aa3124930eb3e208cc1e"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 14,
+      "sha256": "b90e975ea43276d777a710206dab55194208f48a45ca4a3a14af7e74255cadf3"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 15,
+      "sha256": "4dd0a2306a704c0f51bd2ef081a840533872a3624d6dc1dbdedde3a2fa95d67a"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 16,
+      "sha256": "e661d1d7058de3c1220d60644a877d8014bf84442868c69094d6528e009a1d71"
+    },
+    {
+      "source_path": "工具/shell/Shell 输入输出命令.md",
+      "index": 17,
+      "sha256": "169700e7af555877e2022555397bd7ed0ce6a2f0ac3cef3182fc0818b395a71a"
+    },
+    {
+      "source_path": "工具/tmux.md",
+      "index": 1,
+      "sha256": "9419a68ee6c1a78b5920ae2a71ec08315909aef0a97b535e2c927eaacecb4c52"
+    },
+    {
+      "source_path": "工具/tmux.md",
+      "index": 2,
+      "sha256": "2d62cac3c743f117a326678356f779ca52366e99aae8d4d39eb3033fba3b127e"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 1,
+      "sha256": "5424d1315c99fbffe9505107c439d320b54a1af6011e15fe45690e10e925f603"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 2,
+      "sha256": "223b50c98ce4db5728071e1956e60917499fb8600d76e81d5a7bab9b82d29f97"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 3,
+      "sha256": "5638f567103860249d7fc9f108a5be7ced2583ff7df91432d30659035d29fbd3"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 4,
+      "sha256": "9129720fcd27c8e2a4a97216854e0232926ecd973a3fd3693d9b84841d29e46c"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 5,
+      "sha256": "e903a4de73d5a9286cbb9a028aafc6f3cc9c2f2661c74f101d98c67e7c6eb042"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 6,
+      "sha256": "f005b0380870bbf88089ccd94894a4e268b7d962c3418581d4a931acbd247734"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 7,
+      "sha256": "858653a619d697bbb274891a6510f08ed898b80de2d0e4e0149ba9c25d0b52f0"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 8,
+      "sha256": "dd13220d7ff0ab29aabd85c3cdabc8eec6302479c7398b319631a717e6138a66"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 9,
+      "sha256": "59b8cb422853932fa235f8c7d571c25b9205135df15a902eeee4114c9b426793"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 10,
+      "sha256": "8605be06180f453777f880f6ecd07927b2bdde4a345916033736c07014172318"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 11,
+      "sha256": "ef8bd70613d3fa202679ca9789d34e24eb747d57d1216d3cd883d246e7c34fe6"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 12,
+      "sha256": "e9bce4f09ee773af79b0ab745f1d1ad253388b214b174aa7d5d06c235b947243"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 13,
+      "sha256": "2355ccede83e67344669299a0afd6fc8a963d85644172ffbf32536574fb7ffb3"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 14,
+      "sha256": "6459266a37a049e2bc99ff2c3d40ced26d545e8724146580660c769fced767c6"
+    },
+    {
+      "source_path": "工具/uv.md",
+      "index": 15,
+      "sha256": "f9c31e4e3d63a326e2d23f413589084e38ce61d5301e3a0013e3c6827e66f54d"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/栈的实现.md",
+      "index": 1,
+      "sha256": "66ef01dc18a252975b2cdfd2361a8f099058026a96ba1ae649c86a4f63191624"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/栈的实现.md",
+      "index": 2,
+      "sha256": "e15d5ae3cae4b42e86a1c1fba36d010ba7fbbd779b7a10dcd08e61693327b438"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/栈的实现.md",
+      "index": 3,
+      "sha256": "de17e2c0188a999c3e67f309f077cc8fd43c877c84fef8b779eb62208715e06c"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/栈的实现.md",
+      "index": 4,
+      "sha256": "854d93ac8a36de83f1a49b0080b87bace6367d85e6419df78355dd3493348bce"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/栈的实现.md",
+      "index": 5,
+      "sha256": "47afa61a66156fe5965785dd41e51817138124a2aa3ddfacc93f8a4037eb4a1a"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/栈的实现.md",
+      "index": 6,
+      "sha256": "a46c975caadae7edf48ad553c69c39fde0f79d0e2e8815d4f294e283e9e601e2"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/栈的实现.md",
+      "index": 7,
+      "sha256": "05c3f7ff7534e7fab0edcf36253126a43d90933411f449a85e732cf0985bb1c1"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/栈的实现.md",
+      "index": 8,
+      "sha256": "aedfa1a8a070198d6da7fca27bd90ac2d0bad834ac8ca48d21e71f8c50f5de43"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/栈的实现.md",
+      "index": 9,
+      "sha256": "b03bddb4f7f60c82a37829a88fae31cd7d6d382755bf9626c82e70113a23e562"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/栈的实现.md",
+      "index": 10,
+      "sha256": "349ecffa78ed12e2e89467ffc27ba371c082dc49f9d0e65b85171e395d338994"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/队列的实现.md",
+      "index": 1,
+      "sha256": "8190c80ae547d6167cf6379f4ffe15d053ddde954b40e26b1a7d97d103bba3e3"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/队列的实现.md",
+      "index": 2,
+      "sha256": "99d1482dc851c722b7370f1295fdee455c003311e7f4c7872d4fbaea8195b7b1"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/队列的实现.md",
+      "index": 3,
+      "sha256": "b5aad1b1e4bfe8c5c8df616c45be5e5a4d49857903af071dd322d316f426c7c8"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/队列的实现.md",
+      "index": 4,
+      "sha256": "3d8f804cbaf14984a0f08357053733b541eb1044c3152c2d2e399aa97dbf3cb5"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/队列的实现.md",
+      "index": 5,
+      "sha256": "572b71299635431a53311049db1d272e974a44602e50f099ce23ff30e5110c4f"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/队列的实现.md",
+      "index": 6,
+      "sha256": "32b7245a50aed5399de988c36c3b4d15449927aa5fb800f2cc1f9f944261a8e6"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/队列的实现.md",
+      "index": 7,
+      "sha256": "ba03458fef43dd74a6001e5f0b83f4eb36f4b3a8bc1738578c451606be9ecab2"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/队列的实现.md",
+      "index": 8,
+      "sha256": "ffa745a4b18a72931bbe783c138303161d8c18b0715b733f3c6cd59c22b12d77"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/队列的实现.md",
+      "index": 9,
+      "sha256": "946a1a88d7623f8a9ca13423a009fab40d5943978b71bd27feafefc45bafa914"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/队列的实现.md",
+      "index": 10,
+      "sha256": "018704049f05690da216d618439a7fde174ead767211dd5c1495c5c612cb7b02"
+    },
+    {
+      "source_path": "数据结构/数据结构实现/队列的实现.md",
+      "index": 11,
+      "sha256": "a6fd356a71c1801eccc4625111f5ee117095d67b4f0beb008a7890d4786a04a9"
+    },
+    {
+      "source_path": "数据结构/算法题.md",
+      "index": 1,
+      "sha256": "0d7461a8ecbdc0c3bcd93e4806af09137a1946caca0ea80f0f3546e40fc1a3b3"
+    },
+    {
+      "source_path": "数据结构/算法题.md",
+      "index": 2,
+      "sha256": "50f0654ef5d702eab3fe7c1546408122f01eb7290a2fb1de82c07f28c6d619ac"
+    },
+    {
+      "source_path": "数据结构/算法题.md",
+      "index": 3,
+      "sha256": "8d9e6fc56180c2b598bb790b2fd6d5ba466c4441b49f3f57ddcae373c9367397"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch CPU 与 cu128 安装.md",
+      "index": 1,
+      "sha256": "b574948de42011a6dea222a104a17cf835de4f4ae4ba2fa20960c0ef98dd8f78"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch CPU 与 cu128 安装.md",
+      "index": 2,
+      "sha256": "4d9f36176012f03734e24c9df98b7024f5bf404aedc4ae70abc28ab170dbdb2a"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch CPU 与 cu128 安装.md",
+      "index": 3,
+      "sha256": "f21d52c54b0c4b9aa0dee029b01c468d673978d004706dad74fc8f948e16f191"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu111 与 cu102 安装.md",
+      "index": 1,
+      "sha256": "03e21385bac1fee0307198300adddaae33b8abdc8956b8c3ccd18903104d702a"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu111 与 cu102 安装.md",
+      "index": 2,
+      "sha256": "7a6c969c11180270a088267212d52075a4c312e3d315cbaa0e82cc9e0cf1bfb2"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu111 与 cu102 安装.md",
+      "index": 3,
+      "sha256": "4d7f1dbdd67338824c5412e6616a0a3e1087360ed7f63d0ad08c22afc73c0f1c"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu117 至 cu113 安装.md",
+      "index": 1,
+      "sha256": "6b5dd9fe9d2e9bcb06c17f2fea34d777755f0945d6b6b019621702379a3f180f"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu117 至 cu113 安装.md",
+      "index": 2,
+      "sha256": "f3ca36863b46c045d2c947df1f9023890cc91fa013baefe8a144e7064ee1cc47"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu117 至 cu113 安装.md",
+      "index": 3,
+      "sha256": "22f46a9219653a5122f1ab2cc86db4b2c22fd2505d6a331823922dcff47d1ed6"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu117 至 cu113 安装.md",
+      "index": 4,
+      "sha256": "a3b455040bbfd50b8cfc4f083068b1bc5523314d581994207b25ec1e8b24ac84"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu118 安装.md",
+      "index": 1,
+      "sha256": "9d6402b81fde15b95c388bd17babfad7d30f045359cda5a1f12d3f72594cb2f0"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu118 安装.md",
+      "index": 2,
+      "sha256": "6030f5a122df63ba00d3a5738446668f7f99dce0373e11508d055d2c5a13d76b"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu118 安装.md",
+      "index": 3,
+      "sha256": "1d8a15b5a1d6e3a5104b19661bad16c84296fd450aa8370571a5706a02cc3e1d"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu121 安装.md",
+      "index": 1,
+      "sha256": "42eb90788af48e2400713e21c388793a9d66424d4630c0e7c2df3fa8f7638ec3"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu121 安装.md",
+      "index": 2,
+      "sha256": "eb8ea38bb3e0d325a61ec9af4876b5f24731d78537a08041c183d59f813a20eb"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu121 安装.md",
+      "index": 3,
+      "sha256": "1d87d903f929fa5ac86fd7857323a601ee1d2e90e218303086e2f6f8d215fe7d"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu126 与 cu124 安装.md",
+      "index": 1,
+      "sha256": "156b6f341bb71d69f980c561204d0723df8b4e56be32afac579254193cc29cb4"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu126 与 cu124 安装.md",
+      "index": 2,
+      "sha256": "2004652ac4f4be8fe68ea81f592c4a5fdce1ac5f075cd4011bb53c007fd84eb2"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch cu126 与 cu124 安装.md",
+      "index": 3,
+      "sha256": "4e05e05158c99fc46ee2a7973e21851786ea5016ad63e386c864418c873146d7"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch 版本与镜像.md",
+      "index": 1,
+      "sha256": "7061ea610412625ebf867c78cba2792ffb3ccd9403fbb6a415c97f3421b602ae"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch 版本与镜像.md",
+      "index": 2,
+      "sha256": "8074ec9894beca30aa9d29ab726acb87abe678bc750470dda404ecf19df7c28f"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch 自选版本安装.md",
+      "index": 1,
+      "sha256": "134945c68fd08c9fff55657264de8bd41ee7583a57b2b4561d772e9afb6ea01e"
+    },
+    {
+      "source_path": "机器学习/深度学习/PyTorch 自选版本安装.md",
+      "index": 2,
+      "sha256": "57dcd6d13652f9028e810656fa0a786be5f20383dfd9d4bb6b4676a5388d993b"
+    },
+    {
+      "source_path": "机器学习/深度学习/TensorFlow 与本地 CUDA 环境.md",
+      "index": 1,
+      "sha256": "230c8926dca730a3dc8d18de9f4610ed0d2883eec1ea7f79d85e9c79256eb6d4"
+    },
+    {
+      "source_path": "机器学习/深度学习/TensorFlow 与本地 CUDA 环境.md",
+      "index": 2,
+      "sha256": "c9c20b1ecb9d02420dc2384d9cb1677501de0b8dcd8593b9238428a5d6c0b5bb"
+    },
+    {
+      "source_path": "机器学习/深度学习/TensorFlow 与本地 CUDA 环境.md",
+      "index": 3,
+      "sha256": "ddaebf66b9caf80210826497ec23cf904cce48ef6607aa6aff7e465ec36b0a03"
+    },
+    {
+      "source_path": "机器学习/深度学习/TensorFlow 与本地 CUDA 环境.md",
+      "index": 4,
+      "sha256": "bbfe036ba7d081f0e09c40d7d1819d639c58a06462889880ae749b1813697a41"
+    },
+    {
+      "source_path": "机器学习/深度学习/TensorFlow 与本地 CUDA 环境.md",
+      "index": 5,
+      "sha256": "7189f77eca29f3ac2adcd65d48671c85f26141d877c7422ca9018b3da6a8ea3d"
+    },
+    {
+      "source_path": "机器学习/深度学习/TensorFlow 与本地 CUDA 环境.md",
+      "index": 6,
+      "sha256": "deba71ba45735a04beae22d8dd56f132d6b3d962da54f6911be732f33728e7db"
+    },
+    {
+      "source_path": "机器学习/深度学习/TensorFlow 与本地 CUDA 环境.md",
+      "index": 7,
+      "sha256": "b18ab249e06ef5fd7410bac7ed63a37053700f2ec7f954e7a19daa3108a85ee1"
+    },
+    {
+      "source_path": "爬虫/爬虫.md",
+      "index": 1,
+      "sha256": "04f3e2eb1884d3bac2bca0f36539a2f447014a5b865440300227202d5b3b4037"
+    },
+    {
+      "source_path": "爬虫/爬虫.md",
+      "index": 2,
+      "sha256": "e1a80d19dbc0527344e4618e7cf17085b235e80da0c2a0f53b2d420a376ab205"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux GNOME 桌面.md",
+      "index": 1,
+      "sha256": "9c73247e377c97a4672efc33e9990a5b4f23b1b45f93cbd63d9a567d8cc07ea2"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux GNOME 桌面.md",
+      "index": 2,
+      "sha256": "39a4fe9f408475d79539d9203a9c0c79c94862565f0361d36ecb432164120390"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux GNOME 桌面.md",
+      "index": 3,
+      "sha256": "e5f40d11798c1e33c4ee2dae39c9b4ea426e0695f88d04e7e0a423f363e94c4b"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux GNOME 桌面.md",
+      "index": 4,
+      "sha256": "f175c4742f7038f22fbfd0f6851ef692715fa61eaa35433cd7df56c50e9acea5"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux GNOME 桌面.md",
+      "index": 5,
+      "sha256": "9e3bf0b6f4f0af6089cba7394e3f7853649f8fd46d3fb7653aba0a64d6ec25ee"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux GNOME 桌面.md",
+      "index": 6,
+      "sha256": "b83d78ac8354e525a81ee22ddcad08234c71c31df2f4fe4d5ebbc9c6ee235a7c"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 基础配置.md",
+      "index": 1,
+      "sha256": "0dacd734d801398f7db22285866c9be478b468d8d7c8b89778848a963dfcfdfc"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 基础配置.md",
+      "index": 2,
+      "sha256": "9e6eae1d8b8572294e4e2452ac172b1c8939a7610a5e87770ffb6c15aa5ae678"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 基础配置.md",
+      "index": 3,
+      "sha256": "3ad3495c0eddb8c674b800de4e6cd88dd6de71b25f3942c0857c33ee56aa9f50"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 基础配置.md",
+      "index": 4,
+      "sha256": "5a154c6e00a060806c35c85f72af9bc79c937240e756b190a481073d49d2eeb9"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 基础配置.md",
+      "index": 5,
+      "sha256": "bbf58f42cb6d581e8abe47a737df8310ef2304311c0286f7dc13a5c57956e47e"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 基础配置.md",
+      "index": 6,
+      "sha256": "69e3922bd9513df2451ff1b8a3dbebb67a82092714ddb0b5e94f2189bd9858d0"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 基础配置.md",
+      "index": 7,
+      "sha256": "de25bb1aeaae3366a4523cf33865692ed8d05b58e2a07d54d9d903d4f0ed663f"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 基础配置.md",
+      "index": 8,
+      "sha256": "aed028e56302516b439dac7fe75661208ff42ba5fd1596962cf299c8efa390c3"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 基础配置.md",
+      "index": 9,
+      "sha256": "93b8489d46925af586befb75aac45f788a1dc2497033916b1ff74e24789e6c4d"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 基础配置.md",
+      "index": 10,
+      "sha256": "a3d4c82bfcfd30faca12a2208240e6eddf13f4e17dfa6d8c139f4ac75f7dfacd"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 1,
+      "sha256": "83a54fe756ade603bfc9fdb92f267831475296de84ba775b17941e380ccd6e8b"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 2,
+      "sha256": "ddbcc9d84367e7ad0e9937fcc7a982ff9f786b77df8fefff684a215e190b466c"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 3,
+      "sha256": "3b9fff5348a8985d1c59cd3d14d1eeeb5051cfcb61bde8b04b43b152f8d46c63"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 4,
+      "sha256": "7a41c02885dce76b9e84e18f79df25c6182ee54af784188e82ed216593164e2b"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 5,
+      "sha256": "073831161a4ef7a54f575d434fb9183d6e46c7a55a0ade285a7ae1cbe6e761e3"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 6,
+      "sha256": "ffa6177248b195aaabce96d9397620e06d3747c3dbfacf37945c37a9a5841dd3"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 7,
+      "sha256": "fd1adc1eedc247d030820a41d3ab3ced6fae67a9cb96c62c81d43afa426d621a"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 8,
+      "sha256": "625ae8a89719c856de25b2b3093bee4117fd76cee5b8a2a194503000b61af0d7"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 9,
+      "sha256": "27bbecd2fb38db4cd90eb83496dc05c1a1478d305982ded060c1289009915ba9"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 10,
+      "sha256": "d98e876c9c05c8090169a31dfc94c486a4a78935cf924644943e3d04410bc37b"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 11,
+      "sha256": "33be86560ff4a66a02151f4b6d07c14cb6ba29b2fd3341b8f457bc745549fd22"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 12,
+      "sha256": "82da5c19f82bf5ae62bba697b9247e57fb575917bddfe358409d3966dea62e36"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 13,
+      "sha256": "abcc29e46d0d9cf755a883aa3ccca721de91663e4a8ca8d61b9bf0e3074697e3"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 14,
+      "sha256": "511c0132f848a3d66494b5aefdf0774298efafb9994976249744101ada14d746"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 15,
+      "sha256": "06ec5b3403d595bae8804d1a7b82010462c2cacddb95635298291217e4980537"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 16,
+      "sha256": "6a745bd2c739c4b5c5533280786f3bbbea7763e941544239b47c61a460e72e77"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 17,
+      "sha256": "e55b23c507e43689b3ff74f89a99ffe83bd140afd0a7183f60d05ede1de82966"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 18,
+      "sha256": "321a22cf44e983024d7362c617f5e01d65ae43585460a815bab7aa6913bafd77"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 19,
+      "sha256": "2270a50175af849aa0372d560efe794f3064ef833c5f46cace98b3089272f0e1"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 20,
+      "sha256": "9135a3fb5e1912595cc233f50145ded4b470406057831aa19027cbfcbb827496"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 安装.md",
+      "index": 21,
+      "sha256": "d15e4a684d19ad59d604e59744e9b21314cfe3835fb5774a060e32e59137595a"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 软件安装.md",
+      "index": 1,
+      "sha256": "b0e5b8c88e8dd8351e02a031e37bac094943da8b7fad71e9a96020e4931fe50c"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 软件安装.md",
+      "index": 2,
+      "sha256": "b538ca4cf97bbe687fbff1c304fb66690bda557cbf26d1839d863f0feb4b1d28"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 软件安装.md",
+      "index": 3,
+      "sha256": "f530f5e807a5c51dc9d887b1ad77c878bc76f74b896d10f7ffe09e754c05f4ac"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 软件安装.md",
+      "index": 4,
+      "sha256": "d70c58468d2f548f6cf25f129e0a8ab7c14f69269c0233b3c133f21cfce2e4e0"
+    },
+    {
+      "source_path": "系统/ArchLinux/Arch Linux 软件安装.md",
+      "index": 5,
+      "sha256": "05a3d46640903e8d6b51f630991694a166444f27cbfd0e6b996b0b23e5b951a9"
+    },
+    {
+      "source_path": "系统/ESXI.md",
+      "index": 1,
+      "sha256": "7db8ba460399ef5a05d789ecab97e4299d99e420b21c77420146ff4724ffe351"
+    },
+    {
+      "source_path": "系统/ESXI.md",
+      "index": 2,
+      "sha256": "0efa8df84cfea3dc77b2db7d69e711f8b78c70c1f2e379678f79ac58703ecb8f"
+    },
+    {
+      "source_path": "系统/ESXI.md",
+      "index": 3,
+      "sha256": "96358541863a1e4eddd10483c4b533f80a24560904d28659b728001fc79ef3f5"
+    },
+    {
+      "source_path": "系统/ESXI.md",
+      "index": 4,
+      "sha256": "a3018ed175af56a8c75aed62dec0643b97f80285abd0be08c179e43ac65e9ab5"
+    },
+    {
+      "source_path": "系统/ESXI.md",
+      "index": 5,
+      "sha256": "15302a710a2eff712a64fdcfe164cfa1c0a9a6f5fa7b8cb70a006589fae320d1"
+    },
+    {
+      "source_path": "系统/ESXI.md",
+      "index": 6,
+      "sha256": "8ba1d4a20df73f65c32f64ebe56ae384bc50d3d07ea0702f5583a20af851220d"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 1,
+      "sha256": "c0d70646468628a06ba80afa4636c6977e695e4c44324cbacf883b03e22afb37"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 2,
+      "sha256": "f5ad1a4f149056fae2c7bada8ece43b324e40b6a5ae938653f43d7cdda07a10a"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 3,
+      "sha256": "0de4f808eede45c9e58b75cdc6a8db472e49dcfc371f233ea14faadb618402fd"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 4,
+      "sha256": "201547b67055e476fd20bdec93ddc66cc7dddcee5a04ed9d7a89acaef95fed96"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 5,
+      "sha256": "bfef3484a47fd1eec5561195eb08289836d7e04fdfbb0d30bd0273508de7cdf0"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 6,
+      "sha256": "eaaef660a012c290cb3438204401c06184eb7d034801d597f9203b3ef21eff1c"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 7,
+      "sha256": "9f949ce5c1ba21ee9314e50bf63551b2c88535cc4089c47478968d0d3e673472"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 8,
+      "sha256": "ddc2d7b4e49d54e26e5da46a3cd7b0022474e76207c7e1d7aee30a23da659cd3"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 9,
+      "sha256": "28c235477f4800152e1976f6c4266853e0c2d42c710a6fc4b7712666f9213ecc"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 10,
+      "sha256": "3d5466c3c29361480012d439e6da7e8ae256070bcc517fa1bad739bf529ef057"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 11,
+      "sha256": "4a38961ee953d4e743271c04797a7a56aa46e438b6fd17f33435ffd6a37028e5"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 12,
+      "sha256": "e73191e366e078a71a8cb17e7efe1b4a778bdcc444968d545e26aafe722765b3"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 13,
+      "sha256": "67353b074150a33f3863b6234dad6466c7a143ec53462c04b89c82b5ef9875bb"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 14,
+      "sha256": "8f74d632bccfe2c86863b68f7c0ca2a358eba7ce95d7e8bec74484f4bf624cb3"
+    },
+    {
+      "source_path": "系统/Linux.md",
+      "index": 15,
+      "sha256": "cdef771f40e88558b64c6a0e1853fc4143e9b9287a13340e76f21ac19baa54bd"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 1,
+      "sha256": "80d68ff0b1785cf0ebf79ec9a39fb68066fbcc4f41eebc42f5f1cfd6a558653d"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 2,
+      "sha256": "676130aad28ce27a1a9aba51945431efe47cd1472343f3bb4772468bdcf85bc1"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 3,
+      "sha256": "e023dfc02bb8a76fbbbd00df541267f0d9cb32cabcca5193954414a95bcb33f3"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 4,
+      "sha256": "a16673215d8cc40119ac1ad7c5feabad7486f8e934ad5153e286e3e081ec1730"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 5,
+      "sha256": "d5c3f30b4b614cbee171162880980bfea9c9aea552cdcc987c7665f312f9cde2"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 6,
+      "sha256": "7d7021c319d31afdf685fe6923b567d18932d3cb8375379a7a1a291bde24c3e5"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 7,
+      "sha256": "a174f9b94754b4deb08657fcccd5583be545b82959c92e7e91197b65ff14dcf0"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 8,
+      "sha256": "22a97e0cdb3e55791138de3c469043fb71b93545c0c7cf8d7fcd1f2b57b73a26"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 9,
+      "sha256": "43fec33aec07fa58591e486dc5e93860d0f22fe6f275721179aab0c3f1c5f429"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 10,
+      "sha256": "14abbdd738b153b8e4bae324d5cf8390eb4a387a4706236d50c0cb745b768f17"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 11,
+      "sha256": "171c8b0947a39396cc125cfb9041ae5a75ba2751aef508da0cbefcefa28d058d"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 12,
+      "sha256": "e793461aa2a179054ac8fe9ab8c8571d96279afa48658f60ada2986c90f66f29"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 13,
+      "sha256": "7513e9d21057634ec2948b395da78ec0f4b6eb35001c4c76c7ed090fd78f17ad"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 14,
+      "sha256": "b3a985c27ad3b4b80b78b928dbc739726503fac1a173605b3c3c5742864d639b"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 15,
+      "sha256": "200247ad22ef58e32417e4d19c7418a13714b7a61358256f6a03f7c9cd834fad"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 16,
+      "sha256": "b510482072525721fc71410eb1fc9dbbe093d2fd93ce2ac1e8d55baa8a4e1fe9"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 17,
+      "sha256": "43fec33aec07fa58591e486dc5e93860d0f22fe6f275721179aab0c3f1c5f429"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 18,
+      "sha256": "93de0b1ab8e67d7474e4e3a7c34438c14458c1545928fd0d78de5f4907a38a33"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 19,
+      "sha256": "7a8c0809a8918100ecf7b9c903830925a76da36f27fc674ff20021fb3dc352ff"
+    },
+    {
+      "source_path": "系统/Ubuntu.md",
+      "index": 20,
+      "sha256": "9aaeb83ae9e9193f9a5ff0577213e8f693cfecfaedfef8f84056a9861ee370c2"
+    },
+    {
+      "source_path": "语言/Assembly/8086 寄存器.md",
+      "index": 1,
+      "sha256": "fda63f768db622a723daebe9d4c145ba2e209815358aaacf7e0b60e410a3b39c"
+    },
+    {
+      "source_path": "语言/Assembly/字符串与标志指令.md",
+      "index": 1,
+      "sha256": "7a9704815e525b9e98765ec12d74bd7caa3e5df6a80af8d4b473bcbe952a85bf"
+    },
+    {
+      "source_path": "语言/Assembly/字符串与标志指令.md",
+      "index": 2,
+      "sha256": "c3a99e5d208b62babcdc0221caeaff452248465f5391fa9203d69814b55760d9"
+    },
+    {
+      "source_path": "语言/Assembly/字符串与标志指令.md",
+      "index": 3,
+      "sha256": "d3a668ce418c6cc8d1c1d04a3ac1e360d77d12e6e55adff7e7b66cbbbaa23a7e"
+    },
+    {
+      "source_path": "语言/Assembly/字符串与标志指令.md",
+      "index": 4,
+      "sha256": "c95a6babe0da288b8fc73f84087e72b7a5756319d8d2cbc70c6cd1fe7fcbd067"
+    },
+    {
+      "source_path": "语言/Assembly/字符串与标志指令.md",
+      "index": 5,
+      "sha256": "e9687cc864e5de26eb45e482d95cf7284327d17ec30fc88a337be07ffc9ba986"
+    },
+    {
+      "source_path": "语言/Assembly/字符串与标志指令.md",
+      "index": 6,
+      "sha256": "3740d9b76830a470f5d25d16c1dac35c67e148cc74580853c25c02bc1c84c652"
+    },
+    {
+      "source_path": "语言/Assembly/字符串与标志指令.md",
+      "index": 7,
+      "sha256": "a9d1298abaf1da63ec3302e23d67a7e7f9cdda76bd8492bb7424dfc5bb62da98"
+    },
+    {
+      "source_path": "语言/Assembly/循环与跳转指令.md",
+      "index": 1,
+      "sha256": "17ab96b7127e1abf3fb30d76529e10c60331a02cd13c1d72ab9348121391f7f7"
+    },
+    {
+      "source_path": "语言/Assembly/循环与跳转指令.md",
+      "index": 2,
+      "sha256": "b1593e784917f5ee734d291b1cc5f9b63688550f7eac6855d7b31010533034d5"
+    },
+    {
+      "source_path": "语言/Assembly/循环与跳转指令.md",
+      "index": 3,
+      "sha256": "085d7ae04e5637b8b5f9aa6062f6d8664e3e17e48fd57f61fbb20aa4958e1824"
+    },
+    {
+      "source_path": "语言/Assembly/循环与跳转指令.md",
+      "index": 4,
+      "sha256": "e061ac9ae760da46568ed97cc9a531a3c6bb2746f09ba44219d9aa5b756f90a7"
+    },
+    {
+      "source_path": "语言/Assembly/循环与跳转指令.md",
+      "index": 5,
+      "sha256": "d27da20b8acf6b662b19d9a03af80fffbfe8dd0e48c3206b03e0c415b3aba92b"
+    },
+    {
+      "source_path": "语言/Assembly/循环与跳转指令.md",
+      "index": 6,
+      "sha256": "2105a15416829bff51be7c6e13fe9b55b36e1057471fb9f0afa425f2b1d015cf"
+    },
+    {
+      "source_path": "语言/Assembly/循环与跳转指令.md",
+      "index": 7,
+      "sha256": "b171a3fa70f447608b21b5e9db78183c91b1831a355a1cca739e0ad1a95de1a3"
+    },
+    {
+      "source_path": "语言/Assembly/循环与跳转指令.md",
+      "index": 8,
+      "sha256": "f23229c0d1fcd3edbe85f6504c004104064d97b4caa51d781b3e3bce27f843f5"
+    },
+    {
+      "source_path": "语言/Assembly/循环与跳转指令.md",
+      "index": 9,
+      "sha256": "aa25d82390ac9d59bda0fc1ec457265b5583b01204776f6de1064191ca0eebf4"
+    },
+    {
+      "source_path": "语言/Assembly/数据传送与算术指令.md",
+      "index": 1,
+      "sha256": "8c3752fe3cae40deeebe1d8aeba98788d2039164ee45caf922eff45255e34923"
+    },
+    {
+      "source_path": "语言/Assembly/数据传送与算术指令.md",
+      "index": 2,
+      "sha256": "458721d70a2c4648dcc41f702e6564a344194239396518617234006c8500a06d"
+    },
+    {
+      "source_path": "语言/Assembly/数据传送与算术指令.md",
+      "index": 3,
+      "sha256": "ec07f35a588db824719d6a33337c4126b04869dad30fd127aa498b3d38918503"
+    },
+    {
+      "source_path": "语言/Assembly/数据传送与算术指令.md",
+      "index": 4,
+      "sha256": "a3a09781d88106efd1c9d5765315b093276aeb754d767efb7c035de374a94ab6"
+    },
+    {
+      "source_path": "语言/Assembly/数据传送与算术指令.md",
+      "index": 5,
+      "sha256": "30b45a3be6c6e743619f01451d7b1ee44a6839e32609c1fb6b892b0fe188da5d"
+    },
+    {
+      "source_path": "语言/Assembly/数据传送与算术指令.md",
+      "index": 6,
+      "sha256": "c7dec1a196ea2e320a427b9ccc9fb52eecf037313c4d5beb890b96815b425c69"
+    },
+    {
+      "source_path": "语言/Assembly/数据传送与算术指令.md",
+      "index": 7,
+      "sha256": "cab9a2066e88f2c2f179963e8ca62c36c0f68ac380350597cc23e28315d1b805"
+    },
+    {
+      "source_path": "语言/Assembly/标志运算与条件转移.md",
+      "index": 1,
+      "sha256": "bd7ba4503e5070274a4e2c0073f76b3b8c3a4a2e395947b3b64a22aa6fb732c4"
+    },
+    {
+      "source_path": "语言/Assembly/标志运算与条件转移.md",
+      "index": 2,
+      "sha256": "6da3c156cff632bae9a0759c63c9286b15ec7671c7ab93aa826c8adec07b0771"
+    },
+    {
+      "source_path": "语言/Assembly/标志运算与条件转移.md",
+      "index": 3,
+      "sha256": "e0023592345a52a57424f2b0415a8b186722152716d3fda070fbdbe722b46479"
+    },
+    {
+      "source_path": "语言/Assembly/汇编伪指令与多段程序.md",
+      "index": 1,
+      "sha256": "72165c7baff4ba3d3b69f67508dcf1b57e1550803686e90a817a00a914453c2d"
+    },
+    {
+      "source_path": "语言/Assembly/汇编伪指令与多段程序.md",
+      "index": 2,
+      "sha256": "49192566b9a46280110d265a9aafa1b3ef1c7e75e705958d0736a5bd39ce09c8"
+    },
+    {
+      "source_path": "语言/Assembly/汇编伪指令与多段程序.md",
+      "index": 3,
+      "sha256": "e1761c0e5e03981e07c5a69d1d13d634a59787fd5b6adb7e5a93c59e45bf8740"
+    },
+    {
+      "source_path": "语言/Assembly/汇编伪指令与多段程序.md",
+      "index": 4,
+      "sha256": "0549f8599458a2e4c3b121bab9322d996b875f71558b3c7b92983d05dde498c5"
+    },
+    {
+      "source_path": "语言/Assembly/汇编伪指令与多段程序.md",
+      "index": 5,
+      "sha256": "3f246e4b33adc07dd166071e4d870c7d411e6475ef497cf8321efa838c4e5304"
+    },
+    {
+      "source_path": "语言/Assembly/汇编伪指令与多段程序.md",
+      "index": 6,
+      "sha256": "63889d276f60fb9d999583ae00d4e4c151cf12f1d9abf9d32500bc09daf7e32f"
+    },
+    {
+      "source_path": "语言/Assembly/汇编伪指令与多段程序.md",
+      "index": 7,
+      "sha256": "2afcda21906d34fb5d182c771d5b4354942a89b0384851e674a3f7ef6526a06c"
+    },
+    {
+      "source_path": "语言/Assembly/汇编伪指令与多段程序.md",
+      "index": 8,
+      "sha256": "81fdd2e3929dfd9232ad0552b3afb7888d8c1f06aace48ad5dcfb259f2630079"
+    },
+    {
+      "source_path": "语言/Assembly/汇编伪指令与多段程序.md",
+      "index": 9,
+      "sha256": "739637fc45c98595f7eefb30c54aa8017bb8f34ae321d03f172ab805d570e2d2"
+    },
+    {
+      "source_path": "语言/Assembly/汇编伪指令与多段程序.md",
+      "index": 10,
+      "sha256": "59d9f85004ebd730337a5e992705e0a27ca9e315d495b7ab6c3a4af28976cd6f"
+    },
+    {
+      "source_path": "语言/Assembly/汇编程序基础.md",
+      "index": 1,
+      "sha256": "ec6ae7c516683894cb5f6d418e3ae0b4d79ffbb6d78d033b4ae9d2521e6a793d"
+    },
+    {
+      "source_path": "语言/Assembly/汇编程序基础.md",
+      "index": 2,
+      "sha256": "40f829ac5be587e0d5c3c0525396b7da5d43e766ed07b2673093782ac0ed7b69"
+    },
+    {
+      "source_path": "语言/Assembly/汇编程序基础.md",
+      "index": 3,
+      "sha256": "d1c38e00078032a5f493230169b0b0eedefad187a1f8527abe7c1d9055fbc020"
+    },
+    {
+      "source_path": "语言/Assembly/端口与位移指令.md",
+      "index": 1,
+      "sha256": "68c8d6dc9bcc16ddab60ca23c94dadd5af73057de48e0fd9ad2b18b66a3e1838"
+    },
+    {
+      "source_path": "语言/Assembly/端口与位移指令.md",
+      "index": 2,
+      "sha256": "e1267f4a42dd3ea89913805fed28a5be31f6c2f5bb9062d4bc9380b5aa6ef4e0"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 1,
+      "sha256": "adb7d032491586bf5ef964020af90dff2039e76f302cfbebe4c02ce9c4db7d13"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 2,
+      "sha256": "df35491768463fac592a7f43076ed9deb8842a2bef2cc2fe98c51dd69f67e26b"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 3,
+      "sha256": "601e68e0b5b57f7549ddc12764b17ff8defb1e26c18b70e63b84a095ae73fef1"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 4,
+      "sha256": "7d589426f6d86f9719250cef8d2ba96489db931710924788556c0d3cbfb74b54"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 5,
+      "sha256": "be85548324c6e8484ddc3334189c55984eddd27c86388ff3b56d944c6b311c02"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 6,
+      "sha256": "04bc8761715b81be56ee213ce81ce0d0faef20e32e21ba8db9643b990814c509"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 7,
+      "sha256": "ebe6a130fa262b7edb824eb4920c781924bc7f04a5b71477c06996e05bf8ac36"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 8,
+      "sha256": "6e3a7031f664b2f2b9a17ac65bbbf5d41a47acd56583d8e830fcf52e12fc666d"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 9,
+      "sha256": "b80e83ffd119ecb89cb51ffc4c48f05356cdee5b07e744c16a92dde90eff6216"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 10,
+      "sha256": "b93da197b2b0d961ce525e27b6258f62deebf21bf8c9a42fbf071e80ddfdc280"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 11,
+      "sha256": "6845b0822c62ba595763834aa0d4b20be280093f10820e89bd5e20db91b4e457"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 12,
+      "sha256": "f07f5165cc26786e1b2a0e5f3169986f4e71b1d2b85ddbb5c06e8f1976a78547"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 13,
+      "sha256": "f079692983676bc0882ad5e4d9a3da6ab3cb15dc554d1803a24bae0c32e81896"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 14,
+      "sha256": "6027a03a99351974952c369a49230edf7c7312c4f96d04d0636ef324786d4f9e"
+    },
+    {
+      "source_path": "语言/Assembly/调用与返回指令.md",
+      "index": 15,
+      "sha256": "9b24cb8ce241903b88712f05cabd4237616148702834d4b0b7ad2661aee2bb60"
+    },
+    {
+      "source_path": "语言/C/C 函数基础.md",
+      "index": 1,
+      "sha256": "f76def2749d2704c35d7f5ac134fa5b69abb559e435f9aff0e2b51cd9f330298"
+    },
+    {
+      "source_path": "语言/C/C 函数基础.md",
+      "index": 2,
+      "sha256": "6cc322546b769c89265d7cea15d8f6b74e144f6d8dfb1d5e5ed3d95d530a4f97"
+    },
+    {
+      "source_path": "语言/C/C 函数基础.md",
+      "index": 3,
+      "sha256": "72ea2cdfe76110e679ccafb3dab55ba81240131e7ceda3bf9aa8aeee828a591c"
+    },
+    {
+      "source_path": "语言/C/C 函数基础.md",
+      "index": 4,
+      "sha256": "627db13144487166c0c4d09a91ce460acae17fdd35c11d3bb982d3aeda108fb3"
+    },
+    {
+      "source_path": "语言/C/C 函数基础.md",
+      "index": 5,
+      "sha256": "f5479fb1781dd09ee02402bbea178eb1a8ef9c4f578852fa090834ae4de9e9f0"
+    },
+    {
+      "source_path": "语言/C/C 字符串与字符串函数.md",
+      "index": 1,
+      "sha256": "9f2de8b6f1196eb0a7d4ad04c7234b5a3aa3b306d75c092eca762f4c0801d65d"
+    },
+    {
+      "source_path": "语言/C/C 字符串与字符串函数.md",
+      "index": 2,
+      "sha256": "b0f6d78e112bfc4b5fbd524cbd24e977d9297c1b8760bff34ee75d11a050447d"
+    },
+    {
+      "source_path": "语言/C/C 字符串与字符串函数.md",
+      "index": 3,
+      "sha256": "d6b757ee0e8f94636faa69d5a3d6cbd707c4459f9bcfabb84264fa80cef934d0"
+    },
+    {
+      "source_path": "语言/C/C 字符串与字符串函数.md",
+      "index": 4,
+      "sha256": "4f9f21d645079d6fe05a2c72f19b72201ace24ccaecbe71994119c18576f1d4f"
+    },
+    {
+      "source_path": "语言/C/C 字符串与字符串函数.md",
+      "index": 5,
+      "sha256": "00ec6de5de8e01ffd9a3ec3c9c9c202c8eb9da2e420c086c5f499be70e5ad614"
+    },
+    {
+      "source_path": "语言/C/C 字符串与字符串函数.md",
+      "index": 6,
+      "sha256": "7411c0ccc589c1bc230695969b8d3316a512119f87e4ed50b85824f4cf4694f6"
+    },
+    {
+      "source_path": "语言/C/C 字符串与字符串函数.md",
+      "index": 7,
+      "sha256": "be71b73a2ea593739420f4eef2e53ca8f4b983ffda36eb7d0c05c1a39e9db308"
+    },
+    {
+      "source_path": "语言/C/C 字符串与字符串函数.md",
+      "index": 8,
+      "sha256": "99a5494b5ddb7a666e4928c3576353e31bb34cf325068d712a5d8abe1c47769b"
+    },
+    {
+      "source_path": "语言/C/C 字符串与字符串函数.md",
+      "index": 9,
+      "sha256": "bcfe36ceb4cbb6a0e7bc547fe3eaa3a749ad128b9ef72ed3fbe86cd971d21f2d"
+    },
+    {
+      "source_path": "语言/C/C 文件输入输出函数.md",
+      "index": 1,
+      "sha256": "6fe1d8223ba742416dac0021795c857a8ec486def3a4b8eda1282d9bfccca709"
+    },
+    {
+      "source_path": "语言/C/C 文件输入输出函数.md",
+      "index": 2,
+      "sha256": "58ac51fe3081ce7a930d1c4d3e8252f750d0a8f5ccf7ed76a5c8a8198e5f8c05"
+    },
+    {
+      "source_path": "语言/C/C 文件输入输出函数.md",
+      "index": 3,
+      "sha256": "c5dc3a7796bccd845e9bbcdfa53bd7469150253268078bd32465c93011f472c4"
+    },
+    {
+      "source_path": "语言/C/C 文件输入输出函数.md",
+      "index": 4,
+      "sha256": "7aee63354cfcbdd04b4b9c330643a1fc3ac7abbc95314f3471aed58eb85ed860"
+    },
+    {
+      "source_path": "语言/C/C 文件输入输出函数.md",
+      "index": 5,
+      "sha256": "fc679ac802333e980ced144a340ee8663b603d463d3c473018b13b741fdb0155"
+    },
+    {
+      "source_path": "语言/C/C 结构体.md",
+      "index": 1,
+      "sha256": "1ab3c24ac2303963e38b2969cde8cbc4b9096e7fbf0daab493afb065b9609c05"
+    },
+    {
+      "source_path": "语言/C/C 结构体.md",
+      "index": 2,
+      "sha256": "e9c8843a4490a925a6751ad889c71f8b1687aaeb937ed2ab0935ea94b106d6d1"
+    },
+    {
+      "source_path": "语言/C/C 结构体.md",
+      "index": 3,
+      "sha256": "dd2aa4dc3d3cf9e09bd83660103d928a64894505d7d1047469c2bfadd1beb757"
+    },
+    {
+      "source_path": "语言/C/C 结构体.md",
+      "index": 4,
+      "sha256": "c7e7896396d39475966c82fa3e91ec6db5ebc378a749bbb33123859d8c404ac5"
+    },
+    {
+      "source_path": "语言/C/C 结构体.md",
+      "index": 5,
+      "sha256": "63163e9e7bb9f6f05f404b34c4a7f1306928b33d785b7baa414e0ce6534d5381"
+    },
+    {
+      "source_path": "语言/C/Linux IO 基础.md",
+      "index": 1,
+      "sha256": "73cefc9ebe3c8dff346212018fe236f899a1e68c2b29ad43aa96ab00d0635757"
+    },
+    {
+      "source_path": "语言/C/Linux IO 基础.md",
+      "index": 2,
+      "sha256": "af29186b7afc2c54b3fbce6d11871ac69019bc5d5e6a9bc22033c7b42e9081bd"
+    },
+    {
+      "source_path": "语言/C/Linux IO 基础.md",
+      "index": 3,
+      "sha256": "8bc46eed11acdd5ceb1af603cb0b168621c4fb50579a39c65d89e4de2cf8e954"
+    },
+    {
+      "source_path": "语言/C/Linux IO 基础.md",
+      "index": 4,
+      "sha256": "ce6f3fb5c8d2fcbad4ac852493ee51dc5680e915a5b75e2cc999d8388511f1d4"
+    },
+    {
+      "source_path": "语言/C/Linux IO 基础.md",
+      "index": 5,
+      "sha256": "809777e8029e31bf0f71c9e9a46107cfaf2594c4e530314db398419831aa8679"
+    },
+    {
+      "source_path": "语言/C/Linux IO 基础.md",
+      "index": 6,
+      "sha256": "921e4006ae74e05356c00ea4b9ac336908ec61c1cea5e29e9fbcc497c9511564"
+    },
+    {
+      "source_path": "语言/C/Linux IO 控制与文件描述符.md",
+      "index": 1,
+      "sha256": "a2fa025af19e7d81fd6e685119191e29cf9ca6d4d1fd395f205073b396d95fa2"
+    },
+    {
+      "source_path": "语言/C/Linux IO 控制与文件描述符.md",
+      "index": 2,
+      "sha256": "606c02ee674bf310a218b85ca3f4ff9f226696d56e145d5ce01b0b49fe9a16b3"
+    },
+    {
+      "source_path": "语言/C/Linux IO 控制与文件描述符.md",
+      "index": 3,
+      "sha256": "1e443a03ed63262411e1daf695fabaa86f8065827ecc5ec938fec57c10334a33"
+    },
+    {
+      "source_path": "语言/C/Linux IO 控制与文件描述符.md",
+      "index": 4,
+      "sha256": "b2c7c255c0742e2feebf77add32eb71923cd138230fa6ee78a545735d7db3794"
+    },
+    {
+      "source_path": "语言/C/Linux IO 控制与文件描述符.md",
+      "index": 5,
+      "sha256": "c82d78d1166e1dcc64bc6826b471ba21f34468c8e629b24bc76efd32f5d76582"
+    },
+    {
+      "source_path": "语言/C/Linux IO 高级操作.md",
+      "index": 1,
+      "sha256": "bc2db46908654c0ecd5430907799b895f0b518d7209187140830af7f7614c861"
+    },
+    {
+      "source_path": "语言/C/Linux IO 高级操作.md",
+      "index": 2,
+      "sha256": "5e31474ac16d632ef055debdae00617229400310c151e4ddaebea04bd990aa8d"
+    },
+    {
+      "source_path": "语言/C/Linux IO 高级操作.md",
+      "index": 3,
+      "sha256": "b3e92cd5f1994529d200d34c4195ba150b5680f375c5c39cfbb3571750040651"
+    },
+    {
+      "source_path": "语言/C/Linux 进程基础.md",
+      "index": 1,
+      "sha256": "31148834f7770a2fc64a0ed8a6ac72b8e2dfc1a6fb74ee3ec66409d937140ff0"
+    },
+    {
+      "source_path": "语言/C/Linux 进程基础.md",
+      "index": 2,
+      "sha256": "4290a0ac13756e2083579189b76bb2bf111cd3532ad8a0bcc823ede769370f11"
+    },
+    {
+      "source_path": "语言/Cpp.md",
+      "index": 1,
+      "sha256": "35e30d17f63076c10a788514bb8c87f04d944621d0ebb771eade47ff35eb0bfc"
+    },
+    {
+      "source_path": "语言/Cpp.md",
+      "index": 2,
+      "sha256": "46ba883acc04086cc5d5afaf94fd3dac732ee66613a734b0dde15216da02443d"
+    },
+    {
+      "source_path": "语言/Cpp.md",
+      "index": 3,
+      "sha256": "fde400819e5c73ddf1bd4b98f2af6c6c5993b21b6df3002b06a539c74face2a9"
+    },
+    {
+      "source_path": "语言/Cpp.md",
+      "index": 4,
+      "sha256": "02c23a6432d295a5c5a14fe082b33ad683ada78453c162ef539d7e232a77f6f0"
+    },
+    {
+      "source_path": "语言/Cpp.md",
+      "index": 5,
+      "sha256": "e278c91436161e72ada344daa5a46da70a2bd9ea26970f822ca468cb909dbf98"
+    },
+    {
+      "source_path": "语言/Cpp.md",
+      "index": 6,
+      "sha256": "71ec9110b6bf5d5a12b1367a99520044de6ab2893d4a90b71ca7aa8b1563b59a"
+    },
+    {
+      "source_path": "语言/Cpp.md",
+      "index": 7,
+      "sha256": "565dcbff765d199edcac9d83e818753717a847a0f5b5a71824c4fbfbc3848ccf"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 1,
+      "sha256": "9629b603c66047e28d530238491bd3b715185ad3fb14c7512d096c47496401c9"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 2,
+      "sha256": "60b4575771bd57e8c82c6a470f976df4444783e6decf4dab538fac2852474043"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 3,
+      "sha256": "61e2988a0fe96d08dc476e786f8bd473f55331fe6d266f0d54f8be160c62270b"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 4,
+      "sha256": "eb81c227354969645362952ffdf6f6050dbea7ffb3411fdff33f44e4037077df"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 5,
+      "sha256": "26bb41bbb358320ed06612c9b87a7fa9c6f931ca843ec319e91944f58ff179d6"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 6,
+      "sha256": "e9fc608065b1395da9a7deafc492e9bc951f6f6e577ee51fa06b5d69d06f1cb4"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 7,
+      "sha256": "94ae8d22510c09bcb04fd2aeb5604e39ac3510ffb8b29356299726e8fb381a28"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 8,
+      "sha256": "2b50dcd1700b4c609f90843ff184870698cc8559d132fae8d51d5de1601af858"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 9,
+      "sha256": "3ec8bd9520172f883ef6d75d901e0a69464342ae006c3da4715b5070c92a6c70"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 10,
+      "sha256": "3fea7f100febf9a110227aea2562524878a51f137fdb22b81166ed169ba0beb4"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 11,
+      "sha256": "5c841db928229d9386afda4c771f543dae31c9828f94c4e9a8b2506c16ec7ffc"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 12,
+      "sha256": "b03a15d27767aaf367d21b16ce69def7ad7f61afffee7ea4fbef47e32dfa4b7b"
+    },
+    {
+      "source_path": "语言/Python/Python 列表.md",
+      "index": 13,
+      "sha256": "276955c0adf0c83d26ab23e03734b622fea92b47c6767790e643a601e2cd85ba"
+    },
+    {
+      "source_path": "语言/Python/Python 基础输入输出与类型转换.md",
+      "index": 1,
+      "sha256": "db06ac9eab53ce09cad500786490149da8db46fb675daee26e5fc7a2ad9777e6"
+    },
+    {
+      "source_path": "语言/Python/Python 基础输入输出与类型转换.md",
+      "index": 2,
+      "sha256": "2b2d6388adf9674da783abc9716fb9965b1ffdd535c27f973e75b6d936e1a6e9"
+    },
+    {
+      "source_path": "语言/Python/Python 基础输入输出与类型转换.md",
+      "index": 3,
+      "sha256": "66755e0cf8df48f0b808f6ec98e3e24fefbcc12f506039743bf0d6a9759482b9"
+    },
+    {
+      "source_path": "语言/Python/Python 基础输入输出与类型转换.md",
+      "index": 4,
+      "sha256": "c8d91c3f4afb02341f64cb70b9ad7d4d8ea6e4bd4012c57e39c553a16a1e0405"
+    },
+    {
+      "source_path": "语言/Python/Python 基础输入输出与类型转换.md",
+      "index": 5,
+      "sha256": "1b65b4bdc489c61201e1efb953b466f39bff9411e89b098fe178a3d10776c85c"
+    },
+    {
+      "source_path": "语言/Python/Python 基础输入输出与类型转换.md",
+      "index": 6,
+      "sha256": "be808aeedfd622aab459f64be8c020d118dcd03c2c285bcb0410e9c87eef229c"
+    },
+    {
+      "source_path": "语言/Python/Python 基础输入输出与类型转换.md",
+      "index": 7,
+      "sha256": "cb73daed6be3a058e53988a1d4e12043402239faae35bbaf5115310241419454"
+    },
+    {
+      "source_path": "语言/Python/Python 基础输入输出与类型转换.md",
+      "index": 8,
+      "sha256": "45ccdc1c2560e09ee4c31138fb7436cfc85b171e1913f19507749dc9f56ad682"
+    },
+    {
+      "source_path": "语言/Python/Python 基础输入输出与类型转换.md",
+      "index": 9,
+      "sha256": "2f58b42f396a9d732779087efdf8953aad0a1e64f26821c9ce6f506e71345393"
+    },
+    {
+      "source_path": "语言/Python/Python 字符串、函数与库.md",
+      "index": 1,
+      "sha256": "9fa6d622b1300615c62dd2c9ff4908aa62fed2179672605b0fa0a5eb147a15c7"
+    },
+    {
+      "source_path": "语言/Python/Python 字符串、函数与库.md",
+      "index": 2,
+      "sha256": "5a8fd7666fdcef5b5511cb8d0bfd56856175e10aa2e505d631a854da25095fcc"
+    },
+    {
+      "source_path": "语言/Python/Python 字符串、函数与库.md",
+      "index": 3,
+      "sha256": "8a31e0055ac95baf00a86ab23debd8b4cb3070d9e1751052dcca8a0e881edd77"
+    },
+    {
+      "source_path": "语言/Python/Python 字符串、函数与库.md",
+      "index": 4,
+      "sha256": "df29bca794f49c210e82c7ad2f31e4e5db7d39a70530ed303c67bc983fc3239d"
+    }
+  ]
+}
