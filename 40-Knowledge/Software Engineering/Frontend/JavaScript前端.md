@@ -5,7 +5,7 @@ type: note
 created: 2023-05-03
 area: Frontend
 status: active
-review: pending
+review: reviewed
 tags:
   - javascript
 ---

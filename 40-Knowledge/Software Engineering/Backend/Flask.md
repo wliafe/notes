@@ -5,7 +5,7 @@ type: note
 created: 2024-03-06
 area: Backend
 status: active
-review: pending
+review: reviewed
 tags:
   - python
 ---

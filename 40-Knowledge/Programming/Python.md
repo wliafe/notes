@@ -5,7 +5,7 @@ type: note
 created: 2020-12-09
 area: Programming
 status: active
-review: pending
+review: reviewed
 tags:
   - python
 ---

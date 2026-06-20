@@ -5,7 +5,7 @@ type: note
 created: 2025-05-26
 area: Developer Tools
 status: active
-review: pending
+review: reviewed
 tags:
   - windows
   - linux

@@ -5,7 +5,7 @@ type: note
 created: 2021-01-25
 area: Developer Tools
 status: active
-review: pending
+review: reviewed
 tags:
   - c
   - cpp

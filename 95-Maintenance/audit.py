@@ -294,6 +294,8 @@ def validate_templates(errors: list[str]) -> None:
             errors.append(
                 f"90-Templates/{name}.md 缺少类型属性：{', '.join(sorted(missing_fields))}"
             )
+        if name in {"Knowledge Note", "MOC"} and meta.get("review") != "reviewed":
+            errors.append(f"90-Templates/{name}.md 必须默认使用 review: reviewed")
 
 
 def validate_obsidian(errors: list[str]) -> None:
@@ -334,6 +336,58 @@ def validate_obsidian(errors: list[str]) -> None:
         }:
             if key not in types:
                 errors.append(f".obsidian/types.json 缺少属性类型：{key}")
+
+
+def validate_review_queue(
+    metadata: dict[Path, dict[str, object]],
+    paths: dict[str, Path],
+    titles: dict[str, list[Path]],
+    errors: list[str],
+) -> int:
+    queue_path = ROOT / "95-Maintenance/待复核.md"
+    if not queue_path.exists():
+        return 0
+
+    _, body = parse_frontmatter(queue_path.read_text())
+    task_items = re.findall(r"^- \[([ xX])\] \[\[([^\]]+)\]\]\s*$", body, re.M)
+    completed_items = [raw for marker, raw in task_items if marker.lower() == "x"]
+    if completed_items:
+        errors.append(
+            "待复核清单不应保留已完成项："
+            + ", ".join(f"[[{raw}]]" for raw in completed_items)
+        )
+    raw_items = [raw for marker, raw in task_items if marker == " "]
+    queued: list[Path] = []
+    for raw in raw_items:
+        resolved = resolve_note(raw, paths, titles)
+        if resolved is None:
+            errors.append(f"待复核清单项无法解析：[[{raw}]]")
+        else:
+            queued.append(resolved)
+
+    duplicates = sorted(path for path, count in Counter(queued).items() if count > 1)
+    if duplicates:
+        errors.append("待复核清单存在重复项：" + ", ".join(rel(path) for path in duplicates))
+
+    pending = {
+        path
+        for path, meta in metadata.items()
+        if meta.get("review") == "pending"
+    }
+    queued_set = set(queued)
+    missing = sorted(pending - queued_set)
+    stale = sorted(queued_set - pending)
+    if missing:
+        errors.append(
+            "review: pending 但未加入待复核清单："
+            + ", ".join(rel(path) for path in missing)
+        )
+    if stale:
+        errors.append(
+            "待复核清单项未设置 review: pending："
+            + ", ".join(rel(path) for path in stale)
+        )
+    return len(pending)
 
 
 def load_topic_merge_manifest(errors: list[str]) -> dict[str, object]:
@@ -586,6 +640,7 @@ def main() -> int:
 
     validate_templates(errors)
     validate_obsidian(errors)
+    pending_reviews = validate_review_queue(metadata, paths, titles, errors)
     validate_topic_merge(merge_manifest, graph, bodies, errors)
     legacy_notes, legacy_assets, legacy_code_blocks = validate_manifest(
         merge_manifest, notes, errors
@@ -597,6 +652,7 @@ def main() -> int:
     print(f"- 遗留笔记映射：{legacy_notes} 篇")
     print(f"- 附件：{len(assets)} 个（遗留基线 {legacy_assets}）")
     print(f"- 遗留代码块：{legacy_code_blocks} / 642 个")
+    print(f"- 待复核笔记：{pending_reviews} 篇")
     print(f"- 模板：{len(list((ROOT / '90-Templates').glob('*.md')))} 个")
     if warnings:
         print("\n警告：")

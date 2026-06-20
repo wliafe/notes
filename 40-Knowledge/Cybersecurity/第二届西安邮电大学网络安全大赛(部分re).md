@@ -5,7 +5,7 @@ type: note
 created: 2021-10-16
 area: Cybersecurity
 status: active
-review: pending
+review: reviewed
 tags:
   - c
   - cpp

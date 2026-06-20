@@ -5,7 +5,7 @@ type: note
 created: "{{date:YYYY-MM-DD}}"
 area: ""
 status: active
-review: pending
+review: reviewed
 tags: []
 ---
 ## 摘要

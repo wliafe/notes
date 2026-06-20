@@ -5,7 +5,7 @@ type: note
 created: 2020-11-28
 area: Programming
 status: active
-review: pending
+review: reviewed
 tags:
   - c
 ---

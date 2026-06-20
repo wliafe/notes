@@ -6,7 +6,7 @@ type: note
 created: 2025-07-04
 area: Developer Tools
 status: active
-review: pending
+review: reviewed
 tags:
   - javascript
 ---

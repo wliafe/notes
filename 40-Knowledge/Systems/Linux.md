@@ -5,7 +5,7 @@ type: note
 created: 2022-04-04
 area: Systems
 status: active
-review: pending
+review: reviewed
 tags:
   - linux
 ---

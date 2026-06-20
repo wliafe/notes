@@ -5,7 +5,7 @@ type: note
 created: 2025-08-05
 area: Developer Tools
 status: active
-review: pending
+review: reviewed
 tags:
   - python
 ---

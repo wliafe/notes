@@ -5,7 +5,7 @@ type: note
 created: 2022-09-15
 area: Backend
 status: active
-review: pending
+review: reviewed
 tags:
   - java
 ---
