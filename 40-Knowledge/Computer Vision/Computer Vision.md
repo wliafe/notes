@@ -12,6 +12,10 @@ tags: []
 
 Computer Vision 主题索引。
 
+## Research Direction
+
+- [[20-Projects/MSGG/MSGG|MSGG — RGB-IR Scene Graph Generation]]
+
 ## Topics
 
-_尚无笔记。_
+- [[20-Projects/MSGG/Resources/MM Relation Head Forward 结构分析|MM Relation Head Forward 结构分析]]

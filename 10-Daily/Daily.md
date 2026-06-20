@@ -13,3 +13,5 @@ tags: []
 Daily Notes 入口。每日笔记按 `YYYY/MM/YYYY-MM-DD.md` 存放。
 
 ## Notes
+
+- [[10-Daily/2026/06/2026-06-20|2026-06-20]]
